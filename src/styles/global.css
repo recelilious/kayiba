@@ -52,7 +52,8 @@ button {
   min-height: 100dvh;
   max-width: 880px;
   margin: 0 auto;
-  padding: var(--s4) var(--s4) calc(var(--s5) + var(--safe-bottom));
+  /* 预留固定输入栏的高度，避免最后一条记录被挡住 */
+  padding: var(--s4) var(--s4) calc(112px + var(--safe-bottom));
 }
 
 .main {
@@ -365,7 +366,18 @@ button {
 /* ---------- 输入 ---------- */
 
 .guess-input {
-  position: relative;
+  position: fixed;
+  left: 50%;
+  bottom: 0;
+  z-index: 30;
+  width: min(880px, 100%);
+  padding: var(--s3) var(--s4) calc(var(--s3) + var(--safe-bottom));
+  transform: translateX(-50%);
+  background: rgba(11, 11, 12, 0.92);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-top: 1px solid var(--gray-800);
+  box-shadow: 0 -12px 32px rgba(0, 0, 0, 0.45);
 }
 
 .guess-field {
@@ -398,7 +410,7 @@ button {
   left: 0;
   right: 0;
   z-index: 10;
-  max-height: 260px;
+  max-height: min(52vh, 320px);
   margin: 0;
   padding: var(--s1);
   list-style: none;
