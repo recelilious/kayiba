@@ -50,7 +50,7 @@ button {
   flex-direction: column;
   gap: var(--s5);
   min-height: 100dvh;
-  max-width: 880px;
+  max-width: var(--content-max);
   margin: 0 auto;
   /* 预留固定输入栏的高度，避免最后一条记录被挡住 */
   padding: var(--s4) var(--s4) calc(112px + var(--safe-bottom));
@@ -370,7 +370,7 @@ button {
   left: 50%;
   bottom: 0;
   z-index: 30;
-  width: min(880px, 100%);
+  width: min(var(--content-max), 100%);
   padding: var(--s3) var(--s4) calc(var(--s3) + var(--safe-bottom));
   transform: translateX(-50%);
   background: rgba(11, 11, 12, 0.92);

@@ -51,4 +51,13 @@
     'Segoe UI', sans-serif;
 
   --safe-bottom: env(safe-area-inset-bottom, 0px);
+
+  /* 内容区宽度：宽屏上放宽，避免七栏挤在中间 */
+  --content-max: 1100px;
+}
+
+@media (min-width: 1440px) {
+  :root {
+    --content-max: 1280px;
+  }
 }
