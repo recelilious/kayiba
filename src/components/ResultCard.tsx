@@ -1,4 +1,4 @@
-import { regionLabel } from '../game/feedback'
+import { formatEarnings, formatHonors } from '../game/feedback'
 import type { Player } from '../game/types'
 
 interface Props {
@@ -23,12 +23,12 @@ export function ResultCard({ target, won, attempts, onReplay, onHome }: Props) {
 
       <dl className="result-facts">
         <div>
-          <dt>战队</dt>
-          <dd>{target.team}</dd>
+          <dt>地区</dt>
+          <dd>{target.country}</dd>
         </div>
         <div>
-          <dt>地区</dt>
-          <dd>{regionLabel(target.region)}</dd>
+          <dt>当前战队</dt>
+          <dd>{target.team}</dd>
         </div>
         <div>
           <dt>位置</dt>
@@ -39,12 +39,16 @@ export function ResultCard({ target, won, attempts, onReplay, onHome }: Props) {
           <dd>{target.debutYear}</dd>
         </div>
         <div>
-          <dt>标志传奇</dt>
-          <dd>{target.legends[0]?.name ?? '—'}</dd>
+          <dt>世界赛</dt>
+          <dd>{formatHonors(target.placements, 'S')}</dd>
         </div>
         <div>
-          <dt>最高荣誉</dt>
-          <dd>{target.honor}</dd>
+          <dt>A 级赛事</dt>
+          <dd>{formatHonors(target.placements, 'A')}</dd>
+        </div>
+        <div>
+          <dt>生涯奖金</dt>
+          <dd>{formatEarnings(target.earnings)}</dd>
         </div>
       </dl>
 

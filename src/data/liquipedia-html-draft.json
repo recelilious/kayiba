@@ -1,0 +1,1198 @@
+{
+  "_meta": {
+    "fetchedAt": "2026-11-24T11:01:45.457Z",
+    "source": "https://liquipedia.net/apexlegends/api.php (action=parse)"
+  },
+  "players": [
+    {
+      "title": "3Mz",
+      "found": true,
+      "currentTeam": "DreamFire",
+      "nationality": "China",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "November 15, 1998 (age 28)",
+      "earnings": 88047,
+      "earningsText": "$88,047",
+      "history": [
+        {
+          "range": "2019-05-28 — 2020-03-27",
+          "team": "DreamFire",
+          "raw": "DreamFire"
+        },
+        {
+          "range": "2020-03-27 — 2020-06-09",
+          "team": "DreamFire",
+          "raw": "DreamFire(Inactive)"
+        },
+        {
+          "range": "2020-03-27 — 2020-06-09",
+          "team": "A3E",
+          "raw": "› A3E(Loan)"
+        },
+        {
+          "range": "2020-06-09 — 2023-01-02",
+          "team": "DreamFire",
+          "raw": "DreamFire"
+        },
+        {
+          "range": "2023-01-02 — 2023-01-21",
+          "team": "Mountain Sea Gaming",
+          "raw": "Mountain Sea Gaming"
+        },
+        {
+          "range": "2023-01-21 — 2025-05-15",
+          "team": "DreamFire",
+          "raw": "DreamFire"
+        },
+        {
+          "range": "2025-05-15 — 2025-08-20",
+          "team": "EDward Gaming",
+          "raw": "EDward Gaming"
+        },
+        {
+          "range": "2025-08-20 — 2026-04-09",
+          "team": "DreamFire",
+          "raw": "DreamFire"
+        },
+        {
+          "range": "2026-04-09 — 2026-08-02",
+          "team": "Weibo Gaming",
+          "raw": "Weibo Gaming"
+        },
+        {
+          "range": "2026-08-07 — Present",
+          "team": "DreamFire",
+          "raw": "DreamFire"
+        }
+      ],
+      "results": [
+        {
+          "date": "2024-09-01",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "DF",
+          "prize": "$14,000"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "DF",
+          "prize": "$80,000"
+        },
+        {
+          "date": "2022-01-16",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - APAC South",
+          "team": "DF",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2020-09-13",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - APAC South",
+          "team": "DF",
+          "prize": "$10,200"
+        }
+      ]
+    },
+    {
+      "title": "Kasssa",
+      "found": true,
+      "currentTeam": "VK Gaming",
+      "nationality": "China",
+      "status": "Active",
+      "yearsActive": "2020 – Present",
+      "born": "August 27, 1999 (age 27)",
+      "earnings": 269363,
+      "earningsText": "$269,363",
+      "history": [
+        {
+          "range": "2020-01-?? — 2020-04-??",
+          "team": "Invictus Gaming",
+          "raw": "Invictus Gaming"
+        },
+        {
+          "range": "2020-07-13 — 2020-08-30",
+          "team": "Invictus Gaming 2",
+          "raw": "Invictus Gaming 2"
+        },
+        {
+          "range": "2021-06-15 — 2023-02-19",
+          "team": "MDY",
+          "raw": "MDY"
+        },
+        {
+          "range": "2023-02-19 — Present",
+          "team": "VK Gaming",
+          "raw": "VK Gaming(Co-Owner)"
+        },
+        {
+          "range": "2023-02-19 — Present",
+          "team": "VK Gaming",
+          "raw": "VK Gaming"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-06-06",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South",
+          "team": "VKG",
+          "prize": "$12,000"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs",
+          "team": "VKG",
+          "prize": "$600,000"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South",
+          "team": "VKG",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship",
+          "team": "VKG",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "VKG",
+          "prize": "$30,000"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South",
+          "team": "VKG",
+          "prize": "$12,000"
+        }
+      ]
+    },
+    {
+      "title": "QQ",
+      "found": true,
+      "currentTeam": "Wolves Esports",
+      "nationality": "Taiwan",
+      "status": "Active",
+      "yearsActive": "2022 – Present",
+      "born": "October 13, 2006 (age 20)",
+      "earnings": 297841,
+      "earningsText": "$297,841",
+      "history": [
+        {
+          "range": "2022-09-30 — 2022-11-23",
+          "team": "MDY",
+          "raw": "MDY"
+        },
+        {
+          "range": "2022-12-05 — 2023-01-20",
+          "team": "Moon Sun",
+          "raw": "Moon Sun(Tryout)"
+        },
+        {
+          "range": "2023-01-23 — 2024-05-12",
+          "team": "AGL",
+          "raw": "AGL"
+        },
+        {
+          "range": "2024-05-19 — 2025-08-08",
+          "team": "VK Gaming",
+          "raw": "VK Gaming"
+        },
+        {
+          "range": "2025-08-08 — 2025-11-28",
+          "team": "VK Gaming",
+          "raw": "VK Gaming(Inactive)"
+        },
+        {
+          "range": "2025-11-28 — 2026-07-11",
+          "team": "VK Gaming",
+          "raw": "VK Gaming"
+        },
+        {
+          "range": "2026-08-07 — Present",
+          "team": "Wolves Esports",
+          "raw": "Wolves Esports"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-11-01",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs",
+          "team": "WOL",
+          "prize": "$80,000"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - APAC South",
+          "team": "WOL",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2026-06-06",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South",
+          "team": "VKG",
+          "prize": "$12,000"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs",
+          "team": "VKG",
+          "prize": "$600,000"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South",
+          "team": "VKG",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship",
+          "team": "VKG",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "VKG",
+          "prize": "$30,000"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South",
+          "team": "VKG",
+          "prize": "$12,000"
+        }
+      ]
+    },
+    {
+      "title": "Roieee",
+      "found": true,
+      "currentTeam": "Deep Cross Gaming",
+      "nationality": "Taiwan",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "October 26, 2000 (age 26)",
+      "earnings": 96993,
+      "earningsText": "$96,993",
+      "history": [
+        {
+          "range": "2019-06-29 — 2019-07-31",
+          "team": "NovaMS",
+          "raw": "NovaMS(Stand-in)"
+        },
+        {
+          "range": "2019-10-14 — 2019-10-28",
+          "team": "Emcee Asia",
+          "raw": "Emcee Asia"
+        },
+        {
+          "range": "2020-05-18 — 2020-06-27",
+          "team": "CChaha",
+          "raw": "CChaha"
+        },
+        {
+          "range": "2020-09-07 — 2020-10-06",
+          "team": "RSP",
+          "raw": "RSP(Tryout)"
+        },
+        {
+          "range": "2020-10-06 — 2020-12-21",
+          "team": "RedSea Perangai Gaming",
+          "raw": "RedSea Perangai Gaming"
+        },
+        {
+          "range": "2020-11-01 — 2020-12-20",
+          "team": "Valor Esports",
+          "raw": "Valor Esports"
+        },
+        {
+          "range": "2021-02-04 — 2021-02-24",
+          "team": "Perangai",
+          "raw": "Perangai(Stand-in)"
+        },
+        {
+          "range": "2021-04-05 — 2021-??-??",
+          "team": "K7 Esports",
+          "raw": "K7 Esports"
+        },
+        {
+          "range": "2021-09-14 — 2021-10-20",
+          "team": "RET",
+          "raw": "› RET(Loan)"
+        },
+        {
+          "range": "2021-10-20 — 2023-01-02",
+          "team": "DreamFire",
+          "raw": "DreamFire(Stand-in)"
+        },
+        {
+          "range": "2023-01-02 — 2023-01-21",
+          "team": "Mountain Sea Gaming",
+          "raw": "Mountain Sea Gaming"
+        },
+        {
+          "range": "2023-01-21 — 2024-04-17",
+          "team": "DreamFire",
+          "raw": "DreamFire"
+        },
+        {
+          "range": "2024-05-11 — 2024-05-14",
+          "team": "AGL",
+          "raw": "AGL"
+        },
+        {
+          "range": "2024-06-09 — 2025-08-22",
+          "team": "lonely let gone",
+          "raw": "lonely let gone"
+        },
+        {
+          "range": "2025-08-22 — Present",
+          "team": "Deep Cross Gaming",
+          "raw": "Deep Cross Gaming"
+        }
+      ],
+      "results": [
+        {
+          "date": "2024-12-15",
+          "place": 4,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - APAC South",
+          "team": "LLG",
+          "prize": "$8,000"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "DF",
+          "prize": "$80,000"
+        },
+        {
+          "date": "2022-01-16",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - APAC South",
+          "team": "DF",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2021-03-27",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - APAC South",
+          "team": "StinkyB",
+          "prize": "$6,720"
+        }
+      ]
+    },
+    {
+      "title": "Pite",
+      "found": true,
+      "currentTeam": "Pork Xiaolongbao Xpert",
+      "nationality": "China",
+      "status": "Active",
+      "yearsActive": "2020 – Present",
+      "born": "July 25, 2000 Zhanjiang, China (age 26)",
+      "earnings": 78408,
+      "earningsText": "$78,408",
+      "history": [
+        {
+          "range": "2019-12-?? — 2020-04-07",
+          "team": "Golden Sage",
+          "raw": "Golden Sage"
+        },
+        {
+          "range": "2020-09-?? — 2021-07-14",
+          "team": "Golden Sage",
+          "raw": "Golden Sage"
+        },
+        {
+          "range": "2021-07-14 — 2021-10-25",
+          "team": "AXE",
+          "raw": "AXE"
+        },
+        {
+          "range": "2021-10-25 — 2023-01-02",
+          "team": "DreamFire",
+          "raw": "DreamFire(Stand-in)"
+        },
+        {
+          "range": "2023-01-02 — 2023-01-21",
+          "team": "Mountain Sea Gaming",
+          "raw": "Mountain Sea Gaming"
+        },
+        {
+          "range": "2023-01-21 — 2025-05-15",
+          "team": "DreamFire",
+          "raw": "DreamFire"
+        },
+        {
+          "range": "2025-05-15 — 2025-08-20",
+          "team": "EDward Gaming",
+          "raw": "EDward Gaming"
+        },
+        {
+          "range": "2025-08-20 — 2025-08-21",
+          "team": "DreamFire",
+          "raw": "DreamFire"
+        },
+        {
+          "range": "2025-08-21 — 2026-03-05",
+          "team": "DreamFire",
+          "raw": "DreamFire(Inactive)"
+        },
+        {
+          "range": "2026-03-05 — Present",
+          "team": "Pork Xiaolongbao Xpert",
+          "raw": "Pork Xiaolongbao Xpert"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-06-06",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South",
+          "team": "PXX",
+          "prize": "$9,000"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "DF",
+          "prize": "$14,000"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "DF",
+          "prize": "$80,000"
+        },
+        {
+          "date": "2022-01-16",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - APAC South",
+          "team": "DF",
+          "prize": "$50,000"
+        }
+      ]
+    },
+    {
+      "title": "CrazyCong",
+      "found": true,
+      "currentTeam": "Wolves Esports",
+      "nationality": "China",
+      "status": "Active",
+      "yearsActive": "2021 – Present",
+      "born": "June 13, 2004 (age 22)",
+      "earnings": 134385,
+      "earningsText": "$134,385",
+      "history": [
+        {
+          "range": "2022-08-01 — 2023-11-10",
+          "team": "LG Gaming",
+          "raw": "LG Gaming"
+        },
+        {
+          "range": "2023-11-10 — 2024-09-15",
+          "team": "SaWeiQi E-sport",
+          "raw": "SaWeiQi E-sport"
+        },
+        {
+          "range": "2024-09-15",
+          "team": "Retired",
+          "raw": "Retired"
+        },
+        {
+          "range": "2024-11-17 — 2025-02-12",
+          "team": "Weibo Gaming",
+          "raw": "Weibo Gaming"
+        },
+        {
+          "range": "2025-02-12 — 2025-05-20",
+          "team": "DaBing SaWeiQi",
+          "raw": "DaBing SaWeiQi"
+        },
+        {
+          "range": "2025-05-20 — Present",
+          "team": "Wolves Esports",
+          "raw": "Wolves Esports"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-11-01",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs",
+          "team": "WOL",
+          "prize": "$80,000"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - APAC South",
+          "team": "WOL",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2026-07-11",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 1 Playoffs",
+          "team": "WOL",
+          "prize": "$80,000"
+        },
+        {
+          "date": "2026-06-06",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South",
+          "team": "WOL",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 23,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship",
+          "team": "WOL",
+          "prize": "$10,000"
+        },
+        {
+          "date": "2025-10-11",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - APAC South",
+          "team": "WOL",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs",
+          "team": "WOL",
+          "prize": "$125,000"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 6,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South",
+          "team": "WOL",
+          "prize": "$6,000"
+        },
+        {
+          "date": "2024-12-15",
+          "place": 1,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - APAC South",
+          "team": "WBG",
+          "prize": "$40,000"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 5,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South",
+          "team": "SWQ",
+          "prize": "$7,000"
+        }
+      ]
+    },
+    {
+      "title": "LqDuD",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "China",
+      "status": "Retired",
+      "yearsActive": "2020 – 2026",
+      "born": "June 7, 2000 (age 26)",
+      "earnings": 257420,
+      "earningsText": "$257,420",
+      "history": [
+        {
+          "range": "2022-07-20 — 2024-05-24",
+          "team": "MDY White",
+          "raw": "MDY White"
+        },
+        {
+          "range": "2024-05-24 — 2024-09-04",
+          "team": "LGD Gaming",
+          "raw": "LGD Gaming"
+        },
+        {
+          "range": "2024-09-04 — 2024-09-15",
+          "team": "MDY White",
+          "raw": "MDY White"
+        },
+        {
+          "range": "2024-09-25 — 2026-07-11",
+          "team": "VK Gaming",
+          "raw": "VK Gaming"
+        },
+        {
+          "range": "2026-07-11",
+          "team": "Retired",
+          "raw": "Retired"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-06-06",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South",
+          "team": "VKG",
+          "prize": "$12,000"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 25,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship",
+          "team": "VKG",
+          "prize": "$10,000"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs",
+          "team": "VKG",
+          "prize": "$600,000"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South",
+          "team": "VKG",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship",
+          "team": "VKG",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 15,
+          "tier": "S",
+          "event": "Esports World Cup 2024",
+          "team": "LGD",
+          "prize": "$18,500"
+        },
+        {
+          "date": "2024-03-10",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - APAC South",
+          "team": "MDYW",
+          "prize": "$9,000"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 18,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "MDYW",
+          "prize": "$20,000"
+        }
+      ]
+    },
+    {
+      "title": "WenXx",
+      "found": true,
+      "currentTeam": "Wolves Esports",
+      "nationality": "China",
+      "status": "Active",
+      "yearsActive": "2020 – Present",
+      "born": "",
+      "earnings": 99778,
+      "earningsText": "$99,778",
+      "history": [
+        {
+          "range": "2020-06-02 — 2022-01-31",
+          "team": "April",
+          "raw": "April"
+        },
+        {
+          "range": "2022-08-09 — 2023-02-08",
+          "team": "Final Crazy",
+          "raw": "Final Crazy"
+        },
+        {
+          "range": "2023-02-08 — 2024-09-15",
+          "team": "SaWeiQi E-sport",
+          "raw": "SaWeiQi E-sport"
+        },
+        {
+          "range": "2024-09-15",
+          "team": "Retired",
+          "raw": "Retired"
+        },
+        {
+          "range": "2025-02-12 — 2025-05-20",
+          "team": "DaBing SaWeiQi",
+          "raw": "DaBing SaWeiQi"
+        },
+        {
+          "range": "2025-05-20 — Present",
+          "team": "Wolves Esports",
+          "raw": "Wolves Esports"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-09-13",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - APAC South",
+          "team": "WOL",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2026-07-11",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 1 Playoffs",
+          "team": "WOL",
+          "prize": "$80,000"
+        },
+        {
+          "date": "2026-06-06",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South",
+          "team": "WOL",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 23,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship",
+          "team": "WOL",
+          "prize": "$10,000"
+        },
+        {
+          "date": "2025-10-11",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - APAC South",
+          "team": "WOL",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs",
+          "team": "WOL",
+          "prize": "$125,000"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 6,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South",
+          "team": "WOL",
+          "prize": "$6,000"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 5,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South",
+          "team": "SWQ",
+          "prize": "$7,000"
+        }
+      ]
+    },
+    {
+      "title": "Nirvana",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "China",
+      "status": "Active",
+      "yearsActive": "2020 – 2023 2025 – Present",
+      "born": "August 26, 2000 (age 26)",
+      "earnings": 6073,
+      "earningsText": "$6,073",
+      "history": [
+        {
+          "range": "2020-07-09 — 2022-07-10",
+          "team": "For The Dream",
+          "raw": "For The Dream"
+        },
+        {
+          "range": "2021-12-16 — 2023-08-08",
+          "team": "LG Gaming",
+          "raw": "LG Gaming"
+        },
+        {
+          "range": "2023-08-08 — 2024-01-10",
+          "team": "Wonton Dumpling",
+          "raw": "Wonton Dumpling"
+        },
+        {
+          "range": "2024-05-22 — 2024-10-16",
+          "team": "DreamFire",
+          "raw": "DreamFire(Substitute)"
+        },
+        {
+          "range": "2025-03-20 — 2025-05-20",
+          "team": "MDY Black",
+          "raw": "MDY Black"
+        },
+        {
+          "range": "2025-08-05 — 2025-09-17",
+          "team": "Wolves Esports",
+          "raw": "Wolves Esports"
+        },
+        {
+          "range": "2026-03-11 — 2026-04-02",
+          "team": "MDY Black",
+          "raw": "MDY Black"
+        },
+        {
+          "range": "2026-04-02 — 2026-07-31",
+          "team": "EDward Gaming",
+          "raw": "EDward Gaming"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-06-06",
+          "place": 14,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South",
+          "team": "EDG",
+          "prize": "$3,000"
+        },
+        {
+          "date": "2025-10-11",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - APAC South",
+          "team": "WOL",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 12,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South",
+          "team": "MDYB",
+          "prize": "$3,000"
+        },
+        {
+          "date": "2023-04-29",
+          "place": 21,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - APAC South",
+          "team": "LG",
+          "prize": "$750"
+        }
+      ]
+    },
+    {
+      "title": "GuGu",
+      "found": true,
+      "currentTeam": "Wolves Esports",
+      "nationality": "China",
+      "status": "Active",
+      "yearsActive": "2021 – Present",
+      "born": "January 4, 2005 (age 21)",
+      "earnings": 14107,
+      "earningsText": "$14,107",
+      "history": [
+        {
+          "range": "2021-04-21 — 2021-06-18",
+          "team": "Team NoFear",
+          "raw": "Team NoFear"
+        },
+        {
+          "range": "2021-11-04 — 2022-03-11",
+          "team": "MDY",
+          "raw": "MDY"
+        },
+        {
+          "range": "2022-03-11 — 2022-11-11",
+          "team": "MDY Black",
+          "raw": "MDY Black"
+        },
+        {
+          "range": "2022-11-15 — 2023-03-23",
+          "team": "world not fair",
+          "raw": "world not fair"
+        },
+        {
+          "range": "2023-03-23 — 2024-05-16",
+          "team": "Wonton Dumpling",
+          "raw": "Wonton Dumpling"
+        },
+        {
+          "range": "2024-05-16 — 2024-08-14",
+          "team": "Weibo Gaming",
+          "raw": "Weibo Gaming"
+        },
+        {
+          "range": "2024-09-27 — 2025-04-12",
+          "team": "DreamFire",
+          "raw": "DreamFire(Substitute)"
+        },
+        {
+          "range": "2025-04-12 — 2025-05-19",
+          "team": "Wonton Dumpling",
+          "raw": "Wonton Dumpling"
+        },
+        {
+          "range": "2025-08-19 — 2025-12-10",
+          "team": "JD Gaming",
+          "raw": "JD Gaming"
+        },
+        {
+          "range": "2025-12-10 — 2026-01-06",
+          "team": "XNY",
+          "raw": "XNY"
+        },
+        {
+          "range": "2026-01-06 — 2026-02-24",
+          "team": "Cupid eSports",
+          "raw": "Cupid eSports"
+        },
+        {
+          "range": "2026-04-01 — Present",
+          "team": "WOL",
+          "raw": "WOL(Substitute)"
+        }
+      ],
+      "results": [
+        {
+          "date": "2025-10-11",
+          "place": 12,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - APAC South",
+          "team": "JDG",
+          "prize": "$3,000"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 38,
+          "tier": "S",
+          "event": "Esports World Cup 2024",
+          "team": "WBG",
+          "prize": "$2,500"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 12,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South",
+          "team": "WBG",
+          "prize": "$3,000"
+        },
+        {
+          "date": "2024-03-10",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - APAC South",
+          "team": "WTD",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2023-04-29",
+          "place": 10,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - APAC South",
+          "team": "WTD",
+          "prize": "$1,500"
+        }
+      ]
+    },
+    {
+      "title": "BoLin",
+      "found": true,
+      "currentTeam": "Titan Esports Club Academy",
+      "nationality": "Taiwan",
+      "status": "Active",
+      "yearsActive": "2020 – Present",
+      "born": "December 30, 2002 (age 23)",
+      "earnings": 24003,
+      "earningsText": "$24,003",
+      "history": [
+        {
+          "range": "2021-07-23 — 2021-11-08",
+          "team": "AFTERMATH Taiwan",
+          "raw": "AFTERMATH Taiwan"
+        },
+        {
+          "range": "2021-11-15 — 2021-12-06",
+          "team": "Perihelion",
+          "raw": "Perihelion(Stand-in)"
+        },
+        {
+          "range": "2022-01-24 — 2022-03-10",
+          "team": "Valor Esports",
+          "raw": "Valor Esports"
+        },
+        {
+          "range": "2022-03-10 — 2022-07-22",
+          "team": "ANT Esports Club",
+          "raw": "ANT Esports Club"
+        },
+        {
+          "range": "2022-07-22 — 2023-03-09",
+          "team": "ANT",
+          "raw": "ANT(Inactive)"
+        },
+        {
+          "range": "2022-08-04 — 2022-09-03",
+          "team": "StinkyB",
+          "raw": "StinkyB"
+        },
+        {
+          "range": "2022-09-19 — 2022-12-03",
+          "team": "DNZ",
+          "raw": "DNZ"
+        },
+        {
+          "range": "2022-12-05 — 2023-01-20",
+          "team": "Moon Sun",
+          "raw": "Moon Sun(Tryout)"
+        },
+        {
+          "range": "2023-01-23 — 2023-07-25",
+          "team": "AGL",
+          "raw": "AGL"
+        },
+        {
+          "range": "2023-10-19 — 2024-02-27",
+          "team": "DNZ",
+          "raw": "DNZ"
+        },
+        {
+          "range": "2024-02-27 — 2025-05-14",
+          "team": "Kill Devil",
+          "raw": "Kill Devil"
+        },
+        {
+          "range": "2025-05-14 — 2025-08-05",
+          "team": "Weibo Gaming",
+          "raw": "Weibo Gaming"
+        },
+        {
+          "range": "2025-08-06 — 2025-08-20",
+          "team": "EDward Gaming",
+          "raw": "EDward Gaming"
+        },
+        {
+          "range": "2025-08-20 — 2026-04-09",
+          "team": "DreamFire",
+          "raw": "DreamFire"
+        },
+        {
+          "range": "2026-04-09 — 2026-08-02",
+          "team": "Weibo Gaming",
+          "raw": "Weibo Gaming"
+        },
+        {
+          "range": "2026-08-13 — 2026-10-26",
+          "team": "Titan Esports Club",
+          "raw": "Titan Esports Club"
+        },
+        {
+          "range": "2026-10-26 — Present",
+          "team": "TEC Academy",
+          "raw": "TEC Academy"
+        }
+      ],
+      "results": [
+        {
+          "date": "2024-09-01",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "DF",
+          "prize": "$14,000"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 11,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South",
+          "team": "KD",
+          "prize": "$3,000"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 20,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs",
+          "team": "DF",
+          "prize": "$9,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 29,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "DF",
+          "prize": "$10,200"
+        }
+      ]
+    }
+  ]
+}

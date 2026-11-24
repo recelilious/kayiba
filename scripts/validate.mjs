@@ -10,23 +10,22 @@ import { fileURLToPath } from 'node:url'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const DATA_PATH = resolve(__dirname, '../src/data/players.json')
 
-const REGIONS = new Set(['CN', 'TW', 'HK', 'MO', 'INTL'])
-const ROLES = new Set(['IGL', '突破', '支援', '自由人'])
-const HONORS = new Set(['世界冠军', '国际决赛', '国内冠军', '无'])
+const ROLES = new Set(['指挥', '输出'])
 const STATUSES = new Set(['active', 'retired', 'streamer'])
-const CLASSES = new Set(['突击', '游击', '侦察', '控制', '支援'])
+const EVENT_TIERS = new Set(['S', 'A'])
 const REQUIRED = [
   'id',
   'name',
   'aliases',
   'search',
-  'region',
+  'country',
   'team',
+  'teamHistory',
   'role',
-  'legends',
   'debutYear',
   'status',
-  'honor',
+  'placements',
+  'earnings',
   'tier',
   'verified',
   'sources',
@@ -59,25 +58,34 @@ for (const p of players) {
   if (seenIds.has(p.id)) errors.push(`重复 id: ${p.id}`)
   seenIds.add(p.id)
 
-  if (p.region && !REGIONS.has(p.region)) errors.push(`${tag}: 非法 region ${p.region}`)
   if (p.role && !ROLES.has(p.role)) errors.push(`${tag}: 非法 role ${p.role}`)
-  if (p.honor && !HONORS.has(p.honor)) errors.push(`${tag}: 非法 honor ${p.honor}`)
   if (p.status && !STATUSES.has(p.status)) errors.push(`${tag}: 非法 status ${p.status}`)
   if (![1, 2, 3].includes(p.tier)) errors.push(`${tag}: tier 必须是 1/2/3`)
+
+  if (!p.country) errors.push(`${tag}: country 为空`)
+  if (!p.team) errors.push(`${tag}: team 为空`)
 
   if (typeof p.debutYear === 'number' && (p.debutYear < 2014 || p.debutYear > 2026)) {
     warnings.push(`${tag}: debutYear ${p.debutYear} 可疑`)
   }
 
-  if (!Array.isArray(p.legends) || p.legends.length === 0) {
-    warnings.push(`${tag}: legends 为空（Liquipedia 常缺此字段，需人工补）`)
+  if (typeof p.earnings !== 'number' || p.earnings < 0) {
+    errors.push(`${tag}: earnings 必须是非负数`)
+  } else if (p.earnings === 0) {
+    warnings.push(`${tag}: earnings 为 0，可能没抓到`)
+  }
+
+  if (!Array.isArray(p.placements)) {
+    errors.push(`${tag}: placements 必须是数组`)
   } else {
-    for (const l of p.legends) {
-      if (!l?.name) errors.push(`${tag}: 传奇缺 name`)
-      if (!CLASSES.has(l?.class)) errors.push(`${tag}: 传奇 ${l?.name} 的 class 非法: ${l?.class}`)
+    for (const pl of p.placements) {
+      if (!EVENT_TIERS.has(pl?.tier)) errors.push(`${tag}: 战绩 tier 非法 ${pl?.tier}`)
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(pl?.date ?? '')) errors.push(`${tag}: 战绩日期非法 ${pl?.date}`)
+      if (!(pl?.place >= 1 && pl?.place <= 10)) errors.push(`${tag}: 战绩名次越界 ${pl?.place}`)
     }
   }
 
+  if (!Array.isArray(p.aliases) || p.aliases.length === 0) warnings.push(`${tag}: 没有别名`)
   if (!Array.isArray(p.sources) || p.sources.length === 0) warnings.push(`${tag}: 没有 sources`)
   if (!p.verified) warnings.push(`${tag}: 未核实`)
 
@@ -92,22 +100,32 @@ for (const p of players) {
 }
 
 for (const [key, owners] of aliasOwners) {
-  if (owners.size > 1) {
-    errors.push(`别名冲突 "${key}" 同时指向: ${[...owners].join(', ')}`)
-  }
+  if (owners.size > 1) errors.push(`别名冲突 "${key}" 同时指向: ${[...owners].join(', ')}`)
 }
 
 const byTier = { 1: 0, 2: 0, 3: 0 }
 for (const p of players) if (p.tier in byTier) byTier[p.tier] += 1
+
 const verified = players.filter((p) => p.verified).length
+const withS = players.filter((p) => (p.placements ?? []).some((x) => x.tier === 'S')).length
+const withA = players.filter((p) => (p.placements ?? []).some((x) => x.tier === 'A')).length
+const withMoney = players.filter((p) => (p.earnings ?? 0) > 0).length
 
 console.log(`选手总数: ${players.length} / 目标 ${target}`)
 console.log(`已核实: ${verified}   未核实: ${players.length - verified}`)
 console.log(`分档: 简单 ${byTier[1]} · 中等 ${byTier[2]} · 困难 ${byTier[3]}`)
+console.log(`有 S 级战绩: ${withS}   有 A 级战绩: ${withA}   有奖金数据: ${withMoney}`)
 
 if (warnings.length > 0) {
   console.log(`\n⚠ 警告 ${warnings.length} 条:`)
-  for (const w of warnings) console.log(`  - ${w}`)
+  const grouped = new Map()
+  for (const w of warnings) {
+    if (!grouped.has(w.split(':')[1]?.trim())) grouped.set(w.split(':')[1]?.trim(), [])
+    grouped.get(w.split(':')[1]?.trim()).push(w.split(':')[0])
+  }
+  for (const [reason, ids] of grouped) {
+    console.log(`  - ${reason} (${ids.length}): ${ids.join(', ')}`)
+  }
 }
 
 if (errors.length > 0) {

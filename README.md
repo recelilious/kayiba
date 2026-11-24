@@ -30,17 +30,19 @@ npm run build:single  # 产出 dist-single/index.html（单文件离线包）
 
 ## 数据
 
-`src/data/players.json` 目前是骨架数据（8 人），**不可直接上台**。`cn / region / debutYear / legends` 已按 Liquipedia 校正，`team / role / honor` 仍待核实。
+`src/data/players.json` 是**生成文件，不要手改**。人工字段（难度分档、位置、备注）写在 `src/data/manual.json`。
 
-三个脚本：
+数据流水线：
 
-| 命令 | 作用 |
-|---|---|
-| `npm run fetch:liq` | 按 `src/data/roster.txt` 从 Liquipedia 抓取，产出 `liquipedia-draft.json` |
-| `npm run search:index` | 生成拼音 / 首字母搜索索引，写回 `players.json` |
-| `npm run validate` | 校验 schema、重复 id、别名冲突、未核实项 |
+| 命令 | 作用 | 限速 |
+|---|---|---|
+| `npm run fetch:liq` | wikitext 抓取：姓名、别名、国家、出道年 | 1 req / 2s |
+| `npm run fetch:html` | 渲染页抓取：当前战队、队伍履历、奖金、S/A 级战绩 | **1 req / 30s** |
+| `npm run build:players` | 合并两份抓取 + 人工字段，生成 `players.json` | — |
+| `npm run search:index` | 生成拼音 / 首字母搜索索引 | — |
+| `npm run validate` | 校验 schema、重复 id、别名冲突、未核实项 | — |
 
-传奇职业映射在 `src/data/legends.json`，版本更新时需要核对。
+50 名选手的 `fetch:html` 约需 25 分钟，属于构建期一次性任务。
 
 完整设计见 [TECH-PLAN.md](TECH-PLAN.md)。
 

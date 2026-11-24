@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
-import { compare, matchesQuery } from './feedback'
-import type { Player } from './types'
+import { bestPlace, compare, formatHonors, matchesQuery } from './feedback'
+import type { Player, Placement } from './types'
 
 function player(over: Partial<Player> = {}): Player {
   return {
@@ -8,13 +8,14 @@ function player(over: Partial<Player> = {}): Player {
     name: 'X',
     aliases: [],
     search: [],
-    region: 'CN',
+    country: '中国',
     team: 'T',
-    role: 'IGL',
-    legends: [{ name: 'Bangalore', class: '突击' }],
+    teamHistory: [],
+    role: '输出',
     debutYear: 2020,
     status: 'active',
-    honor: '无',
+    placements: [],
+    earnings: 0,
     tier: 1,
     verified: false,
     sources: [],
@@ -22,51 +23,94 @@ function player(over: Partial<Player> = {}): Player {
   }
 }
 
+function place(date: string, place: number, tier: 'S' | 'A' = 'S'): Placement {
+  return { date, place, tier, event: 'E' }
+}
+
 describe('compare', () => {
-  it('完全相同的选手全绿', () => {
+  it('完全相同的选手 7 项全绿', () => {
     const p = player()
     const fb = compare(p, p)
-    expect(fb).toHaveLength(6)
+    expect(fb).toHaveLength(7)
     expect(fb.every((f) => f.match === 'correct')).toBe(true)
   })
 
-  it('大陆与台湾算接近，与海外算错误', () => {
-    const tw = player({ region: 'TW' })
-    const intl = player({ region: 'INTL' })
-    const target = player({ region: 'CN' })
-    expect(compare(tw, target)[0].match).toBe('close')
-    expect(compare(intl, target)[0].match).toBe('wrong')
+  it('地区不同直接判灰', () => {
+    const fb = compare(player({ country: '日本' }), player({ country: '中国' }))
+    expect(fb[0].match).toBe('wrong')
   })
 
-  it('位置相邻算接近', () => {
-    const fb = compare(player({ role: '突破' }), player({ role: '自由人' }))
-    expect(fb[2].match).toBe('close')
+  it('当前战队相同为绿', () => {
+    const fb = compare(player({ team: 'VKG' }), player({ team: 'VKG' }))
+    expect(fb[1].match).toBe('correct')
   })
 
-  it('出道年份 ±2 年内算接近并给出箭头', () => {
-    const fb = compare(player({ debutYear: 2019 }), player({ debutYear: 2021 }))
-    expect(fb[4].match).toBe('close')
-    expect(fb[4].hint).toBe('up')
+  it('一方当前战队是对方旧战队时为黄', () => {
+    const guess = player({ team: 'DreamFire' })
+    const target = player({ team: 'EDG', teamHistory: ['DreamFire'] })
+    expect(compare(guess, target)[1].match).toBe('close')
   })
 
-  it('年份差距大时箭头仍然给出', () => {
-    const fb = compare(player({ debutYear: 2015 }), player({ debutYear: 2022 }))
-    expect(fb[4].match).toBe('wrong')
-    expect(fb[4].hint).toBe('up')
+  it('战队履历没有交集则判灰', () => {
+    const guess = player({ team: 'Wolves', teamHistory: ['VKG'] })
+    const target = player({ team: 'EDG', teamHistory: ['DreamFire'] })
+    expect(compare(guess, target)[1].match).toBe('wrong')
   })
 
-  it('同定位不同传奇算接近', () => {
-    const fb = compare(
-      player({ legends: [{ name: 'Octane', class: '游击' }] }),
-      player({ legends: [{ name: 'Wraith', class: '游击' }] }),
-    )
-    expect(fb[3].match).toBe('close')
+  it('位置两档：相同绿，不同灰', () => {
+    expect(compare(player({ role: '指挥' }), player({ role: '指挥' }))[2].match).toBe('correct')
+    expect(compare(player({ role: '指挥' }), player({ role: '输出' }))[2].match).toBe('wrong')
   })
 
-  it('荣誉相邻档算接近', () => {
-    const fb = compare(player({ honor: '国内冠军' }), player({ honor: '国际决赛' }))
-    expect(fb[5].match).toBe('close')
-    expect(fb[5].hint).toBe('up')
+  it('出道年份相差 2 年以内为黄，超过为灰', () => {
+    expect(compare(player({ debutYear: 2020 }), player({ debutYear: 2022 }))[3].match).toBe('close')
+    expect(compare(player({ debutYear: 2020 }), player({ debutYear: 2023 }))[3].match).toBe('wrong')
+  })
+
+  it('世界赛战绩：都为空算绿，一方为空算灰', () => {
+    expect(compare(player(), player())[4].match).toBe('correct')
+    expect(compare(player(), player({ placements: [place('2024-01-01', 3)] }))[4].match).toBe('wrong')
+  })
+
+  it('世界赛按最高名次比对，差 2 以内为黄', () => {
+    const guess = player({ placements: [place('2023-01-01', 5), place('2024-01-01', 9)] })
+    const target = player({ placements: [place('2024-06-01', 3)] })
+    expect(compare(guess, target)[4].match).toBe('close')
+  })
+
+  it('A 级赛事独立比对', () => {
+    const guess = player({ placements: [place('2023-01-01', 1, 'A')] })
+    const target = player({ placements: [place('2023-01-01', 1, 'A')] })
+    expect(compare(guess, target)[5].match).toBe('correct')
+  })
+
+  it('奖金相同为绿，同量级为黄，差一个量级为灰', () => {
+    expect(compare(player({ earnings: 88000 }), player({ earnings: 88000 }))[6].match).toBe('correct')
+    expect(compare(player({ earnings: 88000 }), player({ earnings: 120000 }))[6].match).toBe('close')
+    expect(compare(player({ earnings: 88000 }), player({ earnings: 900000 }))[6].match).toBe('wrong')
+  })
+})
+
+describe('formatHonors', () => {
+  it('按参赛时间先后排序，只保留 10 名以内，重复名次保留', () => {
+    const list = [
+      place('2024-01-01', 9),
+      place('2022-01-01', 3),
+      place('2023-01-01', 3),
+      place('2025-01-01', 13),
+    ]
+    expect(formatHonors(list, 'S')).toBe('#3 #3 #9')
+  })
+
+  it('没有战绩时显示破折号', () => {
+    expect(formatHonors([], 'S')).toBe('—')
+  })
+})
+
+describe('bestPlace', () => {
+  it('取最小名次，忽略 10 名以外', () => {
+    expect(bestPlace([place('2024-01-01', 13), place('2023-01-01', 7)], 'S')).toBe(7)
+    expect(bestPlace([place('2024-01-01', 13)], 'S')).toBe(null)
   })
 })
 
@@ -83,20 +127,14 @@ describe('matchesQuery', () => {
     expect(matchesQuery(p, '3MZ')).toBe(true)
   })
 
-  it('命中中文昵称与别名', () => {
+  it('命中中文昵称、别名与拼音', () => {
     expect(matchesQuery(p, '三明')).toBe(true)
     expect(matchesQuery(p, '王虎')).toBe(true)
-  })
-
-  it('命中拼音索引', () => {
     expect(matchesQuery(p, 'sanming')).toBe(true)
   })
 
-  it('空查询返回全部', () => {
+  it('空查询返回全部，不匹配返回 false', () => {
     expect(matchesQuery(p, '   ')).toBe(true)
-  })
-
-  it('不匹配返回 false', () => {
     expect(matchesQuery(p, 'zzzz')).toBe(false)
   })
 })

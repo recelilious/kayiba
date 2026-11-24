@@ -148,6 +148,7 @@ function buildDraft(title, fields) {
     birthDate: clean(fields.birth_date),
     legends,
     alsId: clean(fields.apexlegendsstatus),
+    allKeys: Object.keys(fields).sort(),
     raw,
   }
 }

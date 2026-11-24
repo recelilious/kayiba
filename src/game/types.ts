@@ -1,18 +1,20 @@
-export type Region = 'CN' | 'TW' | 'HK' | 'MO' | 'INTL'
-
-export type Role = 'IGL' | '突破' | '支援' | '自由人'
-
-export type LegendClass = '突击' | '游击' | '侦察' | '控制' | '支援'
-
-export type Honor = '世界冠军' | '国际决赛' | '国内冠军' | '无'
+/** 位置简化为两档：指挥（IGL）与输出 */
+export type Role = '指挥' | '输出'
 
 export type Status = 'active' | 'retired' | 'streamer'
 
 export type Tier = 1 | 2 | 3
 
-export interface Legend {
-  name: string
-  class: LegendClass
+/** Liquipedia 的赛事分级：S 级算世界赛，A 级算 A 级赛事 */
+export type EventTier = 'S' | 'A'
+
+export interface Placement {
+  /** YYYY-MM-DD */
+  date: string
+  /** 名次，只保留 10 名以内 */
+  place: number
+  tier: EventTier
+  event: string
 }
 
 export interface Player {
@@ -21,20 +23,33 @@ export interface Player {
   cn?: string
   aliases: string[]
   search: string[]
-  region: Region
+  /** 中文国名。中国大陆、港澳台统一为「中国」 */
+  country: string
+  /** 当前战队 */
   team: string
+  /** 曾经待过、现在不在的战队 */
+  teamHistory: string[]
   role: Role
-  legends: Legend[]
   debutYear: number
   status: Status
-  honor: Honor
+  /** 只包含 S / A 级、10 名以内的战绩 */
+  placements: Placement[]
+  /** 生涯奖金，美元 */
+  earnings: number
   tier: Tier
   verified: boolean
   notes?: string
   sources: string[]
 }
 
-export type AttrKey = 'region' | 'team' | 'role' | 'legend' | 'debutYear' | 'honor'
+export type AttrKey =
+  | 'country'
+  | 'team'
+  | 'role'
+  | 'debutYear'
+  | 'worldHonor'
+  | 'aTierHonor'
+  | 'earnings'
 
 export type Match = 'correct' | 'close' | 'wrong'
 
@@ -43,7 +58,6 @@ export interface Feedback {
   label: string
   value: string
   match: Match
-  hint?: 'up' | 'down'
 }
 
 export interface Guess {

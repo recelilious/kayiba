@@ -254,13 +254,30 @@ button {
 
 .fb-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: var(--s2);
+}
+
+/* 移动端：荣誉与奖金内容较长，各占满一行 */
+.fb-key-worldHonor,
+.fb-key-aTierHonor,
+.fb-key-earnings {
+  grid-column: span 2;
 }
 
 @media (min-width: 720px) {
   .fb-grid {
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(7, 1fr);
+  }
+
+  .fb-key-worldHonor,
+  .fb-key-aTierHonor,
+  .fb-key-earnings {
+    grid-column: auto;
+  }
+
+  .fb-value {
+    font-size: 13px;
   }
 }
 

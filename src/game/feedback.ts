@@ -1,133 +1,122 @@
-import type { AttrKey, Feedback, Honor, Player, Region, Role } from './types'
+import type { AttrKey, EventTier, Feedback, Match, Placement, Player } from './types'
 
 export const ATTR_LABELS: Record<AttrKey, string> = {
-  region: '地区',
+  country: '地区',
   team: '战队',
   role: '位置',
-  legend: '传奇',
   debutYear: '出道',
-  honor: '荣誉',
+  worldHonor: '世界赛',
+  aTierHonor: 'A级赛',
+  earnings: '奖金',
 }
 
-export const ATTR_ORDER: AttrKey[] = ['region', 'team', 'role', 'legend', 'debutYear', 'honor']
+export const ATTR_ORDER: AttrKey[] = [
+  'country',
+  'team',
+  'role',
+  'debutYear',
+  'worldHonor',
+  'aTierHonor',
+  'earnings',
+]
 
-/** 大中华区算「接近」，海外单独一组 */
-const REGION_GROUP: Record<Region, 'CN' | 'INTL'> = {
-  CN: 'CN',
-  TW: 'CN',
-  HK: 'CN',
-  MO: 'CN',
-  INTL: 'INTL',
+export function formatEarnings(amount: number): string {
+  return '$' + amount.toLocaleString('en-US')
 }
 
-/** 位置相近关系（对称） */
-const ROLE_NEIGHBORS: Record<Role, Role[]> = {
-  IGL: ['支援'],
-  突破: ['自由人'],
-  支援: ['IGL'],
-  自由人: ['突破'],
+/** 取出某一级别、10 名以内的战绩，按参赛时间先后排序 */
+export function honorsOf(placements: Placement[], tier: EventTier): Placement[] {
+  return placements
+    .filter((p) => p.tier === tier && p.place <= 10)
+    .sort((a, b) => a.date.localeCompare(b.date))
 }
 
-const HONOR_RANK: Record<Honor, number> = {
-  世界冠军: 3,
-  国际决赛: 2,
-  国内冠军: 1,
-  无: 0,
+export function formatHonors(placements: Placement[], tier: EventTier): string {
+  const list = honorsOf(placements, tier)
+  return list.length === 0 ? '—' : list.map((p) => `#${p.place}`).join(' ')
 }
 
-export function regionLabel(r: Region): string {
-  switch (r) {
-    case 'CN':
-      return '中国大陆'
-    case 'TW':
-      return '中国台湾'
-    case 'HK':
-      return '中国香港'
-    case 'MO':
-      return '中国澳门'
-    case 'INTL':
-      return '海外'
-  }
+/** 用于比对的「最高名次」，没有则返回 null */
+export function bestPlace(placements: Placement[], tier: EventTier): number | null {
+  const list = honorsOf(placements, tier)
+  return list.length === 0 ? null : Math.min(...list.map((p) => p.place))
 }
 
-function regionMatch(guess: Region, target: Region) {
-  if (guess === target) return 'correct' as const
-  return REGION_GROUP[guess] === REGION_GROUP[target] ? ('close' as const) : ('wrong' as const)
+function honorMatch(guess: number | null, target: number | null): Match {
+  if (guess === null && target === null) return 'correct'
+  if (guess === null || target === null) return 'wrong'
+  if (guess === target) return 'correct'
+  return Math.abs(guess - target) <= 2 ? 'close' : 'wrong'
 }
 
-function roleMatch(guess: Role, target: Role) {
-  if (guess === target) return 'correct' as const
-  return ROLE_NEIGHBORS[guess].includes(target) ? ('close' as const) : ('wrong' as const)
+/** 金额相同为绿，同一量级（10 倍以内）为黄 */
+function earningsMatch(guess: number, target: number): Match {
+  if (guess === target) return 'correct'
+  if (guess <= 0 || target <= 0) return 'wrong'
+  return Math.abs(Math.log10(guess / target)) < 1 ? 'close' : 'wrong'
 }
 
-function yearMatch(guess: number, target: number) {
-  const diff = target - guess
-  if (diff === 0) return { match: 'correct' as const, hint: undefined }
-  if (Math.abs(diff) <= 2) {
-    return { match: 'close' as const, hint: diff > 0 ? ('up' as const) : ('down' as const) }
-  }
-  return { match: 'wrong' as const, hint: diff > 0 ? ('up' as const) : ('down' as const) }
+/** 当前战队相同为绿；一方当前战队是另一方「曾经待过、现在不在」的战队为黄 */
+function teamMatch(guess: Player, target: Player): Match {
+  if (guess.team === target.team) return 'correct'
+  if (target.teamHistory.includes(guess.team)) return 'close'
+  if (guess.teamHistory.includes(target.team)) return 'close'
+  return 'wrong'
 }
 
-function honorMatch(guess: Honor, target: Honor) {
-  const g = HONOR_RANK[guess]
-  const t = HONOR_RANK[target]
-  if (g === t) return { match: 'correct' as const, hint: undefined }
-  return {
-    match: Math.abs(g - t) === 1 ? ('close' as const) : ('wrong' as const),
-    hint: t > g ? ('up' as const) : ('down' as const),
-  }
+function yearMatch(guess: number, target: number): Match {
+  const diff = Math.abs(target - guess)
+  if (diff === 0) return 'correct'
+  return diff <= 2 ? 'close' : 'wrong'
 }
 
 /**
- * 纯函数：把一次猜测与答案比对，返回 6 项反馈。
- * 不读取任何外部状态，便于单测。
+ * 纯函数：把一次猜测与答案比对，返回 7 项反馈。
+ * 不做任何 I/O，也不依赖随机数，便于单测。
  */
 export function compare(guess: Player, target: Player): Feedback[] {
-  const gl = guess.legends[0]
-  const tl = target.legends[0]
-  const year = yearMatch(guess.debutYear, target.debutYear)
-  const honor = honorMatch(guess.honor, target.honor)
-
   return [
     {
-      key: 'region',
-      label: ATTR_LABELS.region,
-      value: regionLabel(guess.region),
-      match: regionMatch(guess.region, target.region),
+      key: 'country',
+      label: ATTR_LABELS.country,
+      value: guess.country,
+      match: guess.country === target.country ? 'correct' : 'wrong',
     },
     {
       key: 'team',
       label: ATTR_LABELS.team,
       value: guess.team,
-      match: guess.team === target.team ? 'correct' : 'wrong',
+      match: teamMatch(guess, target),
     },
     {
       key: 'role',
       label: ATTR_LABELS.role,
       value: guess.role,
-      match: roleMatch(guess.role, target.role),
-    },
-    {
-      key: 'legend',
-      label: ATTR_LABELS.legend,
-      value: gl?.name ?? '—',
-      match:
-        !gl || !tl ? 'wrong' : gl.name === tl.name ? 'correct' : gl.class === tl.class ? 'close' : 'wrong',
+      match: guess.role === target.role ? 'correct' : 'wrong',
     },
     {
       key: 'debutYear',
       label: ATTR_LABELS.debutYear,
       value: String(guess.debutYear),
-      match: year.match,
-      hint: year.hint,
+      match: yearMatch(guess.debutYear, target.debutYear),
     },
     {
-      key: 'honor',
-      label: ATTR_LABELS.honor,
-      value: guess.honor,
-      match: honor.match,
-      hint: honor.hint,
+      key: 'worldHonor',
+      label: ATTR_LABELS.worldHonor,
+      value: formatHonors(guess.placements, 'S'),
+      match: honorMatch(bestPlace(guess.placements, 'S'), bestPlace(target.placements, 'S')),
+    },
+    {
+      key: 'aTierHonor',
+      label: ATTR_LABELS.aTierHonor,
+      value: formatHonors(guess.placements, 'A'),
+      match: honorMatch(bestPlace(guess.placements, 'A'), bestPlace(target.placements, 'A')),
+    },
+    {
+      key: 'earnings',
+      label: ATTR_LABELS.earnings,
+      value: formatEarnings(guess.earnings),
+      match: earningsMatch(guess.earnings, target.earnings),
     },
   ]
 }

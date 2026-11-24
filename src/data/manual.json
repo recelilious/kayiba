@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "note": "人工维护的字段：难度分档、位置、是否核实、备注。构建脚本会把这些合并进 players.json。",
+    "updated": "2026-11-24"
+  },
+  "players": {
+    "3mz": { "tier": 1, "role": "指挥" },
+    "kasssa": { "tier": 1, "role": "指挥" },
+    "qq": { "tier": 1, "role": "输出" },
+    "roieee": { "tier": 1, "role": "输出" },
+    "pite": { "tier": 1, "role": "输出" },
+    "crazycong": { "tier": 2, "role": "指挥" },
+    "lqdud": { "tier": 2, "role": "输出" },
+    "n0name": { "tier": 2, "role": "输出", "notes": "Liquipedia 无页面，需人工补数据" }
+  }
+}

@@ -215,6 +215,21 @@ HTTP 200 · 1043 ms · 单次请求可查 12 个标题
 
 **结论：访问不是问题，归一化才是。** 三个真实问题——标题大小写、少数选手无页面、`role` 无字段。
 
+#### 3.3.3 渲染页能补上 wikitext 拿不到的东西
+
+`history` 在 wikitext 里只有一个 `{{THA}}`，战绩表是 `{{Player achievements table}}`——都是模板，拿不到实际内容。改用 `action=parse` 拿渲染后的 HTML 之后，这些都能解析：
+
+| 数据 | HTML 位置 |
+|---|---|
+| 当前战队 | `.infobox-description` 的「Team:」 |
+| 生涯奖金 | 「Approx. Total Winnings:」 |
+| 队伍履历 | 「History」段落的表格（日期区间 → 战队） |
+| 战绩 | `table.table2__table`，列为 Date / Place / Tier / Tournament / Team / Prize |
+
+Tier 字段直接给出 `S-Tier` / `A-Tier` / `B-Tier`，所以「世界赛 = S 级」的判定不用自己维护赛事清单。
+
+代价：`action=parse` 限速 **1 次 / 30 秒**，50 人约 25 分钟。只在构建期跑一次。
+
 ### 3.4 选手池种子清单（待核实，非最终版）
 
 > 下表仅列出调研中**多源出现**的名字，正式入库前须逐条核实属性。
