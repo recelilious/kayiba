@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-11-24T11:32:07.159Z",
+    "fetchedAt": "2026-11-24T11:57:22.728Z",
     "source": "https://liquipedia.net/apexlegends/api.php"
   },
   "players": [
@@ -3005,6 +3005,2286 @@
         "legends": "horizon",
         "legends2": "catalyst",
         "legends3": "wattson",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "ImperialHal",
+      "found": true,
+      "parsed": true,
+      "id": "ImperialHal",
+      "name": "Phillip Dosen",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [
+        "The CEO",
+        "Ridgewell Hawkes"
+      ],
+      "country": "United States",
+      "debutYear": 2019,
+      "birthDate": "1999-05-31",
+      "legends": [
+        {
+          "name": "Bloodhound",
+          "class": "侦察"
+        }
+      ],
+      "alsId": "1000641526219",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "input",
+        "instagram",
+        "legends",
+        "legends2",
+        "name",
+        "nicknames",
+        "overstat",
+        "reddit",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "ImperialHal",
+        "name": "Phillip Dosen",
+        "birth_date": "1999-05-31",
+        "country": "United States",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "input": "Controller",
+        "nicknames": "The CEO, Ridgewell Hawkes",
+        "apexlegendsstatus": "1000641526219",
+        "apexlegendsstatusalgs": "ImperialHal",
+        "legends": "Bloodhound",
+        "legends2": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Reps",
+      "found": true,
+      "parsed": true,
+      "id": "Reps",
+      "name": "Jordan Wolfe",
+      "romanized": "",
+      "localid": "",
+      "ids": [
+        "David Honeybun",
+        "Sr."
+      ],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2019,
+      "birthDate": "1995-04-23",
+      "legends": [
+        {
+          "name": "Bangalore",
+          "class": "突击"
+        }
+      ],
+      "alsId": "2250191893",
+      "allKeys": [
+        "apexlegendsstatus",
+        "birth_date",
+        "country",
+        "discord",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "instagram",
+        "legends",
+        "legends2",
+        "name",
+        "status",
+        "tiktok",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Reps",
+        "ids": "David Honeybun, Sr.",
+        "name": "Jordan Wolfe",
+        "birth_date": "1995-04-23",
+        "country": "United States",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "2250191893",
+        "legends": "Bangalore",
+        "legends2": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Verhulst",
+      "found": true,
+      "parsed": true,
+      "id": "Verhulst",
+      "name": "Evan Verhulst",
+      "romanized": "",
+      "localid": "",
+      "ids": [
+        "DoubleAV",
+        "Dwayne Pipe"
+      ],
+      "nicknames": [
+        "Big E"
+      ],
+      "country": "United States",
+      "debutYear": 2021,
+      "birthDate": "2002-11-27",
+      "legends": [
+        {
+          "name": "Valkyrie",
+          "class": "游击"
+        }
+      ],
+      "alsId": "1008946185386",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "discord",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "input",
+        "legends",
+        "legends2",
+        "name",
+        "nicknames",
+        "overstat",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Verhulst",
+        "ids": "DoubleAV, Dwayne Pipe",
+        "name": "Evan Verhulst",
+        "birth_date": "2002-11-27",
+        "country": "United States",
+        "status": "Active",
+        "years_active": "2021 – '''Present'''",
+        "nicknames": "Big E",
+        "apexlegendsstatus": "1008946185386",
+        "apexlegendsstatusalgs": "Verhulst",
+        "legends": "Valkyrie",
+        "legends2": "",
+        "input": "controller",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Sweetdreams",
+      "found": true,
+      "parsed": true,
+      "id": "sweetdreams",
+      "name": "Christopher Sexton",
+      "romanized": "",
+      "localid": "",
+      "ids": [
+        "GLANCER",
+        "LOCKEDIN"
+      ],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2019,
+      "birthDate": "1999-07-02",
+      "legends": [
+        {
+          "name": "Bangalore",
+          "class": "突击"
+        }
+      ],
+      "alsId": "1008115679330",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "legends",
+        "legends2",
+        "name",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "sweetdreams",
+        "ids": "GLANCER, LOCKEDIN",
+        "name": "Christopher Sexton",
+        "birth_date": "1999-07-02",
+        "country": "United States",
+        "status": "Active",
+        "apexlegendsstatus": "1008115679330",
+        "apexlegendsstatusalgs": "Sweet",
+        "years_active": "2019 – '''Present'''",
+        "legends": "Bangalore",
+        "legends2": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "HisWattson",
+      "found": true,
+      "parsed": true,
+      "id": "HisWattson",
+      "name": "Jacob McMillin",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2020,
+      "birthDate": "2001-12-29",
+      "legends": [
+        {
+          "name": "Fuse",
+          "class": "突击"
+        },
+        {
+          "name": "Bloodhound",
+          "class": "侦察"
+        },
+        {
+          "name": "Seer",
+          "class": "侦察"
+        }
+      ],
+      "alsId": "1009067960369",
+      "allKeys": [
+        "apexlegendsstatus",
+        "birth_date",
+        "country",
+        "discord",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "overstat",
+        "retired",
+        "status",
+        "tiktok",
+        "twitch",
+        "twitter",
+        "website",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "HisWattson",
+        "ids": "",
+        "name": "Jacob McMillin",
+        "birth_date": "2001-12-29",
+        "country": "United States",
+        "status": "Retired",
+        "years_active": "2020 – 2024",
+        "apexlegendsstatus": "1009067960369",
+        "legends": "fuse",
+        "legends2": "bloodhound",
+        "legends3": "seer",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Pandxrz",
+      "found": true,
+      "parsed": true,
+      "id": "Pandxrz",
+      "name": "Scott Maynard",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2020,
+      "birthDate": "1998-08-14",
+      "legends": [
+        {
+          "name": "Catalyst",
+          "class": "控制"
+        },
+        {
+          "name": "Bangalore",
+          "class": "突击"
+        }
+      ],
+      "alsId": "2823113896",
+      "allKeys": [
+        "apexlegendsstatus",
+        "birth_date",
+        "country",
+        "discord",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "input",
+        "legends",
+        "legends2",
+        "name",
+        "retired",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Pandxrz",
+        "name": "Scott Maynard",
+        "birth_date": "1998-08-14",
+        "country": "United States",
+        "status": "Active",
+        "years_active": "2020 – 2024",
+        "apexlegendsstatus": "2823113896",
+        "input": "controller",
+        "legends": "catalyst",
+        "legends2": "bangalore",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Albralelie",
+      "found": true,
+      "parsed": true,
+      "id": "Albralelie",
+      "name": "Mac Kenzie Beckwith",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2019,
+      "birthDate": "2000-09-13",
+      "legends": [
+        {
+          "name": "Gibraltar",
+          "class": "支援"
+        },
+        {
+          "name": "Newcastle",
+          "class": "支援"
+        }
+      ],
+      "alsId": "1002654942758",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "input",
+        "instagram",
+        "legends",
+        "legends2",
+        "name",
+        "overstat",
+        "reddit",
+        "status",
+        "team",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Albralelie",
+        "name": "Mac Kenzie Beckwith",
+        "country": "United States",
+        "birth_date": "2000-09-13",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "1002654942758",
+        "apexlegendsstatusalgs": "Albralelie",
+        "legends": "Gibraltar",
+        "legends2": "Newcastle",
+        "input": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Zach",
+      "found": true,
+      "parsed": true,
+      "id": "Zach",
+      "name": "Zachary Mazer",
+      "romanized": "",
+      "localid": "",
+      "ids": [
+        "Zachmazer"
+      ],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2019,
+      "birthDate": "2000-03-15",
+      "legends": [
+        {
+          "name": "Seer",
+          "class": "侦察"
+        },
+        {
+          "name": "Gibraltar",
+          "class": "支援"
+        }
+      ],
+      "alsId": "2806117224",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "esl",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "instagram",
+        "legends",
+        "legends2",
+        "name",
+        "overstat",
+        "reddit",
+        "status",
+        "tiktok",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Zach",
+        "ids": "Zachmazer",
+        "name": "Zachary Mazer",
+        "birth_date": "2000-03-15",
+        "country": "United States",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "2806117224",
+        "apexlegendsstatusalgs": "Zachmazer",
+        "legends": "Seer",
+        "legends2": "Gibraltar",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Senoxe",
+      "found": true,
+      "parsed": true,
+      "id": "senoxe",
+      "name": "Adam Lau",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "Canada",
+      "debutYear": 2019,
+      "birthDate": "1999-08-10",
+      "legends": [
+        {
+          "name": "Wattson",
+          "class": "控制"
+        },
+        {
+          "name": "Valkyrie",
+          "class": "游击"
+        }
+      ],
+      "alsId": "1002879341313",
+      "allKeys": [
+        "apexlegendsstatus",
+        "birth_date",
+        "country",
+        "discord",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "instagram",
+        "legends",
+        "legends2",
+        "name",
+        "overstat",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "senoxe",
+        "name": "Adam Lau",
+        "birth_date": "1999-08-10",
+        "country": "Canada",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "1002879341313",
+        "legends": "Wattson",
+        "legends2": "Valkyrie",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Resultuh",
+      "found": true,
+      "parsed": true,
+      "id": "Resultuh",
+      "name": "Jordan Resulta",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2019,
+      "birthDate": "1995-09-04",
+      "legends": [
+        {
+          "name": "Gibraltar",
+          "class": "支援"
+        }
+      ],
+      "alsId": "1000192946189",
+      "allKeys": [
+        "apexlegendsstatus",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "input",
+        "instagram",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Resultuh",
+        "name": "Jordan Resulta",
+        "country": "United States",
+        "birth_date": "1995-09-04",
+        "status": "Retired",
+        "years_active": "2019 – 2022",
+        "apexlegendsstatus": "1000192946189",
+        "input": "controller",
+        "legends": "Gibraltar",
+        "legends2": "",
+        "legends3": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Knoqd",
+      "found": true,
+      "parsed": true,
+      "id": "Knoqd",
+      "name": "Logan Layou",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2019,
+      "birthDate": "2001-06-21",
+      "legends": [
+        {
+          "name": "Catalyst",
+          "class": "控制"
+        },
+        {
+          "name": "Horizon",
+          "class": "游击"
+        }
+      ],
+      "alsId": "1008176157879",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "input",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "overstat",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Knoqd",
+        "ids": "",
+        "name": "Logan Layou",
+        "birth_date": "2001-06-21",
+        "country": "United States",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "1008176157879",
+        "apexlegendsstatusalgs": "knoqd",
+        "input": "controller",
+        "legends": "catalyst",
+        "legends2": "horizon",
+        "legends3": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Mande",
+      "found": true,
+      "parsed": true,
+      "id": "Mande",
+      "name": "Mikkel Halle Hestbek",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "Denmark",
+      "debutYear": 2019,
+      "birthDate": "1997-08-11",
+      "legends": [
+        {
+          "name": "Pathfinder",
+          "class": "游击"
+        },
+        {
+          "name": "Gibraltar",
+          "class": "支援"
+        }
+      ],
+      "alsId": "1000170997629",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "esl",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "instagram",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Mande",
+        "name": "Mikkel Halle Hestbek",
+        "birth_date": "1997-08-11",
+        "country": "Denmark",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "1000170997629",
+        "apexlegendsstatusalgs": "Mande",
+        "legends": "Pathfinder",
+        "legends2": "Gibraltar",
+        "legends3": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Taxi",
+      "found": true,
+      "parsed": true,
+      "id": "Taxi",
+      "name": "Svend-Erik Høegh",
+      "romanized": "",
+      "localid": "",
+      "ids": [
+        "Taxi2g"
+      ],
+      "nicknames": [],
+      "country": "Denmark",
+      "debutYear": 2019,
+      "birthDate": "",
+      "legends": [
+        {
+          "name": "Pathfinder",
+          "class": "游击"
+        },
+        {
+          "name": "Horizon",
+          "class": "游击"
+        }
+      ],
+      "alsId": "1003055730898",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "legends",
+        "legends2",
+        "name",
+        "reddit",
+        "status",
+        "steam",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Taxi",
+        "ids": "Taxi2g",
+        "name": "Svend-Erik Høegh",
+        "birth_date": "",
+        "country": "Denmark",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "1003055730898",
+        "apexlegendsstatusalgs": "Taxi2g",
+        "legends": "Pathfinder",
+        "legends2": "Horizon",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Dogma",
+      "found": true,
+      "parsed": true,
+      "id": "Dogma",
+      "name": "김정진",
+      "romanized": "Kim Jeong-jin",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "South Korea",
+      "debutYear": 2019,
+      "birthDate": "1997-07-03",
+      "legends": [
+        {
+          "name": "Valkyrie",
+          "class": "游击"
+        },
+        {
+          "name": "Newcastle",
+          "class": "支援"
+        },
+        {
+          "name": "Seer",
+          "class": "侦察"
+        }
+      ],
+      "alsId": "1004048066570",
+      "allKeys": [
+        "apexlegendsstatus",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "roles",
+        "romanized_name",
+        "status",
+        "twitch",
+        "twitter",
+        "twitter2",
+        "years_active",
+        "years_active_coach",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Dogma",
+        "ids": "",
+        "name": "김정진",
+        "romanized_name": "Kim Jeong-jin",
+        "birth_date": "1997-07-03",
+        "country": "South Korea",
+        "status": "Active",
+        "years_active": "2019 – 2025",
+        "apexlegendsstatus": "1004048066570",
+        "legends": "valkyrie",
+        "legends2": "newcastle",
+        "legends3": "seer",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Xynew",
+      "found": true,
+      "parsed": true,
+      "id": "Xynew",
+      "name": "Brody Geissler",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2022,
+      "birthDate": "2005-08-20",
+      "legends": [
+        {
+          "name": "Seer",
+          "class": "侦察"
+        }
+      ],
+      "alsId": "1004588431813",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "facebook",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "input",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "overstat",
+        "status",
+        "tiktok",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Xynew",
+        "name": "Brody Geissler",
+        "birth_date": "2005-08-20",
+        "country": "United States",
+        "status": "Active",
+        "years_active": "2022 – '''Present'''",
+        "apexlegendsstatus": "1004588431813",
+        "apexlegendsstatusalgs": "xynew",
+        "legends": "seer",
+        "legends2": "",
+        "legends3": "",
+        "input": "controller",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Ras",
+      "found": true,
+      "parsed": true,
+      "id": "Ras",
+      "name": "송홍균",
+      "romanized": "Song Hong-gyun",
+      "localid": "라스",
+      "ids": [],
+      "nicknames": [],
+      "country": "South Korea",
+      "debutYear": 2019,
+      "birthDate": "1999-09-28",
+      "legends": [
+        {
+          "name": "Seer",
+          "class": "侦察"
+        }
+      ],
+      "alsId": "1008877725281",
+      "allKeys": [
+        "apexlegendsstatus",
+        "birth_date",
+        "country",
+        "facebook",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "instagram",
+        "legends",
+        "legends2",
+        "legends3",
+        "localid",
+        "mildom",
+        "name",
+        "retired",
+        "romanized_name",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Ras",
+        "localid": "라스",
+        "ids": "",
+        "name": "송홍균",
+        "romanized_name": "Song Hong-gyun",
+        "birth_date": "1999-09-28",
+        "country": "South Korea",
+        "status": "Retired",
+        "years_active": "2019 – 2023",
+        "apexlegendsstatus": "1008877725281",
+        "legends": "seer",
+        "legends2": "",
+        "legends3": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Effect",
+      "found": true,
+      "parsed": true,
+      "id": "Effect",
+      "name": "Мирон Новиков",
+      "romanized": "Miron Novikov",
+      "localid": "",
+      "ids": [
+        "xEffect"
+      ],
+      "nicknames": [
+        "Baba Yaga"
+      ],
+      "country": "xx",
+      "debutYear": 2022,
+      "birthDate": "2005-04-26",
+      "legends": [
+        {
+          "name": "Horizon",
+          "class": "游击"
+        }
+      ],
+      "alsId": "1010353021047",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "country2",
+        "discord",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "input",
+        "instagram",
+        "legends",
+        "name",
+        "nicknames",
+        "overstat",
+        "romanized_name",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Effect",
+        "ids": "xEffect",
+        "name": "Мирон Новиков",
+        "romanized_name": "Miron Novikov",
+        "birth_date": "2005-04-26",
+        "country": "xx",
+        "status": "Active",
+        "years_active": "2022 – '''Present'''",
+        "nicknames": "Baba Yaga",
+        "apexlegendsstatus": "1010353021047",
+        "apexlegendsstatusalgs": "Effect",
+        "legends": "Horizon",
+        "input": "controller",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Nafen",
+      "found": true,
+      "parsed": true,
+      "id": "Nafen",
+      "name": "Nathan Nguyen",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2019,
+      "birthDate": "2001-10-17",
+      "legends": [
+        {
+          "name": "Seer",
+          "class": "侦察"
+        },
+        {
+          "name": "Loba",
+          "class": "支援"
+        }
+      ],
+      "alsId": "1008923726162",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "country2",
+        "discord",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "instagram",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Nafen",
+        "name": "Nathan Nguyen",
+        "country": "United States",
+        "status": "Retired",
+        "years_active": "2019 – 2023",
+        "birth_date": "2001-10-17",
+        "apexlegendsstatus": "1008923726162",
+        "apexlegendsstatusalgs": "NAFEN",
+        "legends": "Seer",
+        "legends2": "loba",
+        "legends3": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Rocker",
+      "found": true,
+      "parsed": true,
+      "id": "rocker",
+      "name": "Aidan Grodin",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2019,
+      "birthDate": "2003-09-08",
+      "legends": [
+        {
+          "name": "Gibraltar",
+          "class": "支援"
+        },
+        {
+          "name": "Wattson",
+          "class": "控制"
+        }
+      ],
+      "alsId": "1007649649962",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "retired",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "rocker",
+        "ids": "",
+        "name": "Aidan Grodin",
+        "birth_date": "2003-09-08",
+        "country": "United States",
+        "status": "Retired",
+        "years_active": "2019 – 2023",
+        "apexlegendsstatus": "1007649649962",
+        "apexlegendsstatusalgs": "rocker",
+        "legends": "Gibraltar",
+        "legends2": "Wattson",
+        "legends3": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Frexs",
+      "found": true,
+      "parsed": true,
+      "id": "Frexs",
+      "name": "Joseph Sanchez",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2019,
+      "birthDate": "1994-04-18",
+      "legends": [
+        {
+          "name": "Catalyst",
+          "class": "控制"
+        }
+      ],
+      "alsId": "2305250293",
+      "allKeys": [
+        "apexlegendsstatus",
+        "birth_date",
+        "country",
+        "esl",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "input",
+        "legends",
+        "name",
+        "overstat",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Frexs",
+        "name": "Joseph Sanchez",
+        "birth_date": "1994-04-18",
+        "country": "United States",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "input": "controller",
+        "apexlegendsstatus": "2305250293",
+        "legends": "catalyst",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Dropped",
+      "found": true,
+      "parsed": true,
+      "id": "Dropped",
+      "name": "Mark Thees",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2019,
+      "birthDate": "1999-08-31",
+      "legends": [
+        {
+          "name": "Seer",
+          "class": "侦察"
+        },
+        {
+          "name": "Bangalore",
+          "class": "突击"
+        }
+      ],
+      "alsId": "1003935249690",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "esl",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "legends",
+        "legends2",
+        "name",
+        "overstat",
+        "status",
+        "tiktok",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Dropped",
+        "name": "Mark Thees",
+        "birth_date": "1999-08-31",
+        "country": "United States",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "1003935249690",
+        "apexlegendsstatusalgs": "Dropped",
+        "legends": "seer",
+        "legends2": "bangalore",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Lou",
+      "found": true,
+      "parsed": true,
+      "id": "lou",
+      "name": "Trenton Clements",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2019,
+      "birthDate": "2001-09-15",
+      "legends": [
+        {
+          "name": "Gibraltar",
+          "class": "支援"
+        },
+        {
+          "name": "Pathfinder",
+          "class": "游击"
+        }
+      ],
+      "alsId": "1008786770571",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "esl",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "input",
+        "kick",
+        "legends",
+        "legends2",
+        "name",
+        "overstat",
+        "role",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "years_active_coach"
+      ],
+      "raw": {
+        "id": "lou",
+        "name": "Trenton Clements",
+        "birth_date": "2001-09-15",
+        "country": "United States",
+        "status": "Active",
+        "years_active": "2019 – 2026",
+        "input": "controller",
+        "apexlegendsstatus": "1008786770571",
+        "apexlegendsstatusalgs": "lou",
+        "legends": "Gibraltar",
+        "legends2": "Pathfinder",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Sikezz",
+      "found": true,
+      "parsed": true,
+      "id": "Sikezz",
+      "name": "Nicholas Tanner Odom",
+      "romanized": "",
+      "localid": "",
+      "ids": [
+        "sSikezz"
+      ],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2021,
+      "birthDate": "2000-03-15",
+      "legends": [
+        {
+          "name": "Seer",
+          "class": "侦察"
+        },
+        {
+          "name": "Valkyrie",
+          "class": "游击"
+        },
+        {
+          "name": "Horizon",
+          "class": "游击"
+        }
+      ],
+      "alsId": "1007677647640",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "input",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "overstat",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Sikezz",
+        "ids": "sSikezz",
+        "name": "Nicholas Tanner Odom",
+        "country": "United States",
+        "birth_date": "2000-03-15",
+        "status": "Active",
+        "years_active": "2021 – '''Present'''",
+        "apexlegendsstatus": "1007677647640",
+        "apexlegendsstatusalgs": "Sikezz",
+        "input": "controller",
+        "legends": "seer",
+        "legends2": "valkyrie",
+        "legends3": "horizon",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "TeQ",
+      "found": true,
+      "parsed": true,
+      "id": "TeQ",
+      "name": "Will Starck",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "United States",
+      "debutYear": 2020,
+      "birthDate": "1996-10-12",
+      "legends": [
+        {
+          "name": "Crypto",
+          "class": "侦察"
+        },
+        {
+          "name": "Wraith",
+          "class": "游击"
+        }
+      ],
+      "alsId": "1007942132234",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "facebook",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "legends",
+        "legends2",
+        "name",
+        "retired",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "years_active_coach"
+      ],
+      "raw": {
+        "id": "TeQ",
+        "name": "Will Starck",
+        "birth_date": "1996-10-12",
+        "country": "United States",
+        "status": "Retired",
+        "years_active": "2020 – 2024",
+        "apexlegendsstatus": "1007942132234",
+        "apexlegendsstatusalgs": "SENTeQ",
+        "legends": "Crypto",
+        "legends2": "Wraith",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Zer0",
+      "found": true,
+      "parsed": true,
+      "id": "Zer0",
+      "name": "Rhys Perry",
+      "romanized": "",
+      "localid": "",
+      "ids": [
+        "Zer0OCE",
+        "Hamilton Bushranger"
+      ],
+      "nicknames": [],
+      "country": "Australia",
+      "debutYear": 2019,
+      "birthDate": "2000-06-29",
+      "legends": [
+        {
+          "name": "Bangalore",
+          "class": "突击"
+        },
+        {
+          "name": "Horizon",
+          "class": "游击"
+        }
+      ],
+      "alsId": "1008970108657",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "overstat",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Zer0",
+        "ids": "Zer0OCE, Hamilton Bushranger",
+        "name": "Rhys Perry",
+        "birth_date": "2000-06-29",
+        "country": "Australia",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "1008970108657",
+        "apexlegendsstatusalgs": "Zer0",
+        "legends": "bangalore",
+        "legends2": "horizon",
+        "legends3": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Genburten",
+      "found": true,
+      "parsed": true,
+      "id": "Genburten",
+      "name": "Noyan Ozkose",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "Australia",
+      "debutYear": 2020,
+      "birthDate": "1999-09-20",
+      "legends": [
+        {
+          "name": "Catalyst",
+          "class": "控制"
+        },
+        {
+          "name": "Caustic",
+          "class": "控制"
+        }
+      ],
+      "alsId": "1002860939964",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "country2",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "input",
+        "instagram",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "status",
+        "tiktok",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube",
+        "youtube2"
+      ],
+      "raw": {
+        "id": "Genburten",
+        "ids": "",
+        "years_active": "2020 – '''Present'''",
+        "name": "Noyan Ozkose",
+        "birth_date": "1999-09-20",
+        "country": "Australia",
+        "status": "Active",
+        "apexlegendsstatus": "1002860939964",
+        "apexlegendsstatusalgs": "Genburten",
+        "input": "controller",
+        "legends": "catalyst",
+        "legends2": "caustic",
+        "legends3": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Sharky",
+      "found": true,
+      "parsed": true,
+      "id": "Sharky",
+      "name": "Rick Wirth",
+      "romanized": "",
+      "localid": "",
+      "ids": [
+        "Sharky3415",
+        "Fish",
+        "Xan"
+      ],
+      "nicknames": [],
+      "country": "Australia",
+      "debutYear": 2019,
+      "birthDate": "2001-01-18",
+      "legends": [
+        {
+          "name": "Gibraltar",
+          "class": "支援"
+        }
+      ],
+      "alsId": "2432341944",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "instagram",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "overstat",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active"
+      ],
+      "raw": {
+        "id": "Sharky",
+        "ids": "Sharky3415, Fish, Xan",
+        "name": "Rick Wirth",
+        "birth_date": "2001-01-18",
+        "country": "Australia",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "2432341944",
+        "apexlegendsstatusalgs": "Sharky",
+        "legends": "Gibraltar",
+        "legends2": "",
+        "legends3": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Emtee",
+      "found": true,
+      "parsed": true,
+      "id": "Emtee",
+      "name": "Matthew Trengove",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "Australia",
+      "debutYear": 2019,
+      "birthDate": "2000-03-17",
+      "legends": [
+        {
+          "name": "Crypto",
+          "class": "侦察"
+        },
+        {
+          "name": "Seer",
+          "class": "侦察"
+        }
+      ],
+      "alsId": "1008896752504",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "overstat",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Emtee",
+        "ids": "",
+        "name": "Matthew Trengove",
+        "birth_date": "2000-03-17",
+        "country": "Australia",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "1008896752504",
+        "apexlegendsstatusalgs": "Emtee",
+        "legends": "crypto",
+        "legends2": "seer",
+        "legends3": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Selly",
+      "found": true,
+      "parsed": true,
+      "id": "Selly",
+      "name": "안정환",
+      "romanized": "An Jeong-hwan",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "South Korea",
+      "debutYear": 2019,
+      "birthDate": "1998-02-12",
+      "legends": [
+        {
+          "name": "Bloodhound",
+          "class": "侦察"
+        },
+        {
+          "name": "Crypto",
+          "class": "侦察"
+        }
+      ],
+      "alsId": "",
+      "allKeys": [
+        "apexlegendsstatus",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "legends",
+        "legends2",
+        "legends3",
+        "mildom",
+        "name",
+        "reddit",
+        "romanized_name",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Selly",
+        "name": "안정환",
+        "romanized_name": "An Jeong-hwan",
+        "country": "South Korea",
+        "status": "Retired",
+        "years_active": "2019 – 2022",
+        "birth_date": "1998-02-12",
+        "apexlegendsstatus": "",
+        "legends": "Bloodhound",
+        "legends2": "Crypto",
+        "legends3": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Obly",
+      "found": true,
+      "parsed": true,
+      "id": "Obly",
+      "name": "임정현",
+      "romanized": "Lim Jung-hyun",
+      "localid": "",
+      "ids": [
+        "Aquarius666",
+        "Aquarius"
+      ],
+      "nicknames": [],
+      "country": "South Korea",
+      "debutYear": 2019,
+      "birthDate": "1999-12-18",
+      "legends": [
+        {
+          "name": "Bloodhound",
+          "class": "侦察"
+        }
+      ],
+      "alsId": "1008011249667",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "chzzk",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "romanized_name",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Obly",
+        "ids": "Aquarius666, Aquarius",
+        "name": "임정현",
+        "romanized_name": "Lim Jung-hyun",
+        "country": "South Korea",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "birth_date": "1999-12-18",
+        "apexlegendsstatus": "1008011249667",
+        "apexlegendsstatusalgs": "obly",
+        "legends": "Bloodhound",
+        "legends2": "",
+        "legends3": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "YukaPEROdator",
+      "found": true,
+      "parsed": true,
+      "id": "yukaPEROdator",
+      "name": "野底 心",
+      "romanized": "Shin Nosoko",
+      "localid": "床ペロデター",
+      "ids": [
+        "Thia3",
+        "Rermen",
+        "Yukaprdeta"
+      ],
+      "nicknames": [],
+      "country": "Japan",
+      "debutYear": 2021,
+      "birthDate": "2001-07-16",
+      "legends": [
+        {
+          "name": "Wattson",
+          "class": "控制"
+        }
+      ],
+      "alsId": "1006519004946",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "input",
+        "legends",
+        "localid",
+        "name",
+        "overstat",
+        "romanized_name",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "yukaPEROdator",
+        "localid": "床ペロデター",
+        "ids": "Thia3, Rermen, Yukaprdeta",
+        "name": "野底 心",
+        "romanized_name": "Shin Nosoko",
+        "birth_date": "2001-07-16",
+        "country": "Japan",
+        "status": "Active",
+        "years_active": "2021 – '''Present'''",
+        "apexlegendsstatus": "1006519004946",
+        "apexlegendsstatusalgs": "yukaPEROdator",
+        "legends": "wattson",
+        "input": "controller",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Hakis",
+      "found": true,
+      "parsed": true,
+      "id": "Hakis",
+      "name": "John Håkansson",
+      "romanized": "",
+      "localid": "",
+      "ids": [
+        "hAKIS"
+      ],
+      "nicknames": [],
+      "country": "Sweden",
+      "debutYear": 2019,
+      "birthDate": "1995-06-26",
+      "legends": [
+        {
+          "name": "Seer",
+          "class": "侦察"
+        }
+      ],
+      "alsId": "2298532324",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "instagram",
+        "legends",
+        "legends2",
+        "name",
+        "overstat",
+        "reddit",
+        "status",
+        "tiktok",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Hakis",
+        "ids": "hAKIS",
+        "name": "John Håkansson",
+        "birth_date": "1995-06-26",
+        "country": "Sweden",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "2298532324",
+        "apexlegendsstatusalgs": "Hakis",
+        "legends": "seer",
+        "legends2": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Vaifs",
+      "found": true,
+      "parsed": true,
+      "id": "Vaifs",
+      "name": "Simon Bellini",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "Sweden",
+      "debutYear": 2019,
+      "birthDate": "1994-06-16",
+      "legends": [
+        {
+          "name": "Gibraltar",
+          "class": "支援"
+        }
+      ],
+      "alsId": "2441415143",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "instagram",
+        "legends",
+        "name",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "Vaifs",
+        "name": "Simon Bellini",
+        "birth_date": "1994-06-16",
+        "country": "Sweden",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "2441415143",
+        "apexlegendsstatusalgs": "Vaifs",
+        "legends": "Gibraltar",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Tyler",
+      "found": true,
+      "parsed": true,
+      "id": "Tyler",
+      "name": "Tyler Wood",
+      "romanized": "",
+      "localid": "",
+      "ids": [
+        "Serious"
+      ],
+      "nicknames": [],
+      "country": "United Kingdom",
+      "debutYear": 2020,
+      "birthDate": "2001-04-23",
+      "legends": [
+        {
+          "name": "Horizon",
+          "class": "游击"
+        },
+        {
+          "name": "Bangalore",
+          "class": "突击"
+        }
+      ],
+      "alsId": "1008878265362",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "birth_location",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "ids",
+        "image",
+        "input",
+        "instagram",
+        "legends",
+        "legends2",
+        "name",
+        "overstat",
+        "retired",
+        "status",
+        "threads",
+        "tiktok",
+        "twitch",
+        "twitter",
+        "years_active"
+      ],
+      "raw": {
+        "id": "Tyler",
+        "ids": "Serious",
+        "name": "Tyler Wood",
+        "birth_date": "2001-04-23",
+        "country": "United Kingdom",
+        "years_active": "2020 – '''Present'''",
+        "status": "Active",
+        "apexlegendsstatus": "1008878265362",
+        "apexlegendsstatusalgs": "Tylerfps",
+        "input": "controller",
+        "legends": "horizon",
+        "legends2": "bangalore",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "SirDel",
+      "found": true,
+      "parsed": true,
+      "id": "SirDel",
+      "name": "Matthew Biggins",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "United Kingdom",
+      "debutYear": 2020,
+      "birthDate": "2000-08-12",
+      "legends": [
+        {
+          "name": "Seer",
+          "class": "侦察"
+        }
+      ],
+      "alsId": "1006609719969",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "legends",
+        "legends2",
+        "name",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "SirDel",
+        "name": "Matthew Biggins",
+        "birth_date": "2000-08-12",
+        "country": "United Kingdom",
+        "status": "Retired",
+        "years_active": "2020 – 2024",
+        "apexlegendsstatus": "1006609719969",
+        "apexlegendsstatusalgs": "SirDel",
+        "legends": "seer",
+        "legends2": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Maydeelol",
+      "found": true,
+      "parsed": true,
+      "id": "maydeelol",
+      "name": "Rasmus Zettergren",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "Sweden",
+      "debutYear": 2019,
+      "birthDate": "1997-03-21",
+      "legends": [
+        {
+          "name": "Valkyrie",
+          "class": "游击"
+        }
+      ],
+      "alsId": "",
+      "allKeys": [
+        "birth_date",
+        "country",
+        "esl",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "instagram",
+        "legends",
+        "name",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "youtube"
+      ],
+      "raw": {
+        "id": "maydeelol",
+        "name": "Rasmus Zettergren",
+        "birth_date": "1997-03-21",
+        "country": "Sweden",
+        "status": "Retired",
+        "years_active": "2019 – 2022",
+        "legends": "Valkyrie",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "K4SHERA",
+      "found": true,
+      "parsed": true,
+      "id": "K4SHERA",
+      "name": "Francisco Miguel Nogueira Alves",
+      "romanized": "",
+      "localid": "",
+      "ids": [],
+      "nicknames": [],
+      "country": "Portugal",
+      "debutYear": 2019,
+      "birthDate": "1998-06-03",
+      "legends": [
+        {
+          "name": "Newcastle",
+          "class": "支援"
+        },
+        {
+          "name": "Crypto",
+          "class": "侦察"
+        }
+      ],
+      "alsId": "1000361598744",
+      "allKeys": [
+        "apexlegendsstatus",
+        "apexlegendsstatusalgs",
+        "birth_date",
+        "country",
+        "facebook",
+        "familyname",
+        "givenname",
+        "history",
+        "id",
+        "image",
+        "instagram",
+        "kick",
+        "legends",
+        "legends2",
+        "legends3",
+        "name",
+        "overstat",
+        "status",
+        "twitch",
+        "twitter",
+        "years_active",
+        "years_active_coach",
+        "youtube"
+      ],
+      "raw": {
+        "id": "K4SHERA",
+        "name": "Francisco Miguel Nogueira Alves",
+        "birth_date": "1998-06-03",
+        "country": "Portugal",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "apexlegendsstatus": "1000361598744",
+        "apexlegendsstatusalgs": "K4SHERA",
+        "legends": "newcastle",
+        "legends2": "crypto",
+        "legends3": "",
         "history": "{{THA}}"
       }
     }

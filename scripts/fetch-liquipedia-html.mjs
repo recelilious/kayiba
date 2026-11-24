@@ -201,10 +201,23 @@ async function main() {
     }
   }
 
+  // 与已有草稿合并：只覆盖本次抓到的标题，其余保留（支持增量抓取）
+  let existing = []
+  try {
+    existing = JSON.parse(readFileSync(OUT, 'utf8')).players ?? []
+  } catch {
+    existing = []
+  }
+  const merged = new Map(existing.map((p) => [p.title, p]))
+  for (const p of players) merged.set(p.title, p)
+
   writeFileSync(
     OUT,
     JSON.stringify(
-      { _meta: { fetchedAt: new Date().toISOString(), source: `${API} (action=parse)` }, players },
+      {
+        _meta: { fetchedAt: new Date().toISOString(), source: `${API} (action=parse)` },
+        players: [...merged.values()],
+      },
       null,
       2,
     ) + '\n',

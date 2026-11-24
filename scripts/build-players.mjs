@@ -21,7 +21,19 @@ const read = (p) => JSON.parse(readFileSync(resolve(ROOT, p), 'utf8'))
 const WIKI = 'src/data/liquipedia-draft.json'
 const HTML_DRAFT = 'src/data/liquipedia-html-draft.json'
 const MANUAL = 'src/data/manual.json'
+const ROSTER = 'src/data/roster.txt'
 const OUT = 'src/data/players.json'
+
+/** roster.txt 是名单的唯一真相来源：草稿里残留的旧选手不会被写进 players.json */
+function loadRoster() {
+  return new Set(
+    readFileSync(resolve(ROOT, ROSTER), 'utf8')
+      .split(/\r?\n/)
+      .map((l) => l.trim())
+      .filter((l) => l && !l.startsWith('#'))
+      .map((l) => l.toLowerCase()),
+  )
+}
 
 /** Liquipedia 的国家名 → 中文。港澳台统一并入「中国」 */
 const COUNTRY = {
@@ -99,11 +111,13 @@ function main() {
   const manual = read(MANUAL).players ?? {}
 
   const htmlByTitle = new Map(html.map((p) => [p.title, p]))
+  const roster = loadRoster()
   const players = []
   const skipped = []
 
   for (const w of wiki) {
     if (!w.found) continue
+    if (!roster.has(String(w.title).toLowerCase())) continue
 
     const slug = slugify(w.title)
     const h = htmlByTitle.get(w.title)
@@ -178,7 +192,7 @@ function main() {
         _meta: {
           note: '由 scripts/build-players.mjs 生成，请勿手改。人工字段写在 manual.json。',
           updated: new Date().toISOString().slice(0, 10),
-          target: 50,
+          target: 75,
         },
         players,
       },

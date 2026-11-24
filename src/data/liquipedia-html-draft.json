@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-11-24T11:30:19.974Z",
+    "fetchedAt": "2026-11-24T12:15:54.136Z",
     "source": "https://liquipedia.net/apexlegends/api.php (action=parse)"
   },
   "players": [
@@ -3326,6 +3326,4422 @@
           "event": "ALGS: 2022 Split 2 Pro League - APAC North",
           "team": "FSV",
           "prize": "$6,000"
+        }
+      ]
+    },
+    {
+      "title": "ImperialHal",
+      "found": true,
+      "currentTeam": "Team Falcons",
+      "nationality": "United States",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "May 31, 1999 (age 27)",
+      "earnings": 1204549,
+      "earningsText": "$1,204,549",
+      "history": [
+        {
+          "range": "2019-03-06 — 2024-05-13",
+          "team": "TSM",
+          "raw": "TSM"
+        },
+        {
+          "range": "2024-05-28 — Present",
+          "team": "Team Falcons",
+          "raw": "Team Falcons"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-01-18",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship",
+          "team": "FLCN",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2025 Open",
+          "team": "FLCN",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship",
+          "team": "FLCN",
+          "prize": "$210,000"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 2,
+          "tier": "S",
+          "event": "Esports World Cup 2024",
+          "team": "FLCN",
+          "prize": "$375,000"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "TSM",
+          "prize": "$600,000"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "TSM",
+          "prize": "$160,000"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs",
+          "team": "TSM",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America",
+          "team": "TSM",
+          "prize": "$100,000"
+        },
+        {
+          "date": "2019-09-15",
+          "place": 1,
+          "tier": "S",
+          "event": "Apex Legends Preseason Invitational",
+          "team": "TSM",
+          "prize": "$105,000"
+        },
+        {
+          "date": "2019-08-03",
+          "place": 1,
+          "tier": "S",
+          "event": "EXP Invitational – Apex Legends at X Games Minneapolis",
+          "team": "TSM",
+          "prize": "$30,000"
+        }
+      ]
+    },
+    {
+      "title": "Reps",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "United States",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "April 23, 1995 (age 31)",
+      "earnings": 682946,
+      "earningsText": "$682,946",
+      "history": [
+        {
+          "range": "2019-02-28 — 2019-06-26",
+          "team": "LFOffers",
+          "raw": "LFOffers"
+        },
+        {
+          "range": "2019-02-28 — 2019-06-26",
+          "team": "LFOffers",
+          "raw": "LFOffers"
+        },
+        {
+          "range": "2019-06-26 — 2025-03-06",
+          "team": "TSM",
+          "raw": "TSM"
+        }
+      ],
+      "results": [
+        {
+          "date": "2024-09-01",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "TSM",
+          "prize": "$85,000"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "TSM",
+          "prize": "$600,000"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "TSM",
+          "prize": "$160,000"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs",
+          "team": "TSM",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "TSM",
+          "prize": "$72,000"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America",
+          "team": "TSM",
+          "prize": "$100,000"
+        },
+        {
+          "date": "2021-06-13",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - North America",
+          "team": "TSM",
+          "prize": "$78,208"
+        },
+        {
+          "date": "2020-03-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Online #2 - North America",
+          "team": "TSM",
+          "prize": "$21,600"
+        },
+        {
+          "date": "2019-09-15",
+          "place": 1,
+          "tier": "S",
+          "event": "Apex Legends Preseason Invitational",
+          "team": "TSM",
+          "prize": "$105,000"
+        },
+        {
+          "date": "2019-08-03",
+          "place": 1,
+          "tier": "S",
+          "event": "EXP Invitational – Apex Legends at X Games Minneapolis",
+          "team": "TSM",
+          "prize": "$30,000"
+        }
+      ]
+    },
+    {
+      "title": "Verhulst",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "United States",
+      "status": "Active",
+      "yearsActive": "2021 – Present",
+      "born": "November 27, 2002 (age 23)",
+      "earnings": 667975,
+      "earningsText": "$667,975",
+      "history": [
+        {
+          "range": "2021-06-01 — 2021-06-30",
+          "team": "Dudes Night Out",
+          "raw": "Dudes Night Out"
+        },
+        {
+          "range": "2021-06-30 — 2021-10-17",
+          "team": "Team Intel",
+          "raw": "Team Intel"
+        },
+        {
+          "range": "2021-10-17 — 2021-12-01",
+          "team": "Esports Arena",
+          "raw": "Esports Arena"
+        },
+        {
+          "range": "2021-12-01 — 2025-02-14",
+          "team": "TSM",
+          "raw": "TSM"
+        },
+        {
+          "range": "2025-03-07 — 2026-01-07",
+          "team": "100 Thieves",
+          "raw": "100 Thieves"
+        },
+        {
+          "range": "2026-01-07 — 2026-07-13",
+          "team": "Crazy Thieves",
+          "raw": "Crazy Thieves"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-01-18",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship",
+          "team": "CRT",
+          "prize": "$100,000"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs",
+          "team": "100T",
+          "prize": "$80,000"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2025 Open",
+          "team": "100T",
+          "prize": "$75,000"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "TSM",
+          "prize": "$85,000"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "TSM",
+          "prize": "$600,000"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "TSM",
+          "prize": "$160,000"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs",
+          "team": "TSM",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2022-12-18",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Pro League - North America",
+          "team": "TSM",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "TSM",
+          "prize": "$72,000"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America",
+          "team": "TSM",
+          "prize": "$100,000"
+        }
+      ]
+    },
+    {
+      "title": "Sweetdreams",
+      "found": true,
+      "currentTeam": "NRG",
+      "nationality": "United States",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "July 2, 1999 (age 27)",
+      "earnings": 442892,
+      "earningsText": "$442,892",
+      "history": [
+        {
+          "range": "2019-02-10 — 2021-01-01",
+          "team": "Rogue",
+          "raw": "Rogue"
+        },
+        {
+          "range": "2021-01-07 — 2023-09-15",
+          "team": "NRG",
+          "raw": "NRG"
+        },
+        {
+          "range": "2024-01-11 — 2025-02-13",
+          "team": "Luminosity Gaming",
+          "raw": "Luminosity Gaming"
+        },
+        {
+          "range": "2026-07-22 — 2026-10-15",
+          "team": "SSS",
+          "raw": "SSS"
+        },
+        {
+          "range": "2026-10-15 — Present",
+          "team": "NRG",
+          "raw": "NRG"
+        }
+      ],
+      "results": [
+        {
+          "date": "2025-02-02",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship",
+          "team": "LG",
+          "prize": "$80,000"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 3,
+          "tier": "S",
+          "event": "Esports World Cup 2024",
+          "team": "LG",
+          "prize": "$200,000"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs",
+          "team": "NRG",
+          "prize": "$160,000"
+        },
+        {
+          "date": "2022-10-08",
+          "place": 1,
+          "tier": "S",
+          "event": "TwitchCon San Diego 2022",
+          "team": "Team ImperialHal",
+          "prize": "$45,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "NRG",
+          "prize": "$48,000"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs",
+          "team": "NRG",
+          "prize": "$36,000"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America",
+          "team": "NRG",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2021-03-27",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - North America",
+          "team": "NRG",
+          "prize": "$48,000"
+        },
+        {
+          "date": "2020-08-02",
+          "place": 1,
+          "tier": "A",
+          "event": "GLL Masters Summer - Americas",
+          "team": "RGE",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2019-04-13",
+          "place": 1,
+          "tier": "S",
+          "event": "TwitchCon Europe Showdown 2019",
+          "team": "RGE",
+          "prize": "$74,600"
+        }
+      ]
+    },
+    {
+      "title": "HisWattson",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "United States",
+      "status": "Retired",
+      "yearsActive": "2020 – 2024",
+      "born": "December 29, 2001 (age 24)",
+      "earnings": 125322,
+      "earningsText": "$125,322",
+      "history": [
+        {
+          "range": "2021-01-01 — 2021-04-01",
+          "team": "Rare Xcellence",
+          "raw": "Rare Xcellence"
+        },
+        {
+          "range": "2022-05-31 — 2023-07-15",
+          "team": "FURIA Esports",
+          "raw": "FURIA Esports"
+        },
+        {
+          "range": "2023-07-15 — 2023-12-17",
+          "team": "FUR",
+          "raw": "FUR(Streamer)"
+        },
+        {
+          "range": "2023-12-17 — 2024-04-18",
+          "team": "FURIA Esports",
+          "raw": "FURIA Esports"
+        },
+        {
+          "range": "2024-04-18 — 2024-11-15",
+          "team": "FUR",
+          "raw": "FUR(Streamer)"
+        }
+      ],
+      "results": [
+        {
+          "date": "2023-05-08",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - North America",
+          "team": "FUR",
+          "prize": "$9,000"
+        },
+        {
+          "date": "2023-03-31",
+          "place": 5,
+          "tier": "A",
+          "event": "MFAM Gauntlet #4",
+          "team": "Team Co1azo",
+          "prize": "$10,150"
+        },
+        {
+          "date": "2022-12-10",
+          "place": 3,
+          "tier": "A",
+          "event": "JBL Quantum Cup 2022 - North America",
+          "team": "FUR",
+          "prize": "$5,000"
+        },
+        {
+          "date": "2022-07-26",
+          "place": 1,
+          "tier": "A",
+          "event": "Twitch Rivals - NA Showdown 4",
+          "team": "Team HisWattson",
+          "prize": "$7,500"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "FUR",
+          "prize": "$300,000"
+        }
+      ]
+    },
+    {
+      "title": "Pandxrz",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "United States",
+      "status": "Active",
+      "yearsActive": "2020 – 2024",
+      "born": "August 14, 1998 (age 28)",
+      "earnings": 138213,
+      "earningsText": "$138,213",
+      "history": [
+        {
+          "range": "2020-03-20 — 2020-06-20",
+          "team": "SolaFide Black",
+          "raw": "SolaFide Black"
+        },
+        {
+          "range": "2020-08-08 — 2020-10-08",
+          "team": "Flying Drone",
+          "raw": "Flying Drone"
+        },
+        {
+          "range": "2020-10-08 — 2020-12-20",
+          "team": "HPS",
+          "raw": "HPS"
+        },
+        {
+          "range": "2020-12-20 — 2021-01-30",
+          "team": "21+",
+          "raw": "21+"
+        },
+        {
+          "range": "2021-03-03 — 2021-06-30",
+          "team": "Team Intel",
+          "raw": "Team Intel"
+        },
+        {
+          "range": "2021-06-30 — 2022-02-14",
+          "team": "Ghost Gaming",
+          "raw": "Ghost Gaming"
+        },
+        {
+          "range": "2022-02-14 — 2022-02-17",
+          "team": "GHOST",
+          "raw": "GHOST(Inactive)"
+        },
+        {
+          "range": "2022-02-17 — 2023-12-13",
+          "team": "FURIA Esports",
+          "raw": "FURIA Esports"
+        },
+        {
+          "range": "2024-01-21 — 2024-04-18",
+          "team": "FaZe Clan",
+          "raw": "FaZe Clan"
+        },
+        {
+          "range": "2024-06-12 — 2024-09-09",
+          "team": "Stallions",
+          "raw": "Stallions"
+        }
+      ],
+      "results": [
+        {
+          "date": "2023-05-08",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - North America",
+          "team": "FUR",
+          "prize": "$9,000"
+        },
+        {
+          "date": "2022-12-10",
+          "place": 3,
+          "tier": "A",
+          "event": "JBL Quantum Cup 2022 - North America",
+          "team": "FUR",
+          "prize": "$5,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "FUR",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2021-06-13",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - North America",
+          "team": "ESAB",
+          "prize": "$15,025"
+        },
+        {
+          "date": "2020-09-12",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - Americas",
+          "team": "Flying Drone",
+          "prize": "$18,000"
+        }
+      ]
+    },
+    {
+      "title": "Albralelie",
+      "found": true,
+      "currentTeam": "Stallions",
+      "nationality": "United States",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "September 13, 2000 (age 26)",
+      "earnings": 202285,
+      "earningsText": "$202,285",
+      "history": [
+        {
+          "range": "2019-04-11 — 2019-05-23",
+          "team": "MRKN Clan",
+          "raw": "MRKN Clan"
+        },
+        {
+          "range": "2019-06-13 — 2020-10-01",
+          "team": "TSM",
+          "raw": "TSM"
+        },
+        {
+          "range": "2020-10-01 — 2023-04-08",
+          "team": "TSM",
+          "raw": "TSM(Streamer)"
+        },
+        {
+          "range": "2020-10-28 — 2021-06-13",
+          "team": "Team Liquid",
+          "raw": "Team Liquid(Stand-in)"
+        },
+        {
+          "range": "2021-06-25 — 2022-07-28",
+          "team": "Cloud9",
+          "raw": "Cloud9(Stand-in)"
+        },
+        {
+          "range": "2022-10-26 — 2022-12-26",
+          "team": "FaZe Clan",
+          "raw": "FaZe Clan(Stand-in)"
+        },
+        {
+          "range": "2023-02-16 — 2023-05-27",
+          "team": "LANimals",
+          "raw": "LANimals"
+        },
+        {
+          "range": "2023-06-15 — 2023-07-10",
+          "team": "WC",
+          "raw": "WC(Stand-in)"
+        },
+        {
+          "range": "2023-07-18 — 2023-12-13",
+          "team": "FURIA Esports",
+          "raw": "FURIA Esports"
+        },
+        {
+          "range": "2025-02-26 — 2025-04-19",
+          "team": "Stallions",
+          "raw": "Stallions"
+        },
+        {
+          "range": "2025-04-19 — 2025-08-30",
+          "team": "Twisted Minds",
+          "raw": "Twisted Minds"
+        },
+        {
+          "range": "2025-08-30 — 2025-09-29",
+          "team": "Stallions",
+          "raw": "Stallions"
+        },
+        {
+          "range": "2025-10-01 — 2026-03-09",
+          "team": "Hotdog Mafia",
+          "raw": "Hotdog Mafia"
+        },
+        {
+          "range": "2026-03-09 — 2026-04-30",
+          "team": "Stallions",
+          "raw": "Stallions"
+        },
+        {
+          "range": "2026-04-30 — 2026-08-07",
+          "team": "Team Nemesis",
+          "raw": "Team Nemesis"
+        },
+        {
+          "range": "2026-08-20 — Present",
+          "team": "Stallions",
+          "raw": "Stallions"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-11-01",
+          "place": 10,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs",
+          "team": "WAR",
+          "prize": "$40,000"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship",
+          "team": "HM",
+          "prize": "$26,000"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2025 Open",
+          "team": "TWIS",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 15,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "C9",
+          "prize": "$24,000"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 10,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs",
+          "team": "C9",
+          "prize": "$18,000"
+        },
+        {
+          "date": "2021-02-05",
+          "place": 1,
+          "tier": "A",
+          "event": "Lulu's Throwdown - Day 2",
+          "team": "Team Albralelie",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2020-03-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Online #2 - North America",
+          "team": "TSM",
+          "prize": "$21,600"
+        },
+        {
+          "date": "2019-12-15",
+          "place": 1,
+          "tier": "A",
+          "event": "GLL Apex Legends Series - NA",
+          "team": "TSM",
+          "prize": "$10,000"
+        },
+        {
+          "date": "2019-09-15",
+          "place": 1,
+          "tier": "S",
+          "event": "Apex Legends Preseason Invitational",
+          "team": "TSM",
+          "prize": "$105,000"
+        },
+        {
+          "date": "2019-08-03",
+          "place": 1,
+          "tier": "S",
+          "event": "EXP Invitational – Apex Legends at X Games Minneapolis",
+          "team": "TSM",
+          "prize": "$30,000"
+        }
+      ]
+    },
+    {
+      "title": "Zach",
+      "found": true,
+      "currentTeam": "Team Vision",
+      "nationality": "United States",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "March 15, 2000 (age 26)",
+      "earnings": 379932,
+      "earningsText": "$379,932",
+      "history": [
+        {
+          "range": "2019-04-04 — 2019-08-05",
+          "team": "Team FiRE Red",
+          "raw": "Team FiRE Red"
+        },
+        {
+          "range": "2019-08-05 — 2020-01-21",
+          "team": "FlyQuest",
+          "raw": "FlyQuest"
+        },
+        {
+          "range": "2020-08-11 — 2021-04-27",
+          "team": "SolaFide",
+          "raw": "SolaFide(Streamer)"
+        },
+        {
+          "range": "2021-05-03 — 2022-12-04",
+          "team": "Cloud9",
+          "raw": "Cloud9"
+        },
+        {
+          "range": "2023-04-03 — 2024-10-22",
+          "team": "Elev8 Gaming",
+          "raw": "Elev8 Gaming"
+        },
+        {
+          "range": "2024-11-22 — 2025-08-14",
+          "team": "Virtus.pro",
+          "raw": "Virtus.pro"
+        },
+        {
+          "range": "2026-04-29 — Present",
+          "team": "Team Vision",
+          "raw": "Team Vision"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-11-01",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs",
+          "team": "VSN",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - Americas",
+          "team": "VSN",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2026-07-11",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 1 Playoffs",
+          "team": "VSN",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2026-06-07",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - Americas",
+          "team": "VSN",
+          "prize": "$12,000"
+        },
+        {
+          "date": "2025-10-12",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - Americas",
+          "team": "ZZ",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship",
+          "team": "VP",
+          "prize": "$130,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 15,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "C9",
+          "prize": "$24,000"
+        },
+        {
+          "date": "2021-06-13",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - North America",
+          "team": "C9",
+          "prize": "$132,875"
+        }
+      ]
+    },
+    {
+      "title": "Senoxe",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "Canada",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "August 10, 1999 (age 27)",
+      "earnings": 106650,
+      "earningsText": "$106,650",
+      "history": [
+        {
+          "range": "2019-06-20 — 2023-01-23",
+          "team": "Sentinels",
+          "raw": "Sentinels"
+        },
+        {
+          "range": "2023-04-21 — 2023-05-19",
+          "team": "Oxygen Esports",
+          "raw": "Oxygen Esports"
+        },
+        {
+          "range": "2023-07-21 — 2023-08-22",
+          "team": "Dudes Night Out",
+          "raw": "Dudes Night Out"
+        },
+        {
+          "range": "2023-08-22 — 2023-09-08",
+          "team": "Disguised",
+          "raw": "Disguised"
+        },
+        {
+          "range": "2023-09-08 — 2023-09-29",
+          "team": "Dudes Night Out",
+          "raw": "Dudes Night Out"
+        },
+        {
+          "range": "2023-11-03 — 2024-03-28",
+          "team": "Dudes Night Out",
+          "raw": "Dudes Night Out"
+        }
+      ],
+      "results": [
+        {
+          "date": "2022-10-08",
+          "place": 3,
+          "tier": "S",
+          "event": "TwitchCon San Diego 2022",
+          "team": "Team Hambino",
+          "prize": "$21,000"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America",
+          "team": "SEN",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - North America",
+          "team": "SEN",
+          "prize": "$30,000"
+        },
+        {
+          "date": "2021-06-13",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - North America",
+          "team": "SEN",
+          "prize": "$26,480"
+        },
+        {
+          "date": "2020-10-25",
+          "place": 2,
+          "tier": "A",
+          "event": "PGL Showdown - North America",
+          "team": "SEN",
+          "prize": "$6,000"
+        },
+        {
+          "date": "2019-12-15",
+          "place": 2,
+          "tier": "A",
+          "event": "GLL Apex Legends Series - NA",
+          "team": "SEN",
+          "prize": "$5,000"
+        },
+        {
+          "date": "2019-09-29",
+          "place": 1,
+          "tier": "S",
+          "event": "TwitchCon San Diego 2019",
+          "team": "SEN",
+          "prize": "$85,750"
+        },
+        {
+          "date": "2019-09-15",
+          "place": 6,
+          "tier": "S",
+          "event": "Apex Legends Preseason Invitational",
+          "team": "SEN",
+          "prize": "$30,000"
+        },
+        {
+          "date": "2019-08-03",
+          "place": 3,
+          "tier": "S",
+          "event": "EXP Invitational – Apex Legends at X Games Minneapolis",
+          "team": "SEN",
+          "prize": "$21,000"
+        }
+      ]
+    },
+    {
+      "title": "Resultuh",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "United States",
+      "status": "Retired",
+      "yearsActive": "2019 – 2022",
+      "born": "September 4, 1995 (age 31)",
+      "earnings": 63284,
+      "earningsText": "$63,284",
+      "history": [
+        {
+          "range": "2020-01-03 — 2020-11-06",
+          "team": "AimAssist",
+          "raw": "AimAssist"
+        },
+        {
+          "range": "2020-11-06 — 2021-04-27",
+          "team": "SolaFide",
+          "raw": "SolaFide"
+        },
+        {
+          "range": "2021-04-27 — 2021-06-01",
+          "team": "AimAssist",
+          "raw": "AimAssist"
+        },
+        {
+          "range": "2021-06-01 — 2022-12-23",
+          "team": "G2 Esports",
+          "raw": "G2 Esports"
+        }
+      ],
+      "results": [
+        {
+          "date": "2022-03-28",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - North America",
+          "team": "G2",
+          "prize": "$10,500"
+        },
+        {
+          "date": "2021-12-19",
+          "place": 1,
+          "tier": "A",
+          "event": "JBL Quantum Cup 2021",
+          "team": "G2",
+          "prize": "$25,000"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - North America",
+          "team": "G2",
+          "prize": "$10,500"
+        },
+        {
+          "date": "2021-03-27",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - North America",
+          "team": "sF",
+          "prize": "$24,000"
+        },
+        {
+          "date": "2020-12-19",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS Autumn Circuit Playoffs - North America",
+          "team": "sF",
+          "prize": "$22,500"
+        },
+        {
+          "date": "2020-09-12",
+          "place": 5,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - Americas",
+          "team": "AA",
+          "prize": "$9,000"
+        }
+      ]
+    },
+    {
+      "title": "Knoqd",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "United States",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "June 21, 2001 (age 25)",
+      "earnings": 379363,
+      "earningsText": "$379,363",
+      "history": [
+        {
+          "range": "2020-10-14 — 2021-01-21",
+          "team": "2 Brains 1 Controller",
+          "raw": "2 Brains 1 Controller"
+        },
+        {
+          "range": "2021-05-03 — 2021-06-23",
+          "team": "Cloud9",
+          "raw": "Cloud9"
+        },
+        {
+          "range": "2021-06-23 — 2022-04-28",
+          "team": "Cloud9",
+          "raw": "Cloud9(Streamer)"
+        },
+        {
+          "range": "2021-08-19 — 2021-11-08",
+          "team": "BenchWarmers",
+          "raw": "BenchWarmers"
+        },
+        {
+          "range": "2021-11-08 — 2021-11-25",
+          "team": "Torrent",
+          "raw": "Torrent(Stand-in)"
+        },
+        {
+          "range": "2022-04-28 — 2024-04-17",
+          "team": "OpTic Gaming",
+          "raw": "OpTic Gaming"
+        },
+        {
+          "range": "2024-07-07 — 2024-11-14",
+          "team": "Bleed Esports",
+          "raw": "Bleed Esports"
+        },
+        {
+          "range": "2024-11-16 — 2025-01-17",
+          "team": "Loan Sharks",
+          "raw": "Loan Sharks"
+        },
+        {
+          "range": "2025-01-17 — 2025-03-07",
+          "team": "ENVY",
+          "raw": "ENVY"
+        },
+        {
+          "range": "2025-05-01 — 2025-08-02",
+          "team": "FURIA",
+          "raw": "FURIA"
+        },
+        {
+          "range": "2025-09-24 — 2026-01-20",
+          "team": "GROW Gaming",
+          "raw": "GROW Gaming"
+        },
+        {
+          "range": "2026-04-25 — 2026-09-21",
+          "team": "Geekay Esports",
+          "raw": "Geekay Esports"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-01-18",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship",
+          "team": "GROW",
+          "prize": "$160,000"
+        },
+        {
+          "date": "2024-12-15",
+          "place": 2,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - Americas",
+          "team": "LS",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "BLD",
+          "prize": "$40,000"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "OG",
+          "prize": "$320,000"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "OG",
+          "prize": "$30,000"
+        },
+        {
+          "date": "2022-12-10",
+          "place": 1,
+          "tier": "A",
+          "event": "JBL Quantum Cup 2022 - North America",
+          "team": "OG",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2022-11-08",
+          "place": 1,
+          "tier": "A",
+          "event": "Code Red: Freedom Season 1",
+          "team": "OG",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs",
+          "team": "OG",
+          "prize": "$80,000"
+        },
+        {
+          "date": "2022-03-28",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - North America",
+          "team": "ESA",
+          "prize": "$30,000"
+        },
+        {
+          "date": "2021-06-13",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - North America",
+          "team": "C9",
+          "prize": "$132,875"
+        }
+      ]
+    },
+    {
+      "title": "Mande",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "Denmark",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "August 11, 1997 (age 29)",
+      "earnings": 167162,
+      "earningsText": "$167,162",
+      "history": [
+        {
+          "range": "2019-04-09 — 2019-04-20",
+          "team": "North",
+          "raw": "North(Stand-in)"
+        },
+        {
+          "range": "2019-07-19 — 2020-12-31",
+          "team": "North",
+          "raw": "North"
+        },
+        {
+          "range": "2020-12-31 — 2021-03-20",
+          "team": "Mikkel, Can & Dan",
+          "raw": "Mikkel, Can & Dan"
+        },
+        {
+          "range": "2021-03-20 — 2022-10-18",
+          "team": "SCARZ",
+          "raw": "SCARZ"
+        },
+        {
+          "range": "2022-11-01 — 2023-11-28",
+          "team": "Alliance",
+          "raw": "Alliance(Substitute)"
+        },
+        {
+          "range": "2023-01-26 — Present",
+          "team": "TSM",
+          "raw": "TSM(Streamer)"
+        },
+        {
+          "range": "2023-11-28 — 2024-03-15",
+          "team": "40%Worse",
+          "raw": "40%Worse"
+        }
+      ],
+      "results": [
+        {
+          "date": "2023-09-10",
+          "place": 19,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "ALL",
+          "prize": "$19,000"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs",
+          "team": "ALL",
+          "prize": "$65,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 11,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "SZ",
+          "prize": "$24,000"
+        },
+        {
+          "date": "2021-06-12",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - EMEA",
+          "team": "SZ.EU",
+          "prize": "$265,591"
+        },
+        {
+          "date": "2021-05-20",
+          "place": 1,
+          "tier": "A",
+          "event": "Twitch Rivals - EU Showdown",
+          "team": "Team gdolphn",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2020-09-13",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - EMEA",
+          "team": "NORTH",
+          "prize": "$25,250"
+        },
+        {
+          "date": "2020-08-02",
+          "place": 1,
+          "tier": "A",
+          "event": "GLL Masters Summer - EMEA",
+          "team": "NORTH",
+          "prize": "$15,000"
+        }
+      ]
+    },
+    {
+      "title": "Taxi",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "Denmark",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "",
+      "earnings": 3305,
+      "earningsText": "$3,305",
+      "history": [
+        {
+          "range": "2020-02-19 — 2020-05-29",
+          "team": "Clique Esports",
+          "raw": "Clique Esports"
+        }
+      ],
+      "results": [
+        {
+          "date": "2022-07-26",
+          "place": 5,
+          "tier": "A",
+          "event": "Twitch Rivals - NA Showdown 4",
+          "team": "Team surefour",
+          "prize": "$2,400"
+        },
+        {
+          "date": "2019-07-01",
+          "place": 8,
+          "tier": "A",
+          "event": "Twitch Rivals: Apex Legends Elite Queue Challenge 2",
+          "team": "Team AverageAden",
+          "prize": "$2,000"
+        }
+      ]
+    },
+    {
+      "title": "Dogma",
+      "found": true,
+      "currentTeam": "KINOTROPE gaming",
+      "nationality": "South Korea",
+      "status": "Active",
+      "yearsActive": "2019 – 2025",
+      "born": "July 3, 1997 (age 29)",
+      "earnings": 110976,
+      "earningsText": "$110,976",
+      "history": [
+        {
+          "range": "2019-11-01 — 2020-04-27",
+          "team": "Cyma",
+          "raw": "Cyma"
+        },
+        {
+          "range": "2020-04-27 — 2020-12-01",
+          "team": "OP.GG Sports",
+          "raw": "OP.GG Sports"
+        },
+        {
+          "range": "2020-12-01 — 2021-06-07",
+          "team": "FENNEL Korea",
+          "raw": "FENNEL Korea"
+        },
+        {
+          "range": "2021-06-25 — 2021-09-01",
+          "team": "Riddle",
+          "raw": "Riddle"
+        },
+        {
+          "range": "2021-09-16 — 2022-08-11",
+          "team": "REJECT",
+          "raw": "REJECT"
+        },
+        {
+          "range": "2022-09-13 — 2024-01-02",
+          "team": "ganbare otousan",
+          "raw": "ganbare otousan"
+        },
+        {
+          "range": "2024-01-02 — 2024-07-03",
+          "team": "Crazy Raccoon",
+          "raw": "Crazy Raccoon"
+        },
+        {
+          "range": "2024-07-03 — 2024-08-16",
+          "team": "REJECT WINNITY",
+          "raw": "REJECT WINNITY"
+        },
+        {
+          "range": "2024-08-16 — 2024-12-15",
+          "team": "REJECT WINNITY KR",
+          "raw": "REJECT WINNITY KR"
+        },
+        {
+          "range": "2025-03-25 — Present",
+          "team": "KINOTROPE",
+          "raw": "KINOTROPE(Coach)"
+        }
+      ],
+      "results": [
+        {
+          "date": "2023-07-16",
+          "place": 15,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "GO",
+          "prize": "$12,000"
+        },
+        {
+          "date": "2023-05-06",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - APAC North",
+          "team": "GO",
+          "prize": "$12,000"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 12,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs",
+          "team": "GO",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2022-03-27",
+          "place": 5,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - APAC North",
+          "team": "RC",
+          "prize": "$7,500"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - APAC North",
+          "team": "RC",
+          "prize": "$12,500"
+        },
+        {
+          "date": "2021-06-06",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - APAC North",
+          "team": "FLK",
+          "prize": "$177,319"
+        },
+        {
+          "date": "2020-12-19",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Autumn Circuit Playoffs - APAC North",
+          "team": "FLK",
+          "prize": "$18,000"
+        },
+        {
+          "date": "2020-09-12",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - APAC North",
+          "team": "OP.GG",
+          "prize": "$6,750"
+        }
+      ]
+    },
+    {
+      "title": "Xynew",
+      "found": true,
+      "currentTeam": "Shopify Rebellion",
+      "nationality": "United States",
+      "status": "Active",
+      "yearsActive": "2022 – Present",
+      "born": "August 20, 2005 (age 21)",
+      "earnings": 341105,
+      "earningsText": "$341,105",
+      "history": [
+        {
+          "range": "2023-02-11 — 2023-05-03",
+          "team": "Meat Lovers",
+          "raw": "Meat Lovers"
+        },
+        {
+          "range": "2023-05-07 — 2023-10-01",
+          "team": "DarkZero Esports",
+          "raw": "DarkZero Esports"
+        },
+        {
+          "range": "2023-10-01 — 2024-02-01",
+          "team": "DarkZero",
+          "raw": "DarkZero(Inactive)"
+        },
+        {
+          "range": "2024-02-01 — 2024-09-04",
+          "team": "Spacestation Gaming",
+          "raw": "Spacestation Gaming"
+        },
+        {
+          "range": "2024-09-29 — 2025-01-17",
+          "team": "Moist Esports",
+          "raw": "Moist Esports"
+        },
+        {
+          "range": "2025-01-17 — Present",
+          "team": "Shopify Rebellion",
+          "raw": "Shopify Rebellion"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-11-01",
+          "place": 15,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs",
+          "team": "SR",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2025-10-12",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - Americas",
+          "team": "SR",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2025 Open",
+          "team": "SR",
+          "prize": "$60,000"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship",
+          "team": "SR",
+          "prize": "$170,000"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "SSG",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2024-05-05",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 1 Playoffs",
+          "team": "SSG",
+          "prize": "$14,000"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "DZ",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2023-05-08",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - North America",
+          "team": "DZ",
+          "prize": "$15,000"
+        }
+      ]
+    },
+    {
+      "title": "Ras",
+      "found": true,
+      "currentTeam": "Crazy Raccoon",
+      "nationality": "South Korea",
+      "status": "Retired",
+      "yearsActive": "2019 – 2023",
+      "born": "September 28, 1999 (age 27)",
+      "earnings": 76468,
+      "earningsText": "$76,468",
+      "history": [
+        {
+          "range": "2019-04-08 — 2020-01-03",
+          "team": "MVP",
+          "raw": "MVP"
+        },
+        {
+          "range": "2020-01-03 — 2020-01-16",
+          "team": "MVP Ares",
+          "raw": "MVP Ares"
+        },
+        {
+          "range": "2020-02-13 — 2020-03-21",
+          "team": "Aura Esports",
+          "raw": "Aura Esports"
+        },
+        {
+          "range": "2020-03-21 — 2023-08-19",
+          "team": "Crazy Raccoon",
+          "raw": "Crazy Raccoon"
+        },
+        {
+          "range": "2023-08-19 — 2025-08-19",
+          "team": "CR",
+          "raw": "CR(Inactive)"
+        },
+        {
+          "range": "2025-08-19 — Present",
+          "team": "CR",
+          "raw": "CR(Streamer)"
+        }
+      ],
+      "results": [
+        {
+          "date": "2022-12-11",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Pro League - APAC North",
+          "team": "CR",
+          "prize": "$12,000"
+        },
+        {
+          "date": "2022-03-27",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - APAC North",
+          "team": "CR",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2021-06-06",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - APAC North",
+          "team": "CR",
+          "prize": "$88,272"
+        },
+        {
+          "date": "2021-03-28",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - APAC North",
+          "team": "CR",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2019-09-15",
+          "place": 9,
+          "tier": "S",
+          "event": "Apex Legends Preseason Invitational",
+          "team": "MVP",
+          "prize": "$15,000"
+        }
+      ]
+    },
+    {
+      "title": "Effect",
+      "found": true,
+      "currentTeam": "Aurora Gaming",
+      "nationality": "Non-representing Russia",
+      "status": "Active",
+      "yearsActive": "2022 – Present",
+      "born": "April 26, 2005 (age 21)",
+      "earnings": 523775,
+      "earningsText": "$523,775",
+      "history": [
+        {
+          "range": "2022-11-15 — 2026-02-21",
+          "team": "Alliance",
+          "raw": "Alliance"
+        },
+        {
+          "range": "2026-02-21 — Present",
+          "team": "Aurora Gaming",
+          "raw": "Aurora Gaming"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-11-01",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs",
+          "team": "AUR",
+          "prize": "$150,000"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - EMEA",
+          "team": "AUR",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2026-06-07",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - EMEA",
+          "team": "AUR",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2025-10-12",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - EMEA",
+          "team": "ALL",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2025-06-15",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - EMEA",
+          "team": "ALL",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2025 Open",
+          "team": "ALL",
+          "prize": "$150,000"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship",
+          "team": "ALL",
+          "prize": "$320,000"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 1,
+          "tier": "S",
+          "event": "Esports World Cup 2024",
+          "team": "ALL",
+          "prize": "$600,000"
+        },
+        {
+          "date": "2024-07-14",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - EMEA",
+          "team": "ALL",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2023-05-07",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - EMEA",
+          "team": "ALL",
+          "prize": "$20,000"
+        }
+      ]
+    },
+    {
+      "title": "Nafen",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "United States Vietnam",
+      "status": "Retired",
+      "yearsActive": "2019 – 2023",
+      "born": "October 17, 2001 (age 25)",
+      "earnings": 207557,
+      "earningsText": "$207,557",
+      "history": [
+        {
+          "range": "2020-04-20 — 2023-09-15",
+          "team": "NRG",
+          "raw": "NRG"
+        }
+      ],
+      "results": [
+        {
+          "date": "2023-02-05",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs",
+          "team": "NRG",
+          "prize": "$160,000"
+        },
+        {
+          "date": "2022-11-07",
+          "place": 1,
+          "tier": "A",
+          "event": "MFAM Gauntlet #3",
+          "team": "NRG",
+          "prize": "$12,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "NRG",
+          "prize": "$48,000"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs",
+          "team": "NRG",
+          "prize": "$36,000"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America",
+          "team": "NRG",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - North America",
+          "team": "NRG",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2021-03-27",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - North America",
+          "team": "NRG",
+          "prize": "$48,000"
+        }
+      ]
+    },
+    {
+      "title": "Rocker",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "United States",
+      "status": "Retired",
+      "yearsActive": "2019 – 2023",
+      "born": "September 8, 2003 (age 23)",
+      "earnings": 113206,
+      "earningsText": "$113,206",
+      "history": [
+        {
+          "range": "2020-05-20 — 2022-07-22",
+          "team": "NRG",
+          "raw": "NRG"
+        },
+        {
+          "range": "2022-08-09 — 2022-12-04",
+          "team": "Cloud9",
+          "raw": "Cloud9"
+        },
+        {
+          "range": "2023-01-10",
+          "team": "Retired",
+          "raw": "Retired"
+        }
+      ],
+      "results": [
+        {
+          "date": "2022-07-10",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "NRG",
+          "prize": "$48,000"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs",
+          "team": "NRG",
+          "prize": "$36,000"
+        },
+        {
+          "date": "2022-03-28",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - North America",
+          "team": "NRG",
+          "prize": "$12,500"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America",
+          "team": "NRG",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - North America",
+          "team": "NRG",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2021-03-27",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - North America",
+          "team": "NRG",
+          "prize": "$48,000"
+        }
+      ]
+    },
+    {
+      "title": "Frexs",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "United States",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "April 18, 1994 (age 32)",
+      "earnings": 175289,
+      "earningsText": "$175,289",
+      "history": [
+        {
+          "range": "2019-03-21 — 2019-08-07",
+          "team": "Cloud9",
+          "raw": "Cloud9"
+        },
+        {
+          "range": "2019-09-13 — 2019-09-15",
+          "team": "Team Reciprocity",
+          "raw": "Team Reciprocity"
+        },
+        {
+          "range": "2020-01-03 — 2021-01-01",
+          "team": "NRG",
+          "raw": "NRG"
+        },
+        {
+          "range": "2021-03-27 — 2023-02-13",
+          "team": "Spacestation Gaming",
+          "raw": "Spacestation Gaming"
+        },
+        {
+          "range": "2023-03-09 — 2023-11-30",
+          "team": "FaZe Clan",
+          "raw": "FaZe Clan"
+        },
+        {
+          "range": "2023-11-30 — 2024-01-20",
+          "team": "FaZe Clan",
+          "raw": "FaZe Clan(Inactive)"
+        },
+        {
+          "range": "2024-02-01 — 2024-05-22",
+          "team": "Spacestation Gaming",
+          "raw": "Spacestation Gaming"
+        },
+        {
+          "range": "2024-06-22 — 2024-07-18",
+          "team": "Oxygen Esports",
+          "raw": "Oxygen Esports"
+        },
+        {
+          "range": "2024-09-12 — 2024-09-15",
+          "team": "Flat",
+          "raw": "Flat"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-03-13",
+          "place": 1,
+          "tier": "A",
+          "event": "Twitch Rivals - Apex x Gundam",
+          "team": "DeusAmir",
+          "prize": "$23,000"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "FAZE",
+          "prize": "$100,000"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "FAZE",
+          "prize": "$65,000"
+        },
+        {
+          "date": "2022-12-10",
+          "place": 2,
+          "tier": "A",
+          "event": "JBL Quantum Cup 2022 - North America",
+          "team": "SSG",
+          "prize": "$10,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "SSG",
+          "prize": "$90,000"
+        },
+        {
+          "date": "2021-06-13",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - North America",
+          "team": "SSG",
+          "prize": "$35,154"
+        },
+        {
+          "date": "2020-09-12",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - Americas",
+          "team": "NRG",
+          "prize": "$12,600"
+        }
+      ]
+    },
+    {
+      "title": "Dropped",
+      "found": true,
+      "currentTeam": "Geekay Esports",
+      "nationality": "United States",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "August 31, 1999 (age 27)",
+      "earnings": 394409,
+      "earningsText": "$394,409",
+      "history": [
+        {
+          "range": "2019-04-03 — 2021-01-03",
+          "team": "Rogue",
+          "raw": "Rogue"
+        },
+        {
+          "range": "2021-07-27 — 2023-02-13",
+          "team": "Spacestation Gaming",
+          "raw": "Spacestation Gaming"
+        },
+        {
+          "range": "2023-03-11 — 2024-04-17",
+          "team": "OpTic Gaming",
+          "raw": "OpTic Gaming"
+        },
+        {
+          "range": "2024-07-07 — 2024-11-14",
+          "team": "Bleed Esports",
+          "raw": "Bleed Esports"
+        },
+        {
+          "range": "2024-11-16 — 2025-01-17",
+          "team": "Loan Sharks",
+          "raw": "Loan Sharks"
+        },
+        {
+          "range": "2025-01-17 — 2025-05-28",
+          "team": "ENVY",
+          "raw": "ENVY"
+        },
+        {
+          "range": "2025-05-29 — 2025-07-18",
+          "team": "All Gamers Global",
+          "raw": "All Gamers Global"
+        },
+        {
+          "range": "2025-09-24 — 2026-01-20",
+          "team": "GROW Gaming",
+          "raw": "GROW Gaming"
+        },
+        {
+          "range": "2026-04-25 — 2026-09-21",
+          "team": "Geekay Esports",
+          "raw": "Geekay Esports"
+        },
+        {
+          "range": "2026-10-22 — Present",
+          "team": "Geekay Esports",
+          "raw": "Geekay Esports(Coach)"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-03-13",
+          "place": 1,
+          "tier": "A",
+          "event": "Twitch Rivals - Apex x Gundam",
+          "team": "DeusAmir",
+          "prize": "$23,000"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship",
+          "team": "GROW",
+          "prize": "$160,000"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS: 2025 Open",
+          "team": "NV",
+          "prize": "$30,000"
+        },
+        {
+          "date": "2024-12-15",
+          "place": 2,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - Americas",
+          "team": "LS",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "BLD",
+          "prize": "$40,000"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "OG",
+          "prize": "$320,000"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "OG",
+          "prize": "$30,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "SSG",
+          "prize": "$90,000"
+        },
+        {
+          "date": "2020-08-02",
+          "place": 1,
+          "tier": "A",
+          "event": "GLL Masters Summer - Americas",
+          "team": "RGE",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2019-04-13",
+          "place": 1,
+          "tier": "S",
+          "event": "TwitchCon Europe Showdown 2019",
+          "team": "RGE",
+          "prize": "$74,600"
+        }
+      ]
+    },
+    {
+      "title": "Lou",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "United States",
+      "status": "Active",
+      "yearsActive": "2019 – 2026",
+      "born": "September 15, 2001 (age 25)",
+      "earnings": 113473,
+      "earningsText": "$113,473",
+      "history": [
+        {
+          "range": "2019-08-05 — 2020-01-21",
+          "team": "FlyQuest",
+          "raw": "FlyQuest"
+        },
+        {
+          "range": "2020-04-17 — 2020-07-20",
+          "team": "Complexity Gaming",
+          "raw": "Complexity Gaming"
+        },
+        {
+          "range": "2020-07-20 — 2021-04-06",
+          "team": "COL",
+          "raw": "COL(Streamer)"
+        },
+        {
+          "range": "2021-04-06 — 2021-10-01",
+          "team": "Counter Logic Gaming",
+          "raw": "Counter Logic Gaming"
+        },
+        {
+          "range": "2021-10-20 — 2022-11-15",
+          "team": "Sentinels",
+          "raw": "Sentinels"
+        },
+        {
+          "range": "2022-11-15 — 2023-01-23",
+          "team": "Sentinels",
+          "raw": "Sentinels(Inactive)"
+        },
+        {
+          "range": "2023-02-16 — 2023-05-27",
+          "team": "LANimals",
+          "raw": "LANimals"
+        },
+        {
+          "range": "2023-06-04 — 2023-08-22",
+          "team": "Dudes Night Out",
+          "raw": "Dudes Night Out"
+        },
+        {
+          "range": "2023-08-22 — 2023-09-08",
+          "team": "Disguised",
+          "raw": "Disguised"
+        },
+        {
+          "range": "2023-09-08 — 2023-11-03",
+          "team": "Dudes Night Out",
+          "raw": "Dudes Night Out"
+        },
+        {
+          "range": "2024-01-21 — 2024-10-04",
+          "team": "Complexity Gaming",
+          "raw": "Complexity Gaming"
+        },
+        {
+          "range": "2024-11-22 — 2026-01-23",
+          "team": "Virtus.pro",
+          "raw": "Virtus.pro"
+        },
+        {
+          "range": "2026-09-02 — 2026-09-25",
+          "team": "HUSS",
+          "raw": "HUSS(Coach)"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-01-18",
+          "place": 18,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship",
+          "team": "VP",
+          "prize": "$16,000"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 18,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs",
+          "team": "VP",
+          "prize": "$14,000"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship",
+          "team": "VP",
+          "prize": "$130,000"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 12,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "COL",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America",
+          "team": "SEN",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - North America",
+          "team": "SEN",
+          "prize": "$30,000"
+        },
+        {
+          "date": "2021-03-27",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - North America",
+          "team": "CLG",
+          "prize": "$10,800"
+        }
+      ]
+    },
+    {
+      "title": "Sikezz",
+      "found": true,
+      "currentTeam": "Team Liquid",
+      "nationality": "United States",
+      "status": "Active",
+      "yearsActive": "2021 – Present",
+      "born": "March 15, 2000 (age 26)",
+      "earnings": 513232,
+      "earningsText": "$513,232",
+      "history": [
+        {
+          "range": "2022-12-16 — 2023-11-30",
+          "team": "XSET",
+          "raw": "XSET"
+        },
+        {
+          "range": "2024-01-12 — 2024-05-28",
+          "team": "DarkZero Esports",
+          "raw": "DarkZero Esports"
+        },
+        {
+          "range": "2024-05-31 — 2025-02-13",
+          "team": "Luminosity Gaming",
+          "raw": "Luminosity Gaming"
+        },
+        {
+          "range": "2025-03-07 — 2025-05-12",
+          "team": "ENVY",
+          "raw": "ENVY"
+        },
+        {
+          "range": "2025-05-12 — 2025-08-09",
+          "team": "NRG",
+          "raw": "NRG"
+        },
+        {
+          "range": "2025-11-05 — Present",
+          "team": "Team Liquid",
+          "raw": "Team Liquid"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-11-01",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs",
+          "team": "TL",
+          "prize": "$600,000"
+        },
+        {
+          "date": "2026-07-11",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 1 Playoffs",
+          "team": "TL",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship",
+          "team": "LG",
+          "prize": "$80,000"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 3,
+          "tier": "S",
+          "event": "Esports World Cup 2024",
+          "team": "LG",
+          "prize": "$200,000"
+        },
+        {
+          "date": "2024-05-05",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 1 Playoffs",
+          "team": "DZ",
+          "prize": "$160,000"
+        },
+        {
+          "date": "2024-03-25",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - North America",
+          "team": "DZ",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "XSET",
+          "prize": "$85,000"
+        },
+        {
+          "date": "2023-05-08",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - North America",
+          "team": "XSET",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs",
+          "team": "XSET",
+          "prize": "$85,000"
+        },
+        {
+          "date": "2021-12-15",
+          "place": 1,
+          "tier": "A",
+          "event": "Samsung Odyssey Invitational",
+          "team": "Team Sweetdreams",
+          "prize": "$50,000"
+        }
+      ]
+    },
+    {
+      "title": "TeQ",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "United States",
+      "status": "Retired",
+      "yearsActive": "2020 – 2024",
+      "born": "October 12, 1996 (age 30)",
+      "earnings": 22483,
+      "earningsText": "$22,483",
+      "history": [
+        {
+          "range": "2020-08-08 — 2020-10-08",
+          "team": "Flying Drone",
+          "raw": "Flying Drone"
+        },
+        {
+          "range": "2020-10-14 — 2021-01-21",
+          "team": "2 Brains 1 Controller",
+          "raw": "2 Brains 1 Controller"
+        },
+        {
+          "range": "2021-03-03 — 2021-04-11",
+          "team": "Rockstar",
+          "raw": "Rockstar"
+        },
+        {
+          "range": "2021-10-15 — 2022-05-07",
+          "team": "FURIA Esports",
+          "raw": "FURIA Esports"
+        },
+        {
+          "range": "2022-11-06 — 2023-01-23",
+          "team": "Sentinels",
+          "raw": "Sentinels(Coach)"
+        },
+        {
+          "range": "2023-02-11 — 2024-09-15",
+          "team": "Meat Lovers",
+          "raw": "Meat Lovers"
+        },
+        {
+          "range": "2024-09-15",
+          "team": "Retired",
+          "raw": "Retired"
+        }
+      ],
+      "results": [
+        {
+          "date": "2023-05-08",
+          "place": 13,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - North America",
+          "team": "MEAT",
+          "prize": "$3,000"
+        },
+        {
+          "date": "2022-11-07",
+          "place": 4,
+          "tier": "A",
+          "event": "MFAM Gauntlet #3",
+          "team": "SEN",
+          "prize": "$6,000"
+        },
+        {
+          "date": "2021-12-19",
+          "place": 4,
+          "tier": "A",
+          "event": "JBL Quantum Cup 2021",
+          "team": "FUR",
+          "prize": "$5,000"
+        },
+        {
+          "date": "2020-09-12",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - Americas",
+          "team": "Flying Drone",
+          "prize": "$18,000"
+        }
+      ]
+    },
+    {
+      "title": "Zer0",
+      "found": true,
+      "currentTeam": "Team Liquid",
+      "nationality": "Australia",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "June 29, 2000 (age 26)",
+      "earnings": 1073485,
+      "earningsText": "$1,073,485",
+      "history": [
+        {
+          "range": "2019-04-12 — 2019-10-04",
+          "team": "Excellence",
+          "raw": "Excellence"
+        },
+        {
+          "range": "2019-10-04 — 2020-02-15",
+          "team": "EBC",
+          "raw": "EBC"
+        },
+        {
+          "range": "2020-02-15 — 2020-12-20",
+          "team": "EXO Clan",
+          "raw": "EXO Clan"
+        },
+        {
+          "range": "2021-01-11 — 2021-09-06",
+          "team": "Reignite South",
+          "raw": "Reignite South"
+        },
+        {
+          "range": "2021-09-06 — 2022-07-04",
+          "team": "Reignite",
+          "raw": "Reignite"
+        },
+        {
+          "range": "2022-07-05 — 2024-05-28",
+          "team": "DarkZero Esports",
+          "raw": "DarkZero Esports"
+        },
+        {
+          "range": "2024-05-28 — 2025-09-10",
+          "team": "Team Falcons",
+          "raw": "Team Falcons"
+        },
+        {
+          "range": "2025-09-10 — 2025-11-05",
+          "team": "FLCN",
+          "raw": "FLCN(Inactive)"
+        },
+        {
+          "range": "2025-11-05 — Present",
+          "team": "Team Liquid",
+          "raw": "Team Liquid"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-11-01",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs",
+          "team": "TL",
+          "prize": "$600,000"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs",
+          "team": "FLCN",
+          "prize": "$100,000"
+        },
+        {
+          "date": "2025-06-15",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - Americas",
+          "team": "FLCN",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2025 Open",
+          "team": "FLCN",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship",
+          "team": "FLCN",
+          "prize": "$210,000"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 2,
+          "tier": "S",
+          "event": "Esports World Cup 2024",
+          "team": "FLCN",
+          "prize": "$375,000"
+        },
+        {
+          "date": "2024-05-05",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 1 Playoffs",
+          "team": "DZ",
+          "prize": "$160,000"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "DZ",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "DZ",
+          "prize": "$500,000"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs",
+          "team": "RIG",
+          "prize": "$250,000"
+        }
+      ]
+    },
+    {
+      "title": "Genburten",
+      "found": true,
+      "currentTeam": "Crazy Thieves",
+      "nationality": "Australia Turkey",
+      "status": "Active",
+      "yearsActive": "2020 – Present",
+      "born": "September 20, 1999 (age 27)",
+      "earnings": 666286,
+      "earningsText": "$666,286",
+      "history": [
+        {
+          "range": "2019-11-15 — 2020-03-12",
+          "team": "FURY",
+          "raw": "FURY"
+        },
+        {
+          "range": "2020-04-30 — 2020-09-29",
+          "team": "HeadHunters",
+          "raw": "HeadHunters"
+        },
+        {
+          "range": "2020-09-29 — 2020-12-20",
+          "team": "MiTH T2",
+          "raw": "MiTH T2"
+        },
+        {
+          "range": "2021-01-11 — 2021-09-06",
+          "team": "Reignite South",
+          "raw": "Reignite South"
+        },
+        {
+          "range": "2021-09-06 — 2022-07-04",
+          "team": "Reignite",
+          "raw": "Reignite"
+        },
+        {
+          "range": "2022-07-05 — 2024-05-28",
+          "team": "DarkZero Esports",
+          "raw": "DarkZero Esports"
+        },
+        {
+          "range": "2024-05-28 — 2024-09-24",
+          "team": "Team Falcons",
+          "raw": "Team Falcons"
+        },
+        {
+          "range": "2024-09-24 — 2024-11-11",
+          "team": "The Dojo",
+          "raw": "The Dojo"
+        },
+        {
+          "range": "2024-11-11 — 2026-01-07",
+          "team": "100 Thieves",
+          "raw": "100 Thieves"
+        },
+        {
+          "range": "2026-01-07 — Present",
+          "team": "Crazy Thieves",
+          "raw": "Crazy Thieves"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-10-23",
+          "place": 1,
+          "tier": "A",
+          "event": "Eternal Esports Club - GameSir Invitational",
+          "team": "CRT",
+          "prize": "$21,000"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship",
+          "team": "CRT",
+          "prize": "$100,000"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs",
+          "team": "100T",
+          "prize": "$80,000"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2025 Open",
+          "team": "100T",
+          "prize": "$75,000"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 2,
+          "tier": "S",
+          "event": "Esports World Cup 2024",
+          "team": "FLCN",
+          "prize": "$375,000"
+        },
+        {
+          "date": "2024-07-14",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - North America",
+          "team": "FLCN",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2024-05-05",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 1 Playoffs",
+          "team": "DZ",
+          "prize": "$160,000"
+        },
+        {
+          "date": "2024-03-25",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - North America",
+          "team": "DZ",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "DZ",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "DZ",
+          "prize": "$500,000"
+        }
+      ]
+    },
+    {
+      "title": "Sharky",
+      "found": true,
+      "currentTeam": "S8UL Esports",
+      "nationality": "Australia",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "January 18, 2001 (age 25)",
+      "earnings": 386751,
+      "earningsText": "$386,751",
+      "history": [
+        {
+          "range": "2020-02-15 — 2020-09-13",
+          "team": "EXO Clan",
+          "raw": "EXO Clan"
+        },
+        {
+          "range": "2020-09-13",
+          "team": "Retired",
+          "raw": "Retired"
+        },
+        {
+          "range": "2021-01-10 — 2021-02-09",
+          "team": "Team Burger",
+          "raw": "Team Burger"
+        },
+        {
+          "range": "2021-02-09 — 2021-06-15",
+          "team": "REJECT",
+          "raw": "REJECT"
+        },
+        {
+          "range": "2021-06-15 — 2022-03-12",
+          "team": "Team Burger",
+          "raw": "Team Burger"
+        },
+        {
+          "range": "2022-03-12 — 2022-04-20",
+          "team": "Reignite",
+          "raw": "Reignite(Stand-in)"
+        },
+        {
+          "range": "2022-04-20 — 2022-07-04",
+          "team": "Reignite",
+          "raw": "Reignite"
+        },
+        {
+          "range": "2022-07-05 — 2023-04-15",
+          "team": "DarkZero Esports",
+          "raw": "DarkZero Esports"
+        },
+        {
+          "range": "2024-01-23 — 2024-04-10",
+          "team": "Team Burger",
+          "raw": "Team Burger"
+        },
+        {
+          "range": "2024-04-10 — 2024-11-22",
+          "team": "Virtus.pro",
+          "raw": "Virtus.pro"
+        },
+        {
+          "range": "2024-11-22 — 2025-03-30",
+          "team": "Team Burger",
+          "raw": "Team Burger"
+        },
+        {
+          "range": "2025-04-10 — Present",
+          "team": "S8UL Esports",
+          "raw": "S8UL Esports"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-06-06",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South",
+          "team": "S8UL",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship",
+          "team": "S8UL",
+          "prize": "$120,000"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 15,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs",
+          "team": "S8UL",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2023-05-08",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - North America",
+          "team": "DZ",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "DZ",
+          "prize": "$500,000"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs",
+          "team": "RIG",
+          "prize": "$250,000"
+        },
+        {
+          "date": "2022-03-27",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - APAC South",
+          "team": "RIG",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2022-01-16",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - APAC South",
+          "team": "BRGR",
+          "prize": "$12,500"
+        },
+        {
+          "date": "2021-06-05",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - APAC South",
+          "team": "RC",
+          "prize": "$23,541"
+        }
+      ]
+    },
+    {
+      "title": "Emtee",
+      "found": true,
+      "currentTeam": "World Wide",
+      "nationality": "Australia",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "March 17, 2000 (age 26)",
+      "earnings": 260906,
+      "earningsText": "$260,906",
+      "history": [
+        {
+          "range": "2019-04-05 — 2019-08-14",
+          "team": "Trident Esports",
+          "raw": "Trident Esports"
+        },
+        {
+          "range": "2020-02-15 — 2021-01-10",
+          "team": "EXO Clan",
+          "raw": "EXO Clan"
+        },
+        {
+          "range": "2021-01-10 — 2021-02-09",
+          "team": "Team Burger",
+          "raw": "Team Burger"
+        },
+        {
+          "range": "2021-02-09 — 2021-06-15",
+          "team": "REJECT",
+          "raw": "REJECT"
+        },
+        {
+          "range": "2021-06-15 — 2022-09-06",
+          "team": "Team Burger",
+          "raw": "Team Burger"
+        },
+        {
+          "range": "2022-09-06 — 2024-06-12",
+          "team": "Not Moist",
+          "raw": "Not Moist"
+        },
+        {
+          "range": "2024-07-05 — 2024-09-29",
+          "team": "Guild Esports",
+          "raw": "Guild Esports"
+        },
+        {
+          "range": "2024-09-29 — 2025-01-17",
+          "team": "Moist Esports",
+          "raw": "Moist Esports"
+        },
+        {
+          "range": "2025-01-17 — 2025-08-11",
+          "team": "Shopify Rebellion",
+          "raw": "Shopify Rebellion"
+        },
+        {
+          "range": "2025-08-14 — 2026-01-23",
+          "team": "Virtus.pro",
+          "raw": "Virtus.pro"
+        },
+        {
+          "range": "2026-04-04 — 2026-04-29",
+          "team": "Team Burger",
+          "raw": "Team Burger"
+        },
+        {
+          "range": "2026-04-29 — 2026-08-22",
+          "team": "GodLike Esports",
+          "raw": "GodLike Esports"
+        },
+        {
+          "range": "2026-08-22 — Present",
+          "team": "World Wide",
+          "raw": "World Wide"
+        }
+      ],
+      "results": [
+        {
+          "date": "2025-05-04",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2025 Open",
+          "team": "SR",
+          "prize": "$60,000"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship",
+          "team": "SR",
+          "prize": "$170,000"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "GUILD",
+          "prize": "$65,000"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 9,
+          "tier": "S",
+          "event": "Esports World Cup 2024",
+          "team": "GUILD",
+          "prize": "$40,000"
+        },
+        {
+          "date": "2024-05-05",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 1 Playoffs",
+          "team": "MST",
+          "prize": "$85,000"
+        },
+        {
+          "date": "2024-03-25",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - North America",
+          "team": "MST",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "MST",
+          "prize": "$40,000"
+        },
+        {
+          "date": "2023-04-29",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - APAC South",
+          "team": "MST",
+          "prize": "$10,000"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs",
+          "team": "MST",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2021-06-05",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - APAC South",
+          "team": "RC",
+          "prize": "$23,541"
+        }
+      ]
+    },
+    {
+      "title": "Selly",
+      "found": true,
+      "currentTeam": "Crazy Raccoon",
+      "nationality": "South Korea",
+      "status": "Retired",
+      "yearsActive": "2019 – 2022",
+      "born": "February 12, 1998 (age 28)",
+      "earnings": 88308,
+      "earningsText": "$88,308",
+      "history": [
+        {
+          "range": "2019-10-08 — 2020-01-02",
+          "team": "T1 Korea",
+          "raw": "T1 Korea"
+        },
+        {
+          "range": "2020-01-02 — 2020-12-27",
+          "team": "T1",
+          "raw": "T1(Streamer)"
+        },
+        {
+          "range": "2020-12-27 — 2022-03-13",
+          "team": "Crazy Raccoon",
+          "raw": "Crazy Raccoon"
+        },
+        {
+          "range": "2022-03-13 — 2024-01-02",
+          "team": "CR",
+          "raw": "CR(Inactive)"
+        },
+        {
+          "range": "2022-03-13 — 2022-04-28",
+          "team": "αD",
+          "raw": "› αD(Loan)"
+        },
+        {
+          "range": "2024-01-02 — Present",
+          "team": "CR",
+          "raw": "CR(Streamer)"
+        }
+      ],
+      "results": [
+        {
+          "date": "2022-03-27",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - APAC North",
+          "team": "αDR",
+          "prize": "$30,000"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 6,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - APAC North",
+          "team": "CR",
+          "prize": "$6,000"
+        },
+        {
+          "date": "2021-06-06",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - APAC North",
+          "team": "CR",
+          "prize": "$88,272"
+        },
+        {
+          "date": "2021-03-28",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - APAC North",
+          "team": "CR",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2019-09-15",
+          "place": 3,
+          "tier": "S",
+          "event": "Apex Legends Preseason Invitational",
+          "team": "WYV",
+          "prize": "$60,000"
+        },
+        {
+          "date": "2019-03-30",
+          "place": 1,
+          "tier": "A",
+          "event": "Twitch Apex Legends Streamer Challenge: Asia Cup Finals",
+          "team": "TeamJuan",
+          "prize": "$10,000"
+        }
+      ]
+    },
+    {
+      "title": "Obly",
+      "found": true,
+      "currentTeam": "ENTER FORCE.36",
+      "nationality": "South Korea",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "December 18, 1999 (age 26)",
+      "earnings": 285593,
+      "earningsText": "$285,593",
+      "history": [
+        {
+          "range": "2020-03-09 — 2020-06-11",
+          "team": "T1 Korea",
+          "raw": "T1 Korea"
+        },
+        {
+          "range": "2020-06-11 — 2021-08-17",
+          "team": "T1",
+          "raw": "T1"
+        },
+        {
+          "range": "2021-10-01 — 2022-01-31",
+          "team": "RIDDLE",
+          "raw": "RIDDLE"
+        },
+        {
+          "range": "2022-03-01 — 2022-07-31",
+          "team": "esports team αD",
+          "raw": "esports team αD"
+        },
+        {
+          "range": "2022-09-12 — 2023-06-21",
+          "team": "fun123",
+          "raw": "fun123"
+        },
+        {
+          "range": "2023-06-21 — 2023-10-31",
+          "team": "REALIZE",
+          "raw": "REALIZE"
+        },
+        {
+          "range": "2023-10-31 — 2023-12-31",
+          "team": "REALIZE",
+          "raw": "REALIZE(Inactive)"
+        },
+        {
+          "range": "2024-01-19 — 2024-07-03",
+          "team": "REJECT WINNITY",
+          "raw": "REJECT WINNITY"
+        },
+        {
+          "range": "2024-07-03 — 2025-08-19",
+          "team": "Crazy Raccoon",
+          "raw": "Crazy Raccoon"
+        },
+        {
+          "range": "2026-03-20 — Present",
+          "team": "ENTER FORCE.36",
+          "raw": "ENTER FORCE.36"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-09-13",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - APAC North",
+          "team": "E36",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2024-12-14",
+          "place": 1,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - APAC North",
+          "team": "CR",
+          "prize": "$40,000"
+        },
+        {
+          "date": "2024-05-05",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 1 Playoffs",
+          "team": "RCW",
+          "prize": "$300,000"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "RLZ",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 10,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "αD",
+          "prize": "$36,000"
+        },
+        {
+          "date": "2022-03-27",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - APAC North",
+          "team": "αDR",
+          "prize": "$30,000"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - APAC North",
+          "team": "RID",
+          "prize": "$100,000"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - APAC North",
+          "team": "RID",
+          "prize": "$30,000"
+        },
+        {
+          "date": "2021-06-06",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - APAC North",
+          "team": "T1",
+          "prize": "$52,344"
+        },
+        {
+          "date": "2021-03-28",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - APAC North",
+          "team": "T1",
+          "prize": "$30,000"
+        }
+      ]
+    },
+    {
+      "title": "YukaPEROdator",
+      "found": true,
+      "currentTeam": "KINOTROPE gaming",
+      "nationality": "Japan",
+      "status": "Active",
+      "yearsActive": "2021 – Present",
+      "born": "July 16, 2001 (age 25)",
+      "earnings": 37573,
+      "earningsText": "$37,573",
+      "history": [
+        {
+          "range": "2021-03-19 — 2021-04-23",
+          "team": "Nature Bloom",
+          "raw": "Nature Bloom(Tryout)"
+        },
+        {
+          "range": "2021-04-23 — 2021-04-29",
+          "team": "Nature IRIS",
+          "raw": "Nature IRIS(Tryout)"
+        },
+        {
+          "range": "2021-04-29 — 2021-06-05",
+          "team": "Nature IRIS",
+          "raw": "Nature IRIS"
+        },
+        {
+          "range": "2021-06-11 — 2021-07-31",
+          "team": "TSURUGI eSports",
+          "raw": "TSURUGI eSports"
+        },
+        {
+          "range": "2021-07-31 — 2023-09-27",
+          "team": "FC Destroy",
+          "raw": "FC Destroy"
+        },
+        {
+          "range": "2023-12-01 — 2024-05-14",
+          "team": "NORTHEPTION",
+          "raw": "NORTHEPTION"
+        },
+        {
+          "range": "2024-05-23 — 2024-09-06",
+          "team": "NORTHEPTION",
+          "raw": "NORTHEPTION"
+        },
+        {
+          "range": "2024-10-23 — 2024-12-15",
+          "team": "RIDDLE",
+          "raw": "RIDDLE(Stand-in)"
+        },
+        {
+          "range": "2025-03-25 — Present",
+          "team": "KINOTROPE gaming",
+          "raw": "KINOTROPE gaming"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-09-13",
+          "place": 6,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - APAC North",
+          "team": "KN",
+          "prize": "$6,000"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 28,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship",
+          "team": "KN",
+          "prize": "$6,000"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 20,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs",
+          "team": "KN",
+          "prize": "$10,000"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 7,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC North",
+          "team": "KN",
+          "prize": "$5,000"
+        },
+        {
+          "date": "2024-12-14",
+          "place": 6,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - APAC North",
+          "team": "RID",
+          "prize": "$5,000"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 22,
+          "tier": "S",
+          "event": "Esports World Cup 2024",
+          "team": "NTH",
+          "prize": "$10,500"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "FC",
+          "prize": "$14,000"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 8,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - APAC North",
+          "team": "FC",
+          "prize": "$6,000"
+        }
+      ]
+    },
+    {
+      "title": "Hakis",
+      "found": true,
+      "currentTeam": "Alliance",
+      "nationality": "Sweden",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "June 26, 1995 (age 31)",
+      "earnings": 707357,
+      "earningsText": "$707,357",
+      "history": [
+        {
+          "range": "2019-04-24 — 2019-07-26",
+          "team": "Aequilibritas Green",
+          "raw": "Aequilibritas Green"
+        },
+        {
+          "range": "2019-09-03 — 2019-11-16",
+          "team": "Herbania Esports",
+          "raw": "Herbania Esports"
+        },
+        {
+          "range": "2020-01-15 — Present",
+          "team": "Alliance",
+          "raw": "Alliance"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-11-01",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs",
+          "team": "ALL",
+          "prize": "$125,000"
+        },
+        {
+          "date": "2025-10-12",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - EMEA",
+          "team": "ALL",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2025-06-15",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - EMEA",
+          "team": "ALL",
+          "prize": "$20,000"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2025 Open",
+          "team": "ALL",
+          "prize": "$150,000"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship",
+          "team": "ALL",
+          "prize": "$320,000"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "ALL",
+          "prize": "$105,000"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 1,
+          "tier": "S",
+          "event": "Esports World Cup 2024",
+          "team": "ALL",
+          "prize": "$600,000"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs",
+          "team": "ALL",
+          "prize": "$65,000"
+        },
+        {
+          "date": "2022-01-22",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - EMEA",
+          "team": "ALL",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2020-03-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Online #2 - Europe",
+          "team": "ALL",
+          "prize": "$21,600"
+        }
+      ]
+    },
+    {
+      "title": "Vaifs",
+      "found": true,
+      "currentTeam": "Take Flyte",
+      "nationality": "Sweden",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "June 16, 1994 (age 32)",
+      "earnings": 93479,
+      "earningsText": "$93,479",
+      "history": [
+        {
+          "range": "2019-04-11 — 2022-10-26",
+          "team": "Alliance",
+          "raw": "Alliance"
+        },
+        {
+          "range": "2022-10-26 — 2024-05-29",
+          "team": "Alliance",
+          "raw": "Alliance(Inactive)"
+        },
+        {
+          "range": "2023-11-21 — 2024-05-29",
+          "team": "LVH",
+          "raw": "LVH"
+        },
+        {
+          "range": "2024-05-29 — 2024-09-11",
+          "team": "9Lies Esports",
+          "raw": "9Lies Esports"
+        },
+        {
+          "range": "2026-09-04 — Present",
+          "team": "Take Flyte",
+          "raw": "Take Flyte"
+        }
+      ],
+      "results": [
+        {
+          "date": "2022-07-10",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "ALL",
+          "prize": "$60,000"
+        },
+        {
+          "date": "2022-01-22",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - EMEA",
+          "team": "ALL",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - EMEA",
+          "team": "ALL",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2021-06-12",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - EMEA",
+          "team": "ALL",
+          "prize": "$10,997"
+        },
+        {
+          "date": "2021-05-20",
+          "place": 1,
+          "tier": "A",
+          "event": "Twitch Rivals - EU Showdown",
+          "team": "Team gdolphn",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2020-12-20",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS Autumn Circuit Playoffs - EMEA",
+          "team": "ALL",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2020-10-24",
+          "place": 1,
+          "tier": "A",
+          "event": "PGL Showdown - Europe",
+          "team": "ALL",
+          "prize": "$12,000"
+        },
+        {
+          "date": "2020-08-02",
+          "place": 2,
+          "tier": "A",
+          "event": "GLL Masters Summer - EMEA",
+          "team": "ALL",
+          "prize": "$7,500"
+        },
+        {
+          "date": "2020-03-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Online #2 - Europe",
+          "team": "ALL",
+          "prize": "$21,600"
+        }
+      ]
+    },
+    {
+      "title": "Tyler",
+      "found": true,
+      "currentTeam": "For Fun Esports",
+      "nationality": "United Kingdom",
+      "status": "Active",
+      "yearsActive": "2020 – Present",
+      "born": "April 23, 2001 Plymouth, United Kingdom (age 25)",
+      "earnings": 91924,
+      "earningsText": "$91,924",
+      "history": [
+        {
+          "range": "2020-10-14 — 2020-11-07",
+          "team": "Clique Esports",
+          "raw": "Clique Esports"
+        },
+        {
+          "range": "2020-11-23 — 2020-12-06",
+          "team": "Team White",
+          "raw": "Team White"
+        },
+        {
+          "range": "2021-01-11 — 2021-02-23",
+          "team": "Game of Drones",
+          "raw": "Game of Drones"
+        },
+        {
+          "range": "2021-02-26 — 2021-03-31",
+          "team": "Odin Gamers",
+          "raw": "Odin Gamers"
+        },
+        {
+          "range": "2021-04-04 — 2021-04-08",
+          "team": "InSaNe eSports",
+          "raw": "InSaNe eSports"
+        },
+        {
+          "range": "2021-04-17 — 2021-06-26",
+          "team": "NEW Esports",
+          "raw": "NEW Esports"
+        },
+        {
+          "range": "2021-07-24 — 2021-08-10",
+          "team": "Odin Gamers",
+          "raw": "Odin Gamers"
+        },
+        {
+          "range": "2021-08-19 — 2021-10-19",
+          "team": "BearClaw Gaming",
+          "raw": "BearClaw Gaming"
+        },
+        {
+          "range": "2021-10-19 — 2021-11-20",
+          "team": "NEW Esports",
+          "raw": "NEW Esports"
+        },
+        {
+          "range": "2021-11-25 — 2022-02-05",
+          "team": "YungMoneyGuild",
+          "raw": "YungMoneyGuild"
+        },
+        {
+          "range": "2021-11-27 — 2021-12-14",
+          "team": "Rebel",
+          "raw": "Rebel(Streamer)"
+        },
+        {
+          "range": "2022-02-05 — 2022-05-08",
+          "team": "Mutariuum",
+          "raw": "Mutariuum"
+        },
+        {
+          "range": "2022-06-24 — 2022-10-24",
+          "team": "BOSH",
+          "raw": "BOSH"
+        },
+        {
+          "range": "2022-10-24 — 2023-07-18",
+          "team": "Vexed Gaming",
+          "raw": "Vexed Gaming"
+        },
+        {
+          "range": "2023-07-20 — 2023-10-10",
+          "team": "Element 6",
+          "raw": "Element 6"
+        },
+        {
+          "range": "2023-10-10 — 2023-10-20",
+          "team": "Element 6",
+          "raw": "Element 6(Inactive)"
+        },
+        {
+          "range": "2023-10-20 — 2024-02-05",
+          "team": "COLD",
+          "raw": "COLD"
+        },
+        {
+          "range": "2024-02-05 — 2024-03-06",
+          "team": "Orgless and Hungry",
+          "raw": "Orgless and Hungry"
+        },
+        {
+          "range": "2024-03-06 — 2024-06-26",
+          "team": "Natus Vincere",
+          "raw": "Natus Vincere"
+        },
+        {
+          "range": "2024-06-18 — 2024-07-14",
+          "team": "Ethernal",
+          "raw": "Ethernal"
+        },
+        {
+          "range": "2025-04-05 — 2025-05-08",
+          "team": "FaZe Clan",
+          "raw": "FaZe Clan"
+        },
+        {
+          "range": "2025-05-31 — 2025-06-24",
+          "team": "Dragons Esports",
+          "raw": "Dragons Esports"
+        },
+        {
+          "range": "2025-06-25 — 2025-07-19",
+          "team": "Retired",
+          "raw": "Retired"
+        },
+        {
+          "range": "2025-08-10 — 2025-08-15",
+          "team": "Trojan",
+          "raw": "Trojan"
+        },
+        {
+          "range": "2025-09-16 — 2025-09-29",
+          "team": "o7",
+          "raw": "o7"
+        },
+        {
+          "range": "2026-03-09 — 2026-04-26",
+          "team": "Made In Heaven",
+          "raw": "Made In Heaven"
+        },
+        {
+          "range": "2026-04-26 — Present",
+          "team": "For Fun Esports",
+          "raw": "For Fun Esports"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-09-13",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - EMEA",
+          "team": "FF",
+          "prize": "$9,000"
+        },
+        {
+          "date": "2026-07-11",
+          "place": 18,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 1 Playoffs",
+          "team": "FF",
+          "prize": "$14,000"
+        },
+        {
+          "date": "2026-06-07",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - EMEA",
+          "team": "FF",
+          "prize": "$12,000"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs",
+          "team": "ALL",
+          "prize": "$105,000"
+        },
+        {
+          "date": "2024-03-17",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - EMEA",
+          "team": "NAVI",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "E6",
+          "prize": "$28,000"
+        },
+        {
+          "date": "2023-05-07",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - EMEA",
+          "team": "VXD",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2022-12-18",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Pro League - EMEA",
+          "team": "VXD",
+          "prize": "$12,000"
+        }
+      ]
+    },
+    {
+      "title": "SirDel",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "United Kingdom",
+      "status": "Retired",
+      "yearsActive": "2020 – 2024",
+      "born": "August 12, 2000 (age 26)",
+      "earnings": 142613,
+      "earningsText": "$142,613",
+      "history": [
+        {
+          "range": "2020-01-25 — 2020-02-25",
+          "team": "Vexed Gaming",
+          "raw": "Vexed Gaming"
+        },
+        {
+          "range": "2020-02-24 — 2020-10-01",
+          "team": "YukiGnaskeDel",
+          "raw": "YukiGnaskeDel"
+        },
+        {
+          "range": "2020-10-01 — 2021-04-06",
+          "team": "COOLER Esport",
+          "raw": "COOLER Esport"
+        },
+        {
+          "range": "2021-04-06 — 2021-06-01",
+          "team": "GnaskeYukiDel",
+          "raw": "GnaskeYukiDel"
+        },
+        {
+          "range": "2021-06-01 — 2021-08-31",
+          "team": "Aqualix",
+          "raw": "Aqualix"
+        },
+        {
+          "range": "2021-08-31 — 2021-10-19",
+          "team": "GnaskeOliDel",
+          "raw": "GnaskeOliDel"
+        },
+        {
+          "range": "2021-10-19 — 2022-09-17",
+          "team": "GMT Esports",
+          "raw": "GMT Esports"
+        },
+        {
+          "range": "2022-09-17 — 2023-09-14",
+          "team": "Pioneers",
+          "raw": "Pioneers"
+        },
+        {
+          "range": "2023-10-17 — 2024-05-10",
+          "team": "The Full English",
+          "raw": "The Full English"
+        },
+        {
+          "range": "2024-06-01 — 2025-04-13",
+          "team": "The Full English",
+          "raw": "The Full English"
+        },
+        {
+          "range": "2025-04-13 — 2025-04-15",
+          "team": "75%",
+          "raw": "75%(Substitute)"
+        }
+      ],
+      "results": [
+        {
+          "date": "2023-09-10",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "KCP",
+          "prize": "$60,000"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs",
+          "team": "KCP",
+          "prize": "$50,000"
+        },
+        {
+          "date": "2023-05-07",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - EMEA",
+          "team": "KCP",
+          "prize": "$12,000"
+        },
+        {
+          "date": "2022-10-22",
+          "place": 1,
+          "tier": "A",
+          "event": "ReWired Festival 2022",
+          "team": "KCP",
+          "prize": "$13,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "GMT",
+          "prize": "$120,000"
+        },
+        {
+          "date": "2021-06-12",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - EMEA",
+          "team": "AQLX",
+          "prize": "$35,154"
+        },
+        {
+          "date": "2020-09-13",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - EMEA",
+          "team": "GSD",
+          "prize": "$36,000"
+        }
+      ]
+    },
+    {
+      "title": "Maydeelol",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "Sweden",
+      "status": "Retired",
+      "yearsActive": "2019 – 2022",
+      "born": "March 21, 1997 (age 29)",
+      "earnings": 44435,
+      "earningsText": "$44,435",
+      "history": [
+        {
+          "range": "2019-05-26 — 2019-10-01",
+          "team": "SUCCUBUS",
+          "raw": "SUCCUBUS"
+        },
+        {
+          "range": "2020-01-25 — 2020-07-31",
+          "team": "Triumph",
+          "raw": "Triumph"
+        },
+        {
+          "range": "2020-07-31 — 2020-12-23",
+          "team": "Nessy",
+          "raw": "Nessy"
+        },
+        {
+          "range": "2021-01-01 — 2021-02-05",
+          "team": "North",
+          "raw": "North"
+        },
+        {
+          "range": "2021-02-08 — 2021-05-27",
+          "team": "Nessy",
+          "raw": "Nessy"
+        },
+        {
+          "range": "2021-05-27 — 2022-02-08",
+          "team": "Kungarna",
+          "raw": "Kungarna"
+        },
+        {
+          "range": "2022-02-08 — 2022-03-15",
+          "team": "Kungarna",
+          "raw": "Kungarna(Inactive)"
+        },
+        {
+          "range": "2022-06-18 — 2022-07-22",
+          "team": "GMT Esports",
+          "raw": "GMT Esports"
+        },
+        {
+          "range": "2022-07-22 — 2022-11-04",
+          "team": "Nessy",
+          "raw": "Nessy"
+        }
+      ],
+      "results": [
+        {
+          "date": "2022-05-01",
+          "place": 12,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs",
+          "team": "GMT",
+          "prize": "$12,000"
+        },
+        {
+          "date": "2021-08-01",
+          "place": 1,
+          "tier": "A",
+          "event": "BLAST Titans - Arenas",
+          "team": "KNG",
+          "prize": "$9,491"
+        },
+        {
+          "date": "2021-05-01",
+          "place": 1,
+          "tier": "A",
+          "event": "GLL Masters Spring - Europe",
+          "team": "NSY",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2021-03-28",
+          "place": 5,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - EMEA",
+          "team": "NSY",
+          "prize": "$7,860"
+        },
+        {
+          "date": "2020-10-24",
+          "place": 2,
+          "tier": "A",
+          "event": "PGL Showdown - Europe",
+          "team": "NSY",
+          "prize": "$6,000"
+        },
+        {
+          "date": "2020-09-13",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - EMEA",
+          "team": "NSY",
+          "prize": "$12,600"
+        },
+        {
+          "date": "2020-03-23",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS Online #2 - Europe",
+          "team": "Triumph",
+          "prize": "$8,400"
+        }
+      ]
+    },
+    {
+      "title": "K4SHERA",
+      "found": true,
+      "currentTeam": "",
+      "nationality": "Portugal",
+      "status": "Active",
+      "yearsActive": "2019 – Present",
+      "born": "June 3, 1998 (age 28)",
+      "earnings": 142573,
+      "earningsText": "$142,573",
+      "history": [
+        {
+          "range": "2019-03-09 — 2019-05-27",
+          "team": "Pomp Moscles",
+          "raw": "Pomp Moscles"
+        },
+        {
+          "range": "2019-06-01 — 2019-06-08",
+          "team": "YMCA Esports Red",
+          "raw": "YMCA Esports Red"
+        },
+        {
+          "range": "2019-06-10 — 2019-07-06",
+          "team": "GC AURA eSports",
+          "raw": "GC AURA eSports"
+        },
+        {
+          "range": "2019-07-06 — 2019-07-31",
+          "team": "Pomp The Moscles",
+          "raw": "Pomp The Moscles"
+        },
+        {
+          "range": "2019-07-31 — 2019-12-29",
+          "team": "Lazarus EU",
+          "raw": "Lazarus EU"
+        },
+        {
+          "range": "2020-02-27 — 2020-04-23",
+          "team": "NewTeam",
+          "raw": "NewTeam"
+        },
+        {
+          "range": "2020-05-09 — 2020-05-21",
+          "team": "NewTeam",
+          "raw": "NewTeam"
+        },
+        {
+          "range": "2020-07-13 — 2020-09-10",
+          "team": "NEW Esports",
+          "raw": "NEW Esports"
+        },
+        {
+          "range": "2020-09-29 — 2022-02-24",
+          "team": "NEW Esports",
+          "raw": "NEW Esports"
+        },
+        {
+          "range": "2022-02-24 — 2023-09-17",
+          "team": "Acend",
+          "raw": "Acend"
+        },
+        {
+          "range": "2023-12-17 — 2024-05-18",
+          "team": "Vamo Querer",
+          "raw": "Vamo Querer"
+        },
+        {
+          "range": "2024-05-18 — 2024-09-16",
+          "team": "GoNext Esports",
+          "raw": "GoNext Esports"
+        },
+        {
+          "range": "2025-02-11 — 2025-07-28",
+          "team": "10K Club",
+          "raw": "10K Club"
+        },
+        {
+          "range": "2025-07-28 — 2025-09-29",
+          "team": "o7",
+          "raw": "o7"
+        },
+        {
+          "range": "2026-01-31 — Present",
+          "team": "Team Eclipse",
+          "raw": "Team Eclipse"
+        },
+        {
+          "range": "2026-06-14 — 2026-07-12",
+          "team": "DINOS",
+          "raw": "DINOS(Coach)"
+        }
+      ],
+      "results": [
+        {
+          "date": "2026-04-30",
+          "place": 2,
+          "tier": "A",
+          "event": "Saudi eLeague 2026 Finals",
+          "team": "LNS",
+          "prize": "$21,330"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 11,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship",
+          "team": "ACE",
+          "prize": "$32,000"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs",
+          "team": "ACE",
+          "prize": "$105,000"
+        },
+        {
+          "date": "2022-12-18",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Pro League - EMEA",
+          "team": "ACE",
+          "prize": "$15,000"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 20,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship",
+          "team": "ACE",
+          "prize": "$18,000"
+        },
+        {
+          "date": "2022-01-22",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - EMEA",
+          "team": "NEW",
+          "prize": "$100,000"
+        },
+        {
+          "date": "2021-03-28",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - EMEA",
+          "team": "NEW",
+          "prize": "$10,800"
+        },
+        {
+          "date": "2020-12-20",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS Autumn Circuit Playoffs - EMEA",
+          "team": "NEW",
+          "prize": "$22,500"
+        },
+        {
+          "date": "2019-04-07",
+          "place": 1,
+          "tier": "A",
+          "event": "La Catalane 2019",
+          "team": "POMP",
+          "prize": "$7,180"
         }
       ]
     }

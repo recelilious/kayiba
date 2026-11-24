@@ -2,7 +2,7 @@
   "_meta": {
     "note": "由 scripts/build-players.mjs 生成，请勿手改。人工字段写在 manual.json。",
     "updated": "2026-11-24",
-    "target": 50
+    "target": 75
   },
   "players": [
     {
@@ -1030,6 +1030,102 @@
       ]
     },
     {
+      "id": "genburten",
+      "name": "Genburten",
+      "aliases": [
+        "Noyan Ozkose"
+      ],
+      "search": [
+        "genburten",
+        "noyan ozkose"
+      ],
+      "country": "澳大利亚",
+      "team": "Crazy Thieves",
+      "teamHistory": [
+        "FURY",
+        "HeadHunters",
+        "MiTH T2",
+        "Reignite South",
+        "Reignite",
+        "DarkZero Esports",
+        "Team Falcons",
+        "The Dojo",
+        "100 Thieves"
+      ],
+      "role": "输出",
+      "debutYear": 2020,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2022-07-10",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        },
+        {
+          "date": "2024-03-25",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - North America"
+        },
+        {
+          "date": "2024-05-05",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 1 Playoffs"
+        },
+        {
+          "date": "2024-07-14",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - North America"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 2,
+          "tier": "S",
+          "event": "Esports World Cup 2024"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2025 Open"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship"
+        },
+        {
+          "date": "2026-10-23",
+          "place": 1,
+          "tier": "A",
+          "event": "Eternal Esports Club - GameSir Invitational"
+        }
+      ],
+      "earnings": 666286,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Genburten"
+      ]
+    },
+    {
       "id": "gugu",
       "name": "GuGu",
       "cn": "咕咕",
@@ -1112,6 +1208,157 @@
       "verified": false,
       "sources": [
         "https://liquipedia.net/apexlegends/GuGu"
+      ]
+    },
+    {
+      "id": "hiswattson",
+      "name": "HisWattson",
+      "aliases": [
+        "Jacob McMillin"
+      ],
+      "search": [
+        "hiswattson",
+        "jacob mcmillin"
+      ],
+      "country": "美国",
+      "team": "FUR",
+      "teamHistory": [
+        "Rare Xcellence",
+        "FURIA Esports"
+      ],
+      "role": "输出",
+      "debutYear": 2020,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2022-07-10",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2022-07-26",
+          "place": 1,
+          "tier": "A",
+          "event": "Twitch Rivals - NA Showdown 4"
+        },
+        {
+          "date": "2022-12-10",
+          "place": 3,
+          "tier": "A",
+          "event": "JBL Quantum Cup 2022 - North America"
+        },
+        {
+          "date": "2023-03-31",
+          "place": 5,
+          "tier": "A",
+          "event": "MFAM Gauntlet #4"
+        },
+        {
+          "date": "2023-05-08",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - North America"
+        }
+      ],
+      "earnings": 125322,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：FUR",
+      "sources": [
+        "https://liquipedia.net/apexlegends/HisWattson"
+      ]
+    },
+    {
+      "id": "imperialhal",
+      "name": "ImperialHal",
+      "aliases": [
+        "Phillip Dosen",
+        "The CEO",
+        "Ridgewell Hawkes"
+      ],
+      "search": [
+        "imperialhal",
+        "phillip dosen",
+        "the ceo",
+        "ridgewell hawkes"
+      ],
+      "country": "美国",
+      "team": "Team Falcons",
+      "teamHistory": [
+        "TSM"
+      ],
+      "role": "指挥",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2019-08-03",
+          "place": 1,
+          "tier": "S",
+          "event": "EXP Invitational – Apex Legends at X Games Minneapolis"
+        },
+        {
+          "date": "2019-09-15",
+          "place": 1,
+          "tier": "S",
+          "event": "Apex Legends Preseason Invitational"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 2,
+          "tier": "S",
+          "event": "Esports World Cup 2024"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2025 Open"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship"
+        }
+      ],
+      "earnings": 1204549,
+      "tier": 2,
+      "verified": false,
+      "notes": "IGL（据社区资料）",
+      "sources": [
+        "https://liquipedia.net/apexlegends/ImperialHal"
       ]
     },
     {
@@ -1516,6 +1763,265 @@
       ]
     },
     {
+      "id": "obly",
+      "name": "Obly",
+      "aliases": [
+        "임정현",
+        "Lim Jung-hyun",
+        "Aquarius666",
+        "Aquarius"
+      ],
+      "search": [
+        "obly",
+        "임정현",
+        "lim jung-hyun",
+        "aquarius666",
+        "aquarius"
+      ],
+      "country": "韩国",
+      "team": "ENTER FORCE.36",
+      "teamHistory": [
+        "T1 Korea",
+        "T1",
+        "RIDDLE",
+        "esports team αD",
+        "fun123",
+        "REALIZE",
+        "REJECT WINNITY",
+        "Crazy Raccoon"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2021-03-28",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - APAC North"
+        },
+        {
+          "date": "2021-06-06",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - APAC North"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - APAC North"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - APAC North"
+        },
+        {
+          "date": "2022-03-27",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - APAC North"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 10,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2024-05-05",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 1 Playoffs"
+        },
+        {
+          "date": "2024-12-14",
+          "place": 1,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - APAC North"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - APAC North"
+        }
+      ],
+      "earnings": 285593,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Obly"
+      ]
+    },
+    {
+      "id": "pandxrz",
+      "name": "Pandxrz",
+      "aliases": [
+        "Scott Maynard"
+      ],
+      "search": [
+        "pandxrz",
+        "scott maynard"
+      ],
+      "country": "美国",
+      "team": "Stallions",
+      "teamHistory": [
+        "SolaFide Black",
+        "Flying Drone",
+        "HPS",
+        "21+",
+        "Team Intel",
+        "Ghost Gaming",
+        "GHOST",
+        "FURIA Esports",
+        "FaZe Clan"
+      ],
+      "role": "输出",
+      "debutYear": 2020,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2020-09-12",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - Americas"
+        },
+        {
+          "date": "2021-06-13",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - North America"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2022-12-10",
+          "place": 3,
+          "tier": "A",
+          "event": "JBL Quantum Cup 2022 - North America"
+        },
+        {
+          "date": "2023-05-08",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - North America"
+        }
+      ],
+      "earnings": 138213,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：Stallions",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Pandxrz"
+      ]
+    },
+    {
+      "id": "reps",
+      "name": "Reps",
+      "aliases": [
+        "Jordan Wolfe",
+        "David Honeybun",
+        "Sr."
+      ],
+      "search": [
+        "reps",
+        "jordan wolfe",
+        "david honeybun",
+        "sr."
+      ],
+      "country": "美国",
+      "team": "TSM",
+      "teamHistory": [
+        "LFOffers"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2019-08-03",
+          "place": 1,
+          "tier": "S",
+          "event": "EXP Invitational – Apex Legends at X Games Minneapolis"
+        },
+        {
+          "date": "2019-09-15",
+          "place": 1,
+          "tier": "S",
+          "event": "Apex Legends Preseason Invitational"
+        },
+        {
+          "date": "2020-03-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Online #2 - North America"
+        },
+        {
+          "date": "2021-06-13",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - North America"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
+        }
+      ],
+      "earnings": 682946,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：TSM",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Reps"
+      ]
+    },
+    {
       "id": "return",
       "name": "Return",
       "cn": "小惹",
@@ -1590,6 +2096,360 @@
       "notes": "位置待核实",
       "sources": [
         "https://liquipedia.net/apexlegends/Return"
+      ]
+    },
+    {
+      "id": "selly",
+      "name": "Selly",
+      "aliases": [
+        "안정환",
+        "An Jeong-hwan"
+      ],
+      "search": [
+        "selly",
+        "안정환",
+        "an jeong-hwan"
+      ],
+      "country": "韩国",
+      "team": "Crazy Raccoon",
+      "teamHistory": [
+        "T1 Korea",
+        "T1",
+        "CR",
+        "αD"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2019-03-30",
+          "place": 1,
+          "tier": "A",
+          "event": "Twitch Apex Legends Streamer Challenge: Asia Cup Finals"
+        },
+        {
+          "date": "2019-09-15",
+          "place": 3,
+          "tier": "S",
+          "event": "Apex Legends Preseason Invitational"
+        },
+        {
+          "date": "2021-03-28",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - APAC North"
+        },
+        {
+          "date": "2021-06-06",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - APAC North"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 6,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - APAC North"
+        },
+        {
+          "date": "2022-03-27",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - APAC North"
+        }
+      ],
+      "earnings": 88308,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Selly"
+      ]
+    },
+    {
+      "id": "sharky",
+      "name": "Sharky",
+      "aliases": [
+        "Rick Wirth",
+        "Sharky3415",
+        "Fish",
+        "Xan"
+      ],
+      "search": [
+        "sharky",
+        "rick wirth",
+        "sharky3415",
+        "fish",
+        "xan"
+      ],
+      "country": "澳大利亚",
+      "team": "S8UL Esports",
+      "teamHistory": [
+        "EXO Clan",
+        "Team Burger",
+        "REJECT",
+        "Reignite",
+        "DarkZero Esports",
+        "Virtus.pro"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2021-06-05",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - APAC South"
+        },
+        {
+          "date": "2022-01-16",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - APAC South"
+        },
+        {
+          "date": "2022-03-27",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2023-05-08",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - North America"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 15,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship"
+        },
+        {
+          "date": "2026-06-06",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South"
+        }
+      ],
+      "earnings": 386751,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Sharky"
+      ]
+    },
+    {
+      "id": "sweetdreams",
+      "name": "Sweetdreams",
+      "aliases": [
+        "Christopher Sexton",
+        "GLANCER",
+        "LOCKEDIN"
+      ],
+      "search": [
+        "sweetdreams",
+        "christopher sexton",
+        "glancer",
+        "lockedin"
+      ],
+      "country": "美国",
+      "team": "NRG",
+      "teamHistory": [
+        "Rogue",
+        "Luminosity Gaming",
+        "SSS"
+      ],
+      "role": "指挥",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2019-04-13",
+          "place": 1,
+          "tier": "S",
+          "event": "TwitchCon Europe Showdown 2019"
+        },
+        {
+          "date": "2020-08-02",
+          "place": 1,
+          "tier": "A",
+          "event": "GLL Masters Summer - Americas"
+        },
+        {
+          "date": "2021-03-27",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - North America"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2022-10-08",
+          "place": 1,
+          "tier": "S",
+          "event": "TwitchCon San Diego 2022"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 3,
+          "tier": "S",
+          "event": "Esports World Cup 2024"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship"
+        }
+      ],
+      "earnings": 442892,
+      "tier": 2,
+      "verified": false,
+      "notes": "IGL（据社区资料）",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Sweetdreams"
+      ]
+    },
+    {
+      "id": "verhulst",
+      "name": "Verhulst",
+      "aliases": [
+        "Evan Verhulst",
+        "DoubleAV",
+        "Dwayne Pipe",
+        "Big E"
+      ],
+      "search": [
+        "verhulst",
+        "evan verhulst",
+        "doubleav",
+        "dwayne pipe",
+        "big e"
+      ],
+      "country": "美国",
+      "team": "Crazy Thieves",
+      "teamHistory": [
+        "Dudes Night Out",
+        "Team Intel",
+        "Esports Arena",
+        "TSM",
+        "100 Thieves"
+      ],
+      "role": "输出",
+      "debutYear": 2021,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2022-01-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2022-12-18",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Pro League - North America"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2025 Open"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship"
+        }
+      ],
+      "earnings": 667975,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：Crazy Thieves",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Verhulst"
       ]
     },
     {
@@ -1968,6 +2828,102 @@
       ]
     },
     {
+      "id": "yukaperodator",
+      "name": "YukaPEROdator",
+      "cn": "床ペロデター",
+      "aliases": [
+        "野底 心",
+        "Shin Nosoko",
+        "床ペロデター",
+        "Thia3",
+        "Rermen",
+        "Yukaprdeta"
+      ],
+      "search": [
+        "yukaperodator",
+        "床ペロデター",
+        "chuangペロデター",
+        "cペロデター",
+        "野底 心",
+        "yedi xin",
+        "yd x",
+        "shin nosoko",
+        "thia3",
+        "rermen",
+        "yukaprdeta"
+      ],
+      "country": "日本",
+      "team": "KINOTROPE gaming",
+      "teamHistory": [
+        "Nature Bloom",
+        "Nature IRIS",
+        "TSURUGI eSports",
+        "FC Destroy",
+        "NORTHEPTION",
+        "RIDDLE"
+      ],
+      "role": "输出",
+      "debutYear": 2021,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2022-01-23",
+          "place": 8,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - APAC North"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 22,
+          "tier": "S",
+          "event": "Esports World Cup 2024"
+        },
+        {
+          "date": "2024-12-14",
+          "place": 6,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - APAC North"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 7,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC North"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 20,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 28,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 6,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - APAC North"
+        }
+      ],
+      "earnings": 37573,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/YukaPEROdator"
+      ]
+    },
+    {
       "id": "yus",
       "name": "Yus",
       "cn": "余生",
@@ -2028,6 +2984,105 @@
       ]
     },
     {
+      "id": "zer0",
+      "name": "Zer0",
+      "aliases": [
+        "Rhys Perry",
+        "Zer0OCE",
+        "Hamilton Bushranger"
+      ],
+      "search": [
+        "zer0",
+        "rhys perry",
+        "zer0oce",
+        "hamilton bushranger"
+      ],
+      "country": "澳大利亚",
+      "team": "Team Liquid",
+      "teamHistory": [
+        "Excellence",
+        "EBC",
+        "EXO Clan",
+        "Reignite South",
+        "Reignite",
+        "DarkZero Esports",
+        "Team Falcons",
+        "FLCN"
+      ],
+      "role": "指挥",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2022-05-01",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        },
+        {
+          "date": "2024-05-05",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 1 Playoffs"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 2,
+          "tier": "S",
+          "event": "Esports World Cup 2024"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2025 Open"
+        },
+        {
+          "date": "2025-06-15",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - Americas"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs"
+        },
+        {
+          "date": "2026-11-01",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs"
+        }
+      ],
+      "earnings": 1073485,
+      "tier": 2,
+      "verified": false,
+      "notes": "IGL（据社区资料）",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Zer0"
+      ]
+    },
+    {
       "id": "zhous",
       "name": "ZhouS",
       "cn": "周神",
@@ -2066,6 +3121,104 @@
       "notes": "位置待核实；当前无战队，显示最近一支：shadow3690",
       "sources": [
         "https://liquipedia.net/apexlegends/ZhouS"
+      ]
+    },
+    {
+      "id": "albralelie",
+      "name": "Albralelie",
+      "aliases": [
+        "Mac Kenzie Beckwith"
+      ],
+      "search": [
+        "albralelie",
+        "mac kenzie beckwith"
+      ],
+      "country": "美国",
+      "team": "Stallions",
+      "teamHistory": [
+        "MRKN Clan",
+        "TSM",
+        "Team Liquid",
+        "Cloud9",
+        "FaZe Clan",
+        "LANimals",
+        "WC",
+        "FURIA Esports",
+        "Twisted Minds",
+        "Hotdog Mafia",
+        "Team Nemesis"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2019-08-03",
+          "place": 1,
+          "tier": "S",
+          "event": "EXP Invitational – Apex Legends at X Games Minneapolis"
+        },
+        {
+          "date": "2019-09-15",
+          "place": 1,
+          "tier": "S",
+          "event": "Apex Legends Preseason Invitational"
+        },
+        {
+          "date": "2019-12-15",
+          "place": 1,
+          "tier": "A",
+          "event": "GLL Apex Legends Series - NA"
+        },
+        {
+          "date": "2020-03-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Online #2 - North America"
+        },
+        {
+          "date": "2021-02-05",
+          "place": 1,
+          "tier": "A",
+          "event": "Lulu's Throwdown - Day 2"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 10,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 15,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2025 Open"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship"
+        },
+        {
+          "date": "2026-11-01",
+          "place": 10,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs"
+        }
+      ],
+      "earnings": 202285,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Albralelie"
       ]
     },
     {
@@ -2265,6 +3418,282 @@
       ]
     },
     {
+      "id": "dogma",
+      "name": "Dogma",
+      "aliases": [
+        "김정진",
+        "Kim Jeong-jin"
+      ],
+      "search": [
+        "dogma",
+        "김정진",
+        "kim jeong-jin"
+      ],
+      "country": "韩国",
+      "team": "KINOTROPE gaming",
+      "teamHistory": [
+        "Cyma",
+        "OP.GG Sports",
+        "FENNEL Korea",
+        "Riddle",
+        "REJECT",
+        "ganbare otousan",
+        "Crazy Raccoon",
+        "REJECT WINNITY",
+        "REJECT WINNITY KR",
+        "KINOTROPE"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2020-09-12",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - APAC North"
+        },
+        {
+          "date": "2020-12-19",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Autumn Circuit Playoffs - APAC North"
+        },
+        {
+          "date": "2021-06-06",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - APAC North"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - APAC North"
+        },
+        {
+          "date": "2022-03-27",
+          "place": 5,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - APAC North"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 12,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs"
+        },
+        {
+          "date": "2023-05-06",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - APAC North"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 15,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        }
+      ],
+      "earnings": 110976,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Dogma"
+      ]
+    },
+    {
+      "id": "dropped",
+      "name": "Dropped",
+      "aliases": [
+        "Mark Thees"
+      ],
+      "search": [
+        "dropped",
+        "mark thees"
+      ],
+      "country": "美国",
+      "team": "Geekay Esports",
+      "teamHistory": [
+        "Rogue",
+        "Spacestation Gaming",
+        "OpTic Gaming",
+        "Bleed Esports",
+        "Loan Sharks",
+        "ENVY",
+        "All Gamers Global",
+        "GROW Gaming"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2019-04-13",
+          "place": 1,
+          "tier": "S",
+          "event": "TwitchCon Europe Showdown 2019"
+        },
+        {
+          "date": "2020-08-02",
+          "place": 1,
+          "tier": "A",
+          "event": "GLL Masters Summer - Americas"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
+        },
+        {
+          "date": "2024-12-15",
+          "place": 2,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - Americas"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS: 2025 Open"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship"
+        },
+        {
+          "date": "2026-03-13",
+          "place": 1,
+          "tier": "A",
+          "event": "Twitch Rivals - Apex x Gundam"
+        }
+      ],
+      "earnings": 394409,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Dropped"
+      ]
+    },
+    {
+      "id": "effect",
+      "name": "Effect",
+      "aliases": [
+        "Мирон Новиков",
+        "Miron Novikov",
+        "xEffect",
+        "Baba Yaga"
+      ],
+      "search": [
+        "effect",
+        "мирон новиков",
+        "miron novikov",
+        "xeffect",
+        "baba yaga"
+      ],
+      "country": "Non-representing Russia",
+      "team": "Aurora Gaming",
+      "teamHistory": [
+        "Alliance"
+      ],
+      "role": "输出",
+      "debutYear": 2022,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2023-05-07",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - EMEA"
+        },
+        {
+          "date": "2024-07-14",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - EMEA"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 1,
+          "tier": "S",
+          "event": "Esports World Cup 2024"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2025 Open"
+        },
+        {
+          "date": "2025-06-15",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - EMEA"
+        },
+        {
+          "date": "2025-10-12",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - EMEA"
+        },
+        {
+          "date": "2026-06-07",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - EMEA"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - EMEA"
+        },
+        {
+          "date": "2026-11-01",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs"
+        }
+      ],
+      "earnings": 523775,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Effect"
+      ]
+    },
+    {
       "id": "elysian",
       "name": "Elysian",
       "cn": "绿豆",
@@ -2322,72 +3751,265 @@
       ]
     },
     {
-      "id": "ftyan",
-      "name": "Ftyan",
-      "cn": "えふちゃん",
+      "id": "emtee",
+      "name": "Emtee",
       "aliases": [
-        "金指 拓海",
-        "Takumi Kanasashi",
-        "えふちゃん"
+        "Matthew Trengove"
       ],
       "search": [
-        "ftyan",
-        "えふちゃん",
-        "金指 拓海",
-        "jinzhi tuohai",
-        "jz th",
-        "takumi kanasashi"
+        "emtee",
+        "matthew trengove"
       ],
-      "country": "日本",
-      "team": "TIE",
+      "country": "澳大利亚",
+      "team": "World Wide",
       "teamHistory": [
-        "Tyr Aris",
-        "SCARZ Black",
-        "Team UNITE",
-        "PULVEREX",
-        "REIGNITE"
+        "Trident Esports",
+        "EXO Clan",
+        "Team Burger",
+        "REJECT",
+        "Not Moist",
+        "Guild Esports",
+        "Moist Esports",
+        "Shopify Rebellion",
+        "Virtus.pro",
+        "GodLike Esports"
       ],
       "role": "输出",
-      "debutYear": 2020,
+      "debutYear": 2019,
       "status": "active",
       "placements": [
         {
-          "date": "2021-03-28",
-          "place": 4,
-          "tier": "A",
-          "event": "ALGS Winter Circuit Playoffs - APAC North"
-        },
-        {
-          "date": "2022-01-23",
-          "place": 2,
-          "tier": "A",
-          "event": "ALGS: 2022 Split 1 Playoffs - APAC North"
-        },
-        {
-          "date": "2022-05-01",
-          "place": 3,
+          "date": "2021-06-05",
+          "place": 5,
           "tier": "S",
-          "event": "ALGS: 2022 Split 2 Playoffs"
+          "event": "ALGS Championship 2021 - APAC South"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs"
+        },
+        {
+          "date": "2023-04-29",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - APAC South"
         },
         {
           "date": "2023-07-16",
-          "place": 16,
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        },
+        {
+          "date": "2024-03-25",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - North America"
+        },
+        {
+          "date": "2024-05-05",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 1 Playoffs"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 9,
+          "tier": "S",
+          "event": "Esports World Cup 2024"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2025 Open"
+        }
+      ],
+      "earnings": 260906,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Emtee"
+      ]
+    },
+    {
+      "id": "frexs",
+      "name": "Frexs",
+      "aliases": [
+        "Joseph Sanchez"
+      ],
+      "search": [
+        "frexs",
+        "joseph sanchez"
+      ],
+      "country": "美国",
+      "team": "Flat",
+      "teamHistory": [
+        "Cloud9",
+        "Team Reciprocity",
+        "NRG",
+        "Spacestation Gaming",
+        "FaZe Clan",
+        "Oxygen Esports"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2020-09-12",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - Americas"
+        },
+        {
+          "date": "2021-06-13",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - North America"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2022-12-10",
+          "place": 2,
+          "tier": "A",
+          "event": "JBL Quantum Cup 2022 - North America"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 5,
           "tier": "S",
           "event": "ALGS: 2023 Split 2 Playoffs"
         },
         {
           "date": "2023-09-10",
-          "place": 17,
+          "place": 6,
           "tier": "S",
           "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2026-03-13",
+          "place": 1,
+          "tier": "A",
+          "event": "Twitch Rivals - Apex x Gundam"
         }
       ],
-      "earnings": 95524,
+      "earnings": 175289,
       "tier": 3,
       "verified": false,
-      "notes": "日本选手，国际补充；位置待核实；当前无战队，显示最近一支：TIE",
+      "notes": "位置待核实；当前无战队，显示最近一支：Flat",
       "sources": [
-        "https://liquipedia.net/apexlegends/Ftyan"
+        "https://liquipedia.net/apexlegends/Frexs"
+      ]
+    },
+    {
+      "id": "hakis",
+      "name": "Hakis",
+      "aliases": [
+        "John Håkansson",
+        "hAKIS"
+      ],
+      "search": [
+        "hakis",
+        "john håkansson"
+      ],
+      "country": "瑞典",
+      "team": "Alliance",
+      "teamHistory": [
+        "Aequilibritas Green",
+        "Herbania Esports"
+      ],
+      "role": "指挥",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2020-03-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Online #2 - Europe"
+        },
+        {
+          "date": "2022-01-22",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - EMEA"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 1,
+          "tier": "S",
+          "event": "Esports World Cup 2024"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2025 Open"
+        },
+        {
+          "date": "2025-06-15",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - EMEA"
+        },
+        {
+          "date": "2025-10-12",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - EMEA"
+        },
+        {
+          "date": "2026-11-01",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs"
+        }
+      ],
+      "earnings": 707357,
+      "tier": 3,
+      "verified": false,
+      "notes": "IGL（据社区资料）",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Hakis"
       ]
     },
     {
@@ -2497,68 +4119,272 @@
       ]
     },
     {
-      "id": "juxo",
-      "name": "Juxo",
-      "aliases": [],
-      "search": [
-        "juxo"
+      "id": "k4shera",
+      "name": "K4SHERA",
+      "aliases": [
+        "Francisco Miguel Nogueira Alves"
       ],
-      "country": "日本",
-      "team": "White Grim Reaper",
+      "search": [
+        "k4shera",
+        "francisco miguel nogueira alves"
+      ],
+      "country": "Portugal",
+      "team": "DINOS",
       "teamHistory": [
-        "xTies",
-        "VortexWolf Ate",
-        "VortexWolf",
-        "WGR",
-        "White Grim Reaper NEO"
+        "Pomp Moscles",
+        "YMCA Esports Red",
+        "GC AURA eSports",
+        "Pomp The Moscles",
+        "Lazarus EU",
+        "NewTeam",
+        "NEW Esports",
+        "Acend",
+        "Vamo Querer",
+        "GoNext Esports",
+        "10K Club",
+        "o7",
+        "Team Eclipse"
       ],
       "role": "输出",
-      "debutYear": 2023,
+      "debutYear": 2019,
       "status": "active",
       "placements": [
         {
-          "date": "2025-08-21",
-          "place": 9,
+          "date": "2019-04-07",
+          "place": 1,
           "tier": "A",
-          "event": "Mellow Paws Pawling Cup"
+          "event": "La Catalane 2019"
         },
         {
-          "date": "2025-10-12",
-          "place": 24,
+          "date": "2020-12-20",
+          "place": 2,
           "tier": "A",
-          "event": "ALGS: 2025 Split 2 Pro League - APAC North"
+          "event": "ALGS Autumn Circuit Playoffs - EMEA"
         },
         {
-          "date": "2026-06-07",
-          "place": 5,
+          "date": "2021-03-28",
+          "place": 4,
           "tier": "A",
-          "event": "ALGS: 2026 Split 1 Pro League - APAC North"
+          "event": "ALGS Winter Circuit Playoffs - EMEA"
         },
         {
-          "date": "2026-07-11",
-          "place": 32,
+          "date": "2022-01-22",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - EMEA"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 20,
           "tier": "S",
-          "event": "ALGS: 2026 Split 1 Playoffs"
+          "event": "ALGS: 2022 Championship"
         },
         {
-          "date": "2026-09-13",
-          "place": 10,
+          "date": "2022-12-18",
+          "place": 2,
           "tier": "A",
-          "event": "ALGS: 2026 Split 2 Pro League - APAC North"
+          "event": "ALGS: 2022 Split 1 Pro League - EMEA"
         },
         {
-          "date": "2026-11-01",
-          "place": 6,
+          "date": "2023-02-05",
+          "place": 3,
           "tier": "S",
-          "event": "ALGS: 2026 Split 2 Playoffs"
+          "event": "ALGS: 2023 Split 1 Playoffs"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 11,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2026-04-30",
+          "place": 2,
+          "tier": "A",
+          "event": "Saudi eLeague 2026 Finals"
         }
       ],
-      "earnings": 40484,
+      "earnings": 142573,
       "tier": 3,
       "verified": false,
-      "notes": "日本选手，国际补充；位置待核实",
+      "notes": "位置待核实；当前无战队，显示最近一支：DINOS",
       "sources": [
-        "https://liquipedia.net/apexlegends/Juxo"
+        "https://liquipedia.net/apexlegends/K4SHERA"
+      ]
+    },
+    {
+      "id": "knoqd",
+      "name": "Knoqd",
+      "aliases": [
+        "Logan Layou"
+      ],
+      "search": [
+        "knoqd",
+        "logan layou"
+      ],
+      "country": "美国",
+      "team": "Geekay Esports",
+      "teamHistory": [
+        "2 Brains 1 Controller",
+        "Cloud9",
+        "BenchWarmers",
+        "Torrent",
+        "OpTic Gaming",
+        "Bleed Esports",
+        "Loan Sharks",
+        "ENVY",
+        "FURIA",
+        "GROW Gaming"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2021-06-13",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - North America"
+        },
+        {
+          "date": "2022-03-28",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - North America"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs"
+        },
+        {
+          "date": "2022-11-08",
+          "place": 1,
+          "tier": "A",
+          "event": "Code Red: Freedom Season 1"
+        },
+        {
+          "date": "2022-12-10",
+          "place": 1,
+          "tier": "A",
+          "event": "JBL Quantum Cup 2022 - North America"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
+        },
+        {
+          "date": "2024-12-15",
+          "place": 2,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - Americas"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship"
+        }
+      ],
+      "earnings": 379363,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：Geekay Esports",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Knoqd"
+      ]
+    },
+    {
+      "id": "lou",
+      "name": "Lou",
+      "aliases": [
+        "Trenton Clements"
+      ],
+      "search": [
+        "lou",
+        "trenton clements"
+      ],
+      "country": "美国",
+      "team": "HUSS",
+      "teamHistory": [
+        "FlyQuest",
+        "Complexity Gaming",
+        "COL",
+        "Counter Logic Gaming",
+        "Sentinels",
+        "LANimals",
+        "Dudes Night Out",
+        "Disguised",
+        "Virtus.pro"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2021-03-27",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - North America"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - North America"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 12,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 18,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 18,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship"
+        }
+      ],
+      "earnings": 113473,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：HUSS",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Lou"
       ]
     },
     {
@@ -2610,25 +4436,243 @@
       ]
     },
     {
-      "id": "parkha",
-      "name": "Parkha",
+      "id": "mande",
+      "name": "Mande",
       "aliases": [
-        "오정택",
-        "Oh Jeong-teak"
+        "Mikkel Halle Hestbek"
       ],
       "search": [
-        "parkha",
-        "오정택",
-        "oh jeong-teak"
+        "mande",
+        "mikkel halle hestbek"
+      ],
+      "country": "丹麦",
+      "team": "40%Worse",
+      "teamHistory": [
+        "North",
+        "Mikkel, Can & Dan",
+        "SCARZ",
+        "Alliance",
+        "TSM"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2020-08-02",
+          "place": 1,
+          "tier": "A",
+          "event": "GLL Masters Summer - EMEA"
+        },
+        {
+          "date": "2020-09-13",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - EMEA"
+        },
+        {
+          "date": "2021-05-20",
+          "place": 1,
+          "tier": "A",
+          "event": "Twitch Rivals - EU Showdown"
+        },
+        {
+          "date": "2021-06-12",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - EMEA"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 11,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 19,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        }
+      ],
+      "earnings": 167162,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：40%Worse",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Mande"
+      ]
+    },
+    {
+      "id": "maydeelol",
+      "name": "Maydeelol",
+      "aliases": [
+        "Rasmus Zettergren"
+      ],
+      "search": [
+        "maydeelol",
+        "rasmus zettergren"
+      ],
+      "country": "瑞典",
+      "team": "Nessy",
+      "teamHistory": [
+        "SUCCUBUS",
+        "Triumph",
+        "North",
+        "Kungarna",
+        "GMT Esports"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2020-03-23",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS Online #2 - Europe"
+        },
+        {
+          "date": "2020-09-13",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - EMEA"
+        },
+        {
+          "date": "2020-10-24",
+          "place": 2,
+          "tier": "A",
+          "event": "PGL Showdown - Europe"
+        },
+        {
+          "date": "2021-03-28",
+          "place": 5,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - EMEA"
+        },
+        {
+          "date": "2021-05-01",
+          "place": 1,
+          "tier": "A",
+          "event": "GLL Masters Spring - Europe"
+        },
+        {
+          "date": "2021-08-01",
+          "place": 1,
+          "tier": "A",
+          "event": "BLAST Titans - Arenas"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 12,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs"
+        }
+      ],
+      "earnings": 44435,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：Nessy",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Maydeelol"
+      ]
+    },
+    {
+      "id": "nafen",
+      "name": "Nafen",
+      "aliases": [
+        "Nathan Nguyen"
+      ],
+      "search": [
+        "nafen",
+        "nathan nguyen"
+      ],
+      "country": "美国",
+      "team": "NRG",
+      "teamHistory": [],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2021-03-27",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - North America"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - North America"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2022-11-07",
+          "place": 1,
+          "tier": "A",
+          "event": "MFAM Gauntlet #3"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs"
+        }
+      ],
+      "earnings": 207557,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：NRG",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Nafen"
+      ]
+    },
+    {
+      "id": "ras",
+      "name": "Ras",
+      "cn": "라스",
+      "aliases": [
+        "송홍균",
+        "Song Hong-gyun",
+        "라스"
+      ],
+      "search": [
+        "ras",
+        "라스",
+        "송홍균",
+        "song hong-gyun"
       ],
       "country": "韩国",
-      "team": "GROW Gaming Korea",
+      "team": "Crazy Raccoon",
       "teamHistory": [
-        "T1 Korea",
-        "T1",
-        "RIDDLE",
-        "esports team αD",
-        "Crazy Raccoon"
+        "MVP",
+        "MVP Ares",
+        "Aura Esports",
+        "CR"
       ],
       "role": "输出",
       "debutYear": 2019,
@@ -2636,51 +4680,27 @@
       "placements": [
         {
           "date": "2019-09-15",
-          "place": 3,
+          "place": 9,
           "tier": "S",
           "event": "Apex Legends Preseason Invitational"
         },
         {
-          "date": "2020-09-12",
-          "place": 2,
-          "tier": "A",
-          "event": "ALGS Summer Circuit Playoffs - APAC North"
-        },
-        {
           "date": "2021-03-28",
-          "place": 1,
+          "place": 2,
           "tier": "A",
           "event": "ALGS Winter Circuit Playoffs - APAC North"
         },
         {
           "date": "2021-06-06",
-          "place": 3,
+          "place": 2,
           "tier": "S",
           "event": "ALGS Championship 2021 - APAC North"
         },
         {
-          "date": "2021-12-05",
-          "place": 1,
-          "tier": "A",
-          "event": "ALGS: 2021 Split 1 Pro League - APAC North"
-        },
-        {
-          "date": "2022-01-23",
-          "place": 1,
-          "tier": "A",
-          "event": "ALGS: 2022 Split 1 Playoffs - APAC North"
-        },
-        {
           "date": "2022-03-27",
-          "place": 1,
+          "place": 2,
           "tier": "A",
           "event": "ALGS: 2022 Split 2 Pro League - APAC North"
-        },
-        {
-          "date": "2022-07-10",
-          "place": 10,
-          "tier": "S",
-          "event": "ALGS: 2022 Championship"
         },
         {
           "date": "2022-12-11",
@@ -2689,141 +4709,397 @@
           "event": "ALGS: 2022 Split 1 Pro League - APAC North"
         }
       ],
-      "earnings": 143310,
+      "earnings": 76468,
       "tier": 3,
       "verified": false,
-      "notes": "韩国选手，国际补充；位置待核实；当前无战队，显示最近一支：GROW Gaming Korea",
+      "notes": "位置待核实",
       "sources": [
-        "https://liquipedia.net/apexlegends/Parkha"
+        "https://liquipedia.net/apexlegends/Ras"
       ]
     },
     {
-      "id": "sangjoon",
-      "name": "SangJoon",
+      "id": "resultuh",
+      "name": "Resultuh",
       "aliases": [
-        "한상준",
-        "Han Sang-joon",
-        "dr1p"
+        "Jordan Resulta"
       ],
       "search": [
-        "sangjoon",
-        "한상준",
-        "han sang-joon",
-        "dr1p"
+        "resultuh",
+        "jordan resulta"
       ],
-      "country": "韩国",
-      "team": "Crazy Raccoon",
+      "country": "美国",
+      "team": "G2 Esports",
       "teamHistory": [
-        "5PM supremacy",
-        "FOR7",
-        "fun123",
-        "REALIZE",
-        "REJECT WINNITY"
+        "AimAssist",
+        "SolaFide"
       ],
       "role": "输出",
-      "debutYear": 2021,
+      "debutYear": 2019,
       "status": "retired",
       "placements": [
         {
-          "date": "2022-03-27",
-          "place": 7,
+          "date": "2020-09-12",
+          "place": 5,
           "tier": "A",
-          "event": "ALGS: 2022 Split 2 Pro League - APAC North"
+          "event": "ALGS Summer Circuit Playoffs - Americas"
+        },
+        {
+          "date": "2020-12-19",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS Autumn Circuit Playoffs - North America"
+        },
+        {
+          "date": "2021-03-27",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - North America"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - North America"
+        },
+        {
+          "date": "2021-12-19",
+          "place": 1,
+          "tier": "A",
+          "event": "JBL Quantum Cup 2021"
+        },
+        {
+          "date": "2022-03-28",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - North America"
+        }
+      ],
+      "earnings": 63284,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：G2 Esports",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Resultuh"
+      ]
+    },
+    {
+      "id": "rocker",
+      "name": "Rocker",
+      "aliases": [
+        "Aidan Grodin"
+      ],
+      "search": [
+        "rocker",
+        "aidan grodin"
+      ],
+      "country": "美国",
+      "team": "Cloud9",
+      "teamHistory": [
+        "NRG"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2021-03-27",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - North America"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - North America"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America"
+        },
+        {
+          "date": "2022-03-28",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - North America"
         },
         {
           "date": "2022-05-01",
-          "place": 19,
+          "place": 7,
           "tier": "S",
           "event": "ALGS: 2022 Split 2 Playoffs"
         },
         {
           "date": "2022-07-10",
-          "place": 31,
-          "tier": "S",
-          "event": "ALGS: 2022 Championship"
-        },
-        {
-          "date": "2023-02-05",
-          "place": 14,
-          "tier": "S",
-          "event": "ALGS: 2023 Split 1 Playoffs"
-        },
-        {
-          "date": "2023-05-06",
-          "place": 4,
-          "tier": "A",
-          "event": "ALGS: 2023 Split 2 Pro League - APAC North"
-        },
-        {
-          "date": "2023-09-10",
           "place": 9,
           "tier": "S",
-          "event": "ALGS: 2023 Championship"
-        },
-        {
-          "date": "2024-03-09",
-          "place": 2,
-          "tier": "A",
-          "event": "ALGS: 2024 Split 1 Pro League - APAC North"
-        },
-        {
-          "date": "2024-05-05",
-          "place": 1,
-          "tier": "S",
-          "event": "ALGS: 2024 Split 1 Playoffs"
-        },
-        {
-          "date": "2024-12-14",
-          "place": 1,
-          "tier": "A",
-          "event": "BLGS: 2024 Regional Finals - APAC North"
+          "event": "ALGS: 2022 Championship"
         }
       ],
-      "earnings": 159086,
+      "earnings": 113206,
       "tier": 3,
       "verified": false,
-      "notes": "韩国选手，国际补充；位置待核实；当前无战队，显示最近一支：Crazy Raccoon",
+      "notes": "位置待核实；当前无战队，显示最近一支：Cloud9",
       "sources": [
-        "https://liquipedia.net/apexlegends/SangJoon"
+        "https://liquipedia.net/apexlegends/Rocker"
       ]
     },
     {
-      "id": "shirayuki-reid",
-      "name": "Shirayuki Reid",
-      "cn": "白雪レイド",
+      "id": "senoxe",
+      "name": "Senoxe",
       "aliases": [
-        "白雪 レイド",
-        "Reid Shirayuki",
-        "白雪レイド",
-        "BIG_REID_STAR"
+        "Adam Lau"
       ],
       "search": [
-        "shirayuki reid",
-        "白雪レイド",
-        "baixueレイド",
-        "bxレイド",
-        "白雪 レイド",
-        "baixue レイド",
-        "bx レイド",
-        "reid shirayuki",
-        "big_reid_star"
+        "senoxe",
+        "adam lau"
       ],
-      "country": "日本",
-      "team": "Neo-Porte",
+      "country": "加拿大",
+      "team": "Dudes Night Out",
       "teamHistory": [
-        "V Gaming",
-        "merise"
+        "Sentinels",
+        "Oxygen Esports",
+        "Disguised"
       ],
       "role": "输出",
       "debutYear": 2019,
       "status": "active",
-      "placements": [],
-      "earnings": 3847,
+      "placements": [
+        {
+          "date": "2019-08-03",
+          "place": 3,
+          "tier": "S",
+          "event": "EXP Invitational – Apex Legends at X Games Minneapolis"
+        },
+        {
+          "date": "2019-09-15",
+          "place": 6,
+          "tier": "S",
+          "event": "Apex Legends Preseason Invitational"
+        },
+        {
+          "date": "2019-09-29",
+          "place": 1,
+          "tier": "S",
+          "event": "TwitchCon San Diego 2019"
+        },
+        {
+          "date": "2019-12-15",
+          "place": 2,
+          "tier": "A",
+          "event": "GLL Apex Legends Series - NA"
+        },
+        {
+          "date": "2020-10-25",
+          "place": 2,
+          "tier": "A",
+          "event": "PGL Showdown - North America"
+        },
+        {
+          "date": "2021-06-13",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - North America"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - North America"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - North America"
+        },
+        {
+          "date": "2022-10-08",
+          "place": 3,
+          "tier": "S",
+          "event": "TwitchCon San Diego 2022"
+        }
+      ],
+      "earnings": 106650,
       "tier": 3,
       "verified": false,
-      "notes": "日本选手，国际补充；Liquipedia 未填活跃年份；位置待核实；出道年按队伍履历最早年份推断为 2019（Liquipedia 未填 years_active）",
+      "notes": "位置待核实；当前无战队，显示最近一支：Dudes Night Out",
       "sources": [
-        "https://liquipedia.net/apexlegends/Shirayuki%20Reid"
+        "https://liquipedia.net/apexlegends/Senoxe"
+      ]
+    },
+    {
+      "id": "sikezz",
+      "name": "Sikezz",
+      "aliases": [
+        "Nicholas Tanner Odom",
+        "sSikezz"
+      ],
+      "search": [
+        "sikezz",
+        "nicholas tanner odom",
+        "ssikezz"
+      ],
+      "country": "美国",
+      "team": "Team Liquid",
+      "teamHistory": [
+        "XSET",
+        "DarkZero Esports",
+        "Luminosity Gaming",
+        "ENVY",
+        "NRG"
+      ],
+      "role": "输出",
+      "debutYear": 2021,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2021-12-15",
+          "place": 1,
+          "tier": "A",
+          "event": "Samsung Odyssey Invitational"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs"
+        },
+        {
+          "date": "2023-05-08",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - North America"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        },
+        {
+          "date": "2024-03-25",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - North America"
+        },
+        {
+          "date": "2024-05-05",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 1 Playoffs"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 3,
+          "tier": "S",
+          "event": "Esports World Cup 2024"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship"
+        },
+        {
+          "date": "2026-07-11",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 1 Playoffs"
+        },
+        {
+          "date": "2026-11-01",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs"
+        }
+      ],
+      "earnings": 513232,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Sikezz"
+      ]
+    },
+    {
+      "id": "sirdel",
+      "name": "SirDel",
+      "aliases": [
+        "Matthew Biggins"
+      ],
+      "search": [
+        "sirdel",
+        "matthew biggins"
+      ],
+      "country": "英国",
+      "team": "75%",
+      "teamHistory": [
+        "Vexed Gaming",
+        "YukiGnaskeDel",
+        "COOLER Esport",
+        "GnaskeYukiDel",
+        "Aqualix",
+        "GnaskeOliDel",
+        "GMT Esports",
+        "Pioneers",
+        "The Full English"
+      ],
+      "role": "输出",
+      "debutYear": 2020,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2020-09-13",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - EMEA"
+        },
+        {
+          "date": "2021-06-12",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - EMEA"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2022-10-22",
+          "place": 1,
+          "tier": "A",
+          "event": "ReWired Festival 2022"
+        },
+        {
+          "date": "2023-05-07",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - EMEA"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        }
+      ],
+      "earnings": 142613,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：75%",
+      "sources": [
+        "https://liquipedia.net/apexlegends/SirDel"
       ]
     },
     {
@@ -2878,69 +5154,99 @@
       ]
     },
     {
-      "id": "taida",
-      "name": "Taida",
-      "cn": "怠惰",
+      "id": "taxi",
+      "name": "Taxi",
       "aliases": [
-        "高橋 翔一",
-        "Shoichi Takahashi",
-        "怠惰"
+        "Svend-Erik Høegh",
+        "Taxi2g"
       ],
       "search": [
-        "taida",
-        "怠惰",
-        "daiduo",
-        "dd",
-        "高橋 翔一",
-        "gaoqiao xiangyi",
-        "gq xy",
-        "shoichi takahashi"
+        "taxi",
+        "svend-erik høegh",
+        "taxi2g"
       ],
-      "country": "日本",
-      "team": "REIGNITE",
-      "teamHistory": [
-        "Team GENIUS",
-        "NEVIS",
-        "NORTHEPTION",
-        "TIE",
-        "GHS",
-        "RIDDLE"
-      ],
+      "country": "丹麦",
+      "team": "Clique Esports",
+      "teamHistory": [],
       "role": "输出",
-      "debutYear": 2020,
+      "debutYear": 2019,
       "status": "active",
       "placements": [
         {
-          "date": "2022-12-11",
-          "place": 2,
-          "tier": "A",
-          "event": "ALGS: 2022 Split 1 Pro League - APAC North"
-        },
-        {
-          "date": "2023-05-06",
-          "place": 2,
-          "tier": "A",
-          "event": "ALGS: 2023 Split 2 Pro League - APAC North"
-        },
-        {
-          "date": "2024-07-07",
+          "date": "2019-07-01",
           "place": 8,
           "tier": "A",
-          "event": "ALGS: 2024 Split 2 Pro League - APAC North"
+          "event": "Twitch Rivals: Apex Legends Elite Queue Challenge 2"
         },
         {
-          "date": "2024-08-04",
-          "place": 22,
-          "tier": "S",
-          "event": "Esports World Cup 2024"
+          "date": "2022-07-26",
+          "place": 5,
+          "tier": "A",
+          "event": "Twitch Rivals - NA Showdown 4"
         }
       ],
-      "earnings": 27419,
+      "earnings": 3305,
       "tier": 3,
       "verified": false,
-      "notes": "日本选手，国际补充；位置待核实",
+      "notes": "位置待核实；当前无战队，显示最近一支：Clique Esports",
       "sources": [
-        "https://liquipedia.net/apexlegends/Taida"
+        "https://liquipedia.net/apexlegends/Taxi"
+      ]
+    },
+    {
+      "id": "teq",
+      "name": "TeQ",
+      "aliases": [
+        "Will Starck"
+      ],
+      "search": [
+        "teq",
+        "will starck"
+      ],
+      "country": "美国",
+      "team": "Meat Lovers",
+      "teamHistory": [
+        "Flying Drone",
+        "2 Brains 1 Controller",
+        "Rockstar",
+        "FURIA Esports",
+        "Sentinels"
+      ],
+      "role": "输出",
+      "debutYear": 2020,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2020-09-12",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - Americas"
+        },
+        {
+          "date": "2021-12-19",
+          "place": 4,
+          "tier": "A",
+          "event": "JBL Quantum Cup 2021"
+        },
+        {
+          "date": "2022-11-07",
+          "place": 4,
+          "tier": "A",
+          "event": "MFAM Gauntlet #3"
+        },
+        {
+          "date": "2023-05-08",
+          "place": 13,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - North America"
+        }
+      ],
+      "earnings": 22483,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：Meat Lovers",
+      "sources": [
+        "https://liquipedia.net/apexlegends/TeQ"
       ]
     },
     {
@@ -2977,6 +5283,352 @@
       "notes": "位置待核实；当前无战队，显示最近一支：StarShine Esport-Xray",
       "sources": [
         "https://liquipedia.net/apexlegends/Top"
+      ]
+    },
+    {
+      "id": "tyler",
+      "name": "Tyler",
+      "aliases": [
+        "Tyler Wood",
+        "Serious"
+      ],
+      "search": [
+        "tyler",
+        "tyler wood",
+        "serious"
+      ],
+      "country": "英国",
+      "team": "For Fun Esports",
+      "teamHistory": [
+        "Clique Esports",
+        "Team White",
+        "Game of Drones",
+        "Odin Gamers",
+        "InSaNe eSports",
+        "NEW Esports",
+        "BearClaw Gaming",
+        "YungMoneyGuild",
+        "Rebel",
+        "Mutariuum",
+        "BOSH",
+        "Vexed Gaming",
+        "Element 6",
+        "COLD",
+        "Orgless and Hungry",
+        "Natus Vincere",
+        "Ethernal",
+        "FaZe Clan",
+        "Dragons Esports",
+        "Trojan",
+        "o7",
+        "Made In Heaven"
+      ],
+      "role": "输出",
+      "debutYear": 2020,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2022-12-18",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Pro League - EMEA"
+        },
+        {
+          "date": "2023-05-07",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - EMEA"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2024-03-17",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - EMEA"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
+        },
+        {
+          "date": "2026-06-07",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - EMEA"
+        },
+        {
+          "date": "2026-07-11",
+          "place": 18,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 1 Playoffs"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - EMEA"
+        }
+      ],
+      "earnings": 91924,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Tyler"
+      ]
+    },
+    {
+      "id": "vaifs",
+      "name": "Vaifs",
+      "aliases": [
+        "Simon Bellini"
+      ],
+      "search": [
+        "vaifs",
+        "simon bellini"
+      ],
+      "country": "瑞典",
+      "team": "Take Flyte",
+      "teamHistory": [
+        "Alliance",
+        "LVH",
+        "9Lies Esports"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2020-03-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Online #2 - Europe"
+        },
+        {
+          "date": "2020-08-02",
+          "place": 2,
+          "tier": "A",
+          "event": "GLL Masters Summer - EMEA"
+        },
+        {
+          "date": "2020-10-24",
+          "place": 1,
+          "tier": "A",
+          "event": "PGL Showdown - Europe"
+        },
+        {
+          "date": "2020-12-20",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS Autumn Circuit Playoffs - EMEA"
+        },
+        {
+          "date": "2021-05-20",
+          "place": 1,
+          "tier": "A",
+          "event": "Twitch Rivals - EU Showdown"
+        },
+        {
+          "date": "2021-06-12",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - EMEA"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - EMEA"
+        },
+        {
+          "date": "2022-01-22",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - EMEA"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        }
+      ],
+      "earnings": 93479,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Vaifs"
+      ]
+    },
+    {
+      "id": "xynew",
+      "name": "Xynew",
+      "aliases": [
+        "Brody Geissler"
+      ],
+      "search": [
+        "xynew",
+        "brody geissler"
+      ],
+      "country": "美国",
+      "team": "Shopify Rebellion",
+      "teamHistory": [
+        "Meat Lovers",
+        "DarkZero Esports",
+        "DarkZero",
+        "Spacestation Gaming",
+        "Moist Esports"
+      ],
+      "role": "输出",
+      "debutYear": 2022,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2023-05-08",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - North America"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        },
+        {
+          "date": "2024-05-05",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 1 Playoffs"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 4,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship"
+        },
+        {
+          "date": "2025-05-04",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2025 Open"
+        },
+        {
+          "date": "2025-10-12",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - Americas"
+        },
+        {
+          "date": "2026-11-01",
+          "place": 15,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs"
+        }
+      ],
+      "earnings": 341105,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Xynew"
+      ]
+    },
+    {
+      "id": "zach",
+      "name": "Zach",
+      "aliases": [
+        "Zachary Mazer",
+        "Zachmazer"
+      ],
+      "search": [
+        "zach",
+        "zachary mazer",
+        "zachmazer"
+      ],
+      "country": "美国",
+      "team": "Team Vision",
+      "teamHistory": [
+        "Team FiRE Red",
+        "FlyQuest",
+        "SolaFide",
+        "Cloud9",
+        "Elev8 Gaming",
+        "Virtus.pro"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2021-06-13",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - North America"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 15,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship"
+        },
+        {
+          "date": "2025-10-12",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - Americas"
+        },
+        {
+          "date": "2026-06-07",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - Americas"
+        },
+        {
+          "date": "2026-07-11",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 1 Playoffs"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - Americas"
+        },
+        {
+          "date": "2026-11-01",
+          "place": 2,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs"
+        }
+      ],
+      "earnings": 379932,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Zach"
       ]
     }
   ]
