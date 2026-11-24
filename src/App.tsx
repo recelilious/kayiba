@@ -129,6 +129,7 @@ export default function App() {
                 </button>
               ))}
             </div>
+            <p className="tiers-total">三档合计 {PLAYER_COUNT} 名选手</p>
           </section>
         )}
 
