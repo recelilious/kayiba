@@ -103,7 +103,7 @@ export default function App() {
       <header className="topbar">
         <div className="brand">
           <span className="brand-mark" aria-hidden="true" />
-          <span className="brand-text">APEX 猜选手</span>
+          <span className="brand-text">卡一把</span>
         </div>
         <span className="topbar-meta">{inGame ? `剩 ${remaining} 次` : `${PLAYER_COUNT} 名选手`}</span>
       </header>
@@ -111,12 +111,8 @@ export default function App() {
       <main className="main">
         {state.phase === 'idle' && (
           <section className="intro">
-            <h1 className="intro-title">
-              猜猜这位
-              <br />
-              APEX 选手是谁
-            </h1>
-            <p className="intro-sub">6 次机会。每次告诉你哪一项更接近。</p>
+            <h1 className="intro-title">卡一把</h1>
+            <p className="intro-sub">猜猜这位 APEX 选手是谁。6 次机会，每次告诉你哪一项更接近。</p>
 
             <div className="tiers">
               {([1, 2, 3] as Tier[]).map((t) => (
