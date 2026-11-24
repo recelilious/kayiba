@@ -577,6 +577,62 @@ button {
   color: var(--gray-600);
 }
 
+/* ---------- 自定义滚动条 ---------- */
+
+html {
+  scrollbar-width: thin;
+  scrollbar-color: var(--gray-600) var(--apex-ink);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--apex-ink);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gray-600);
+  border: 2px solid var(--apex-ink);
+  border-radius: var(--r-full);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--apex-red);
+  border-color: var(--apex-ink);
+}
+
+::-webkit-scrollbar-corner {
+  background: var(--apex-ink);
+}
+
+/* 下拉选项列表的滚动条：轨道跟随卡片底色 */
+.options {
+  scrollbar-width: thin;
+  scrollbar-color: var(--gray-600) transparent;
+}
+
+.options::-webkit-scrollbar {
+  width: 8px;
+}
+
+.options::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.options::-webkit-scrollbar-thumb {
+  background: var(--gray-600);
+  border: 2px solid var(--gray-800);
+  border-radius: var(--r-full);
+}
+
+.options::-webkit-scrollbar-thumb:hover {
+  background: var(--apex-red);
+  border-color: var(--gray-800);
+}
+
 /* ---------- 动效降级 ---------- */
 
 @media (prefers-reduced-motion: reduce) {
