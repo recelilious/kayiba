@@ -65,6 +65,12 @@ function reducer(state: State, action: Action): State {
 
 const TIER_LABEL: Record<Tier, string> = { 1: '简单', 2: '中等', 3: '困难' }
 
+const TIER_DESC: Record<Tier, string> = {
+  1: 'ALGS 世界赛、EWC、星空杯冠军级选手，全国知名',
+  2: '一线职业选手与头部主播，常看比赛就认识',
+  3: '边缘现役、退役老将，以及国际顶尖选手',
+}
+
 export default function App() {
   const [state, dispatch] = useReducer(reducer, {
     phase: 'idle',
@@ -115,10 +121,11 @@ export default function App() {
             <div className="tiers">
               {([1, 2, 3] as Tier[]).map((t) => (
                 <button key={t} className="tier" disabled={counts[t] === 0} onClick={() => start(t)}>
-                  <span className="tier-name">{TIER_LABEL[t]}</span>
-                  <span className="tier-count">
-                    {counts[t] === 0 ? '待补充' : `${counts[t]} 人`}
+                  <span className="tier-head">
+                    <span className="tier-name">{TIER_LABEL[t]}</span>
+                    <span className="tier-count">{counts[t] === 0 ? '待补充' : `${counts[t]} 人`}</span>
                   </span>
+                  <span className="tier-desc">{TIER_DESC[t]}</span>
                 </button>
               ))}
             </div>

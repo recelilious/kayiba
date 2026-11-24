@@ -135,17 +135,11 @@ button {
   gap: var(--s3);
 }
 
-@media (min-width: 560px) {
-  .tiers {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
 .tier {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  gap: var(--s1);
+  align-items: stretch;
+  gap: var(--s2);
   padding: var(--s4) var(--s5);
   background: var(--gray-800);
   border: 1px solid var(--gray-700);
@@ -170,14 +164,29 @@ button {
   cursor: not-allowed;
 }
 
+.tier-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--s3);
+}
+
 .tier-name {
   font-size: 18px;
   font-weight: 700;
 }
 
 .tier-count {
-  font-size: 12px;
+  font-size: 13px;
+  color: var(--gray-400);
+  font-variant-numeric: tabular-nums;
+}
+
+.tier-desc {
+  font-size: 13px;
+  line-height: 1.5;
   color: var(--gray-500);
+  text-align: left;
 }
 
 /* ---------- 对局 ---------- */
