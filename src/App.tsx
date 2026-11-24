@@ -2,7 +2,7 @@ import { useReducer } from 'react'
 import { FeedbackGrid } from './components/FeedbackGrid'
 import { GuessInput } from './components/GuessInput'
 import { ResultCard } from './components/ResultCard'
-import { ALL_PLAYERS, PLAYER_COUNT, poolByTier, tierCounts } from './data'
+import { ALL_PLAYERS, PLAYER_COUNT, difficultyCounts, poolForDifficulty } from './data'
 import { compare, nicknameOf } from './game/feedback'
 import type { Guess, Player, Tier } from './game/types'
 
@@ -66,9 +66,9 @@ function reducer(state: State, action: Action): State {
 const TIER_LABEL: Record<Tier, string> = { 1: '简单', 2: '中等', 3: '困难' }
 
 const TIER_DESC: Record<Tier, string> = {
-  1: 'ALGS 世界赛、EWC、星空杯冠军级选手，全国知名',
-  2: '一线职业选手与头部主播，常看比赛就认识',
-  3: '边缘现役、退役老将，以及国际顶尖选手',
+  1: '只抽最知名的冠军级选手，池子最小',
+  2: '池子扩大，加入一线职业与头部主播',
+  3: '全池随机，也可能抽到简单档的选手',
 }
 
 export default function App() {
@@ -80,20 +80,20 @@ export default function App() {
     seen: [],
   })
 
-  const counts = tierCounts()
+  const counts = difficultyCounts()
   const remaining = MAX_GUESSES - state.guesses.length
   const guessedIds = new Set(state.guesses.map((g) => g.player.id))
   const options = ALL_PLAYERS.filter((p) => !guessedIds.has(p.id))
   const inGame = state.phase !== 'idle'
 
   function start(tier: Tier) {
-    const pool = poolByTier(tier)
+    const pool = poolForDifficulty(tier)
     if (pool.length === 0) return
     dispatch({ type: 'start', tier, target: drawTarget(pool, state.seen) })
   }
 
   function replay() {
-    const pool = poolByTier(state.tier)
+    const pool = poolForDifficulty(state.tier)
     if (pool.length === 0) return
     dispatch({ type: 'replay', target: drawTarget(pool, state.seen) })
   }
@@ -129,7 +129,6 @@ export default function App() {
                 </button>
               ))}
             </div>
-            <p className="tiers-total">三档合计 {PLAYER_COUNT} 名选手</p>
           </section>
         )}
 

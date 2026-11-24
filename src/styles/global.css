@@ -189,14 +189,6 @@ button {
   text-align: left;
 }
 
-.tiers-total {
-  margin: 0;
-  font-size: 12px;
-  text-align: right;
-  color: var(--gray-500);
-  font-variant-numeric: tabular-nums;
-}
-
 /* ---------- 对局 ---------- */
 
 .board {
