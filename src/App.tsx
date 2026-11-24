@@ -66,7 +66,7 @@ function reducer(state: State, action: Action): State {
 const TIER_LABEL: Record<Tier, string> = { 1: '简单', 2: '中等', 3: '困难' }
 
 const TIER_DESC: Record<Tier, string> = {
-  1: 'ALGS 世界赛、EWC、星空杯冠军级选手，全国知名',
+  1: '只有国内选手 · ALGS 世界赛、EWC、星空杯冠军级，全国知名',
   2: '一线职业选手与头部主播，常看比赛就认识',
   3: '边缘现役、退役老将，以及国际顶尖选手',
 }
