@@ -30,11 +30,10 @@ jobs:
       - run: npm run build
       - run: npm run build:single
 
+      # 注：不设置 enablement: true —— GITHUB_TOKEN 没有创建 Pages 站点的管理员权限，
+      # 首次需要在仓库 Settings → Pages 里手动把 Source 设为 GitHub Actions。
       - name: Setup Pages
         uses: actions/configure-pages@v5
-        with:
-          # 首次运行自动启用 Pages（省掉去 Settings 手动点一步）
-          enablement: true
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
