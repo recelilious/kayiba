@@ -125,6 +125,73 @@ export default function App() {
                 </button>
               ))}
             </div>
+
+            <section className="rules">
+              <h2 className="rules-title">怎么玩</h2>
+              <p className="rules-lead">
+                每次猜一位选手，最多 6 次机会。每猜一次，系统按七项属性给出颜色提示，帮你缩小范围。
+              </p>
+
+              <ul className="rules-legend">
+                <li>
+                  <span className="dot dot-correct" aria-hidden="true" />
+                  绿色：完全一致
+                </li>
+                <li>
+                  <span className="dot dot-close" aria-hidden="true" />
+                  橙色：接近
+                </li>
+                <li>
+                  <span className="dot dot-wrong" aria-hidden="true" />
+                  灰色：不符
+                </li>
+              </ul>
+
+              <h3 className="rules-sub">七项属性的判定</h3>
+              <dl className="rules-list">
+                <div>
+                  <dt>地区</dt>
+                  <dd>
+                    国家和答案相同判绿。中国选手（含港澳台）统一算「中国」，其余按国名。这一项没有橙色。
+                  </dd>
+                </div>
+                <div>
+                  <dt>战队</dt>
+                  <dd>
+                    当前战队相同判绿；<strong>若你猜的选手当前战队，是答案选手待过、但现在已经离开的战队（或反过来），判橙</strong>。
+                  </dd>
+                </div>
+                <div>
+                  <dt>状态</dt>
+                  <dd>现役 / 退役与答案相同判绿。这一项没有橙色。</dd>
+                </div>
+                <div>
+                  <dt>出道</dt>
+                  <dd>出道年份相同判绿；相差 2 年以内判橙。</dd>
+                </div>
+                <div>
+                  <dt>世界赛</dt>
+                  <dd>
+                    显示该选手在 S 级赛事拿过的名次，按名次从好到差排列，例如 <code>#1 #3 #9</code>。比对时只取其中
+                    <strong>最好的名次</strong>：相同判绿，相差 2 名以内判橙。双方都没有名次时判绿。
+                  </dd>
+                </div>
+                <div>
+                  <dt>A 级赛</dt>
+                  <dd>规则同「世界赛」，统计范围换成 A 级赛事。</dd>
+                </div>
+                <div>
+                  <dt>奖金</dt>
+                  <dd>生涯奖金总额完全相同判绿；相差 2 倍以内判橙。</dd>
+                </div>
+              </dl>
+
+              <h3 className="rules-sub">难度与出题池</h3>
+              <p className="rules-lead">
+                难度只决定出题池的大小。简单档只从国内知名选手出题；中等、困难依次把更多选手纳入池子，
+                所以困难档也可能抽到简单档的选手。同一档内每次随机出题，同一局里不会重复。
+              </p>
+            </section>
           </section>
         )}
 

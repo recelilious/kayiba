@@ -191,6 +191,120 @@ button {
   text-align: left;
 }
 
+/* ---------- 规则说明 ---------- */
+
+.rules {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s3);
+  margin-top: var(--s5);
+  padding: var(--s5);
+  background: var(--gray-850);
+  border: 1px solid var(--gray-700);
+  border-radius: var(--r-lg);
+}
+
+.rules-title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.rules-lead {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--gray-400);
+}
+
+.rules-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s4);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 14px;
+  color: var(--gray-300);
+}
+
+.rules-legend li {
+  display: flex;
+  align-items: center;
+  gap: var(--s2);
+}
+
+.dot {
+  flex: none;
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+}
+
+.dot-correct {
+  background: var(--fb-correct);
+}
+
+.dot-close {
+  background: var(--fb-close);
+}
+
+.dot-wrong {
+  background: var(--fb-wrong);
+}
+
+.rules-sub {
+  margin: var(--s2) 0 0;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--gray-100);
+}
+
+.rules-list {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+.rules-list > div {
+  display: grid;
+  grid-template-columns: 64px 1fr;
+  gap: var(--s3);
+  padding: var(--s3) 0;
+  border-top: 1px solid var(--gray-800);
+}
+
+.rules-list > div:first-child {
+  border-top: none;
+}
+
+.rules-list dt {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--gray-300);
+}
+
+.rules-list dd {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--gray-400);
+}
+
+.rules-list strong {
+  font-weight: 700;
+  color: var(--gray-100);
+}
+
+.rules-list code {
+  padding: 1px 5px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 13px;
+  color: var(--gray-100);
+  background: var(--gray-800);
+  border-radius: 4px;
+}
+
 /* ---------- 对局 ---------- */
 
 .board {
