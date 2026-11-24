@@ -49,11 +49,17 @@ function honorMatch(guess: number | null, target: number | null): Match {
   return Math.abs(guess - target) <= 2 ? 'close' : 'wrong'
 }
 
-/** 金额相同为绿，同一量级（10 倍以内）为黄 */
+/**
+ * 金额相同为绿，接近（2 倍以内）为黄。
+ * 用 2 倍而不是 10 倍：这批选手奖金集中在 6k–30 万美元，10 倍以内会覆盖 75% 的组合。
+ */
+const EARNINGS_CLOSE_RATIO = 2
+
 function earningsMatch(guess: number, target: number): Match {
   if (guess === target) return 'correct'
   if (guess <= 0 || target <= 0) return 'wrong'
-  return Math.abs(Math.log10(guess / target)) < 1 ? 'close' : 'wrong'
+  const ratio = Math.max(guess, target) / Math.min(guess, target)
+  return ratio <= EARNINGS_CLOSE_RATIO ? 'close' : 'wrong'
 }
 
 /** 当前战队相同为绿；一方当前战队是另一方「曾经待过、现在不在」的战队为黄 */

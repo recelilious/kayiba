@@ -84,9 +84,11 @@ describe('compare', () => {
     expect(compare(guess, target)[5].match).toBe('correct')
   })
 
-  it('奖金相同为绿，同量级为黄，差一个量级为灰', () => {
+  it('奖金相同为绿，2 倍以内为黄，超过 2 倍为灰', () => {
     expect(compare(player({ earnings: 88000 }), player({ earnings: 88000 }))[6].match).toBe('correct')
     expect(compare(player({ earnings: 88000 }), player({ earnings: 120000 }))[6].match).toBe('close')
+    expect(compare(player({ earnings: 88000 }), player({ earnings: 170000 }))[6].match).toBe('close')
+    expect(compare(player({ earnings: 88000 }), player({ earnings: 180000 }))[6].match).toBe('wrong')
     expect(compare(player({ earnings: 88000 }), player({ earnings: 900000 }))[6].match).toBe('wrong')
   })
 })
