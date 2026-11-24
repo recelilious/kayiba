@@ -1,0 +1,54 @@
+:root {
+  /* Apex 品牌色 */
+  --apex-red: #da292a;
+  --apex-red-press: #a81f20;
+  --apex-red-soft: rgba(218, 41, 42, 0.16);
+  --apex-black: #161616;
+  --apex-ink: #0b0b0c;
+  --apex-white: #ffffff;
+
+  /* 中性色阶 */
+  --gray-900: #0f0f11;
+  --gray-850: #151517;
+  --gray-800: #1d1d20;
+  --gray-700: #26262a;
+  --gray-600: #3a3a40;
+  --gray-500: #6e6e76;
+  --gray-400: #a6a6ae;
+  --gray-300: #c9c9d0;
+  --gray-100: #ededf2;
+
+  /* 反馈色（Okabe-Ito 色盲安全） */
+  --fb-correct: #009e73;
+  --fb-correct-bg: rgba(0, 158, 115, 0.16);
+  --fb-close: #e69f00;
+  --fb-close-bg: rgba(230, 159, 0, 0.16);
+  --fb-wrong: #6e6e76;
+  --fb-wrong-bg: rgba(110, 110, 118, 0.12);
+
+  /* 4px 栅格 */
+  --s1: 4px;
+  --s2: 8px;
+  --s3: 12px;
+  --s4: 16px;
+  --s5: 24px;
+  --s6: 32px;
+  --s7: 48px;
+
+  /* 圆角 */
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 20px;
+  --r-full: 999px;
+
+  /* 动效 */
+  --ease: cubic-bezier(0.45, 0, 0.4, 1);
+  --dur-fast: 130ms;
+  --dur-mid: 200ms;
+
+  --font:
+    'PingFang SC', 'HarmonyOS Sans SC', 'Microsoft YaHei', 'Noto Sans SC', system-ui, -apple-system,
+    'Segoe UI', sans-serif;
+
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
