@@ -1,6 +1,6 @@
 import { useEffect, useId, useMemo, useRef, useState } from 'react'
 import type { KeyboardEvent } from 'react'
-import { matchesQuery } from '../game/feedback'
+import { matchesQuery, nicknameOf } from '../game/feedback'
 import type { Player } from '../game/types'
 
 interface Props {
@@ -95,7 +95,7 @@ export function GuessInput({ options, disabled, onSelect }: Props) {
               onMouseEnter={() => setActive(i)}
             >
               <span className="option-name">{p.name}</span>
-              {p.cn && <span className="option-cn">{p.cn}</span>}
+              <span className="option-cn">{nicknameOf(p)}</span>
               <span className="option-team">{p.team}</span>
             </li>
           ))}
