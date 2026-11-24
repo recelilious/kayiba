@@ -1,0 +1,15 @@
+# 待抓取的选手名（Liquipedia 页面标题，大小写敏感）
+# 一行一个，# 开头为注释。
+# 用法：npm run fetch:liq
+
+3Mz
+Kasssa
+QQ
+Roieee
+Pite
+CrazyCong
+LqDuD
+WenXx
+Nirvana
+GuGu
+BoLin

@@ -9,7 +9,10 @@
     "build:single": "tsc --noEmit && vite build --mode single",
     "preview": "vite preview",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "validate": "node scripts/validate.mjs",
+    "fetch:liq": "node scripts/fetch-liquipedia.mjs",
+    "search:index": "node scripts/build-search-index.mjs"
   },
   "dependencies": {
     "react": "^19.3.1",
@@ -19,6 +22,7 @@
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "@vitejs/plugin-react": "^6.3.0",
+    "pinyin-pro": "^3.29.5",
     "typescript": "^7.0.2",
     "vite": "^8.3.8",
     "vite-plugin-singlefile": "^2.3.4",

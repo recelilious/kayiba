@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "note": "骨架示例数据。除 3Mz 的 name/cn/legends/debutYear 来自 Liquipedia 外，其余字段均为待核实占位，不可直接上台使用。",
+    "note": "骨架数据（8/50）。cn / region / debutYear / legends 已按 Liquipedia 抓取结果校正；team / role / honor 仍为待核实占位，不可直接上台。",
     "updated": "2026-11-24",
     "target": 50
   },
@@ -9,142 +9,314 @@
       "id": "3mz",
       "name": "3Mz",
       "cn": "三明治",
-      "aliases": ["王虎", "虎哥", "巨大"],
-      "search": ["3mz", "sanmingzhi", "smz", "wanghu"],
+      "aliases": [
+        "王虎",
+        "虎哥",
+        "巨大"
+      ],
+      "search": [
+        "3mz",
+        "sanmingzhi",
+        "smz",
+        "wanghu",
+        "三明治",
+        "王虎",
+        "wh",
+        "虎哥",
+        "huge",
+        "hg",
+        "巨大",
+        "juda",
+        "jd"
+      ],
       "region": "CN",
       "team": "EDG",
       "role": "IGL",
       "legends": [
-        { "name": "Bangalore", "class": "突击" },
-        { "name": "Gibraltar", "class": "支援" },
-        { "name": "Seer", "class": "侦察" }
+        {
+          "name": "Bangalore",
+          "class": "突击"
+        },
+        {
+          "name": "Gibraltar",
+          "class": "支援"
+        },
+        {
+          "name": "Seer",
+          "class": "侦察"
+        }
       ],
       "debutYear": 2019,
       "status": "active",
       "honor": "国际决赛",
       "tier": 1,
       "verified": false,
-      "notes": "Liquipedia 实录：localid 三明治 / name 王虎 / legends bangalore,Gibraltar,Seer / years_active 2019–",
-      "sources": ["https://liquipedia.net/apexlegends/3Mz"]
+      "notes": "Liquipedia 实录：localid 三明治 / name 王虎 / legends Bangalore,Gibraltar,Seer / debut 2019。team 与 role 待核实。",
+      "sources": [
+        "https://liquipedia.net/apexlegends/3Mz"
+      ]
     },
     {
       "id": "kasssa",
       "name": "Kasssa",
       "cn": "卡莎",
-      "aliases": ["蔡登浪"],
-      "search": ["kasssa", "kasa", "kasha", "caidenglang"],
+      "aliases": [
+        "蔡登浪"
+      ],
+      "search": [
+        "kasssa",
+        "kasa",
+        "kasha",
+        "caidenglang",
+        "卡莎",
+        "ks",
+        "蔡登浪",
+        "cdl"
+      ],
       "region": "CN",
       "team": "VKG",
       "role": "IGL",
-      "legends": [{ "name": "Wraith", "class": "游击" }],
-      "debutYear": 2019,
+      "legends": [
+        {
+          "name": "Wraith",
+          "class": "游击"
+        },
+        {
+          "name": "Octane",
+          "class": "游击"
+        },
+        {
+          "name": "Horizon",
+          "class": "游击"
+        }
+      ],
+      "debutYear": 2020,
       "status": "active",
       "honor": "世界冠军",
       "tier": 1,
       "verified": false,
-      "notes": "EWC 2025 冠军阵容；传奇为占位，待核实",
-      "sources": ["https://liquipedia.net/apexlegends/Kasssa"]
+      "notes": "Liquipedia：debut 2020（此前误记为 2019）。team / role / honor 待核实。",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Kasssa"
+      ]
     },
     {
       "id": "qq",
       "name": "QQ",
-      "aliases": ["陈胤宏"],
-      "search": ["qq", "chenyinhong"],
+      "aliases": [
+        "陈胤宏"
+      ],
+      "search": [
+        "qq",
+        "chenyinhong",
+        "陈胤宏",
+        "cyh"
+      ],
       "region": "TW",
       "team": "VKG",
       "role": "突破",
-      "legends": [{ "name": "Horizon", "class": "游击" }],
+      "legends": [],
       "debutYear": 2022,
       "status": "active",
       "honor": "世界冠军",
       "tier": 1,
       "verified": false,
-      "notes": "EWC 2025 FMVP；传奇为占位，待核实",
-      "sources": ["https://liquipedia.net/apexlegends/QQ"]
+      "notes": "Liquipedia 页面无 legends 字段，需人工补。team / role 待核实。",
+      "sources": [
+        "https://liquipedia.net/apexlegends/QQ"
+      ]
     },
     {
       "id": "roieee",
       "name": "Roieee",
       "cn": "百弟",
-      "aliases": ["陈柏瀚"],
-      "search": ["roieee", "baidi", "chenbohan"],
+      "aliases": [
+        "陈柏瀚"
+      ],
+      "search": [
+        "roieee",
+        "baidi",
+        "chenbohan",
+        "百弟",
+        "bd",
+        "陈柏瀚",
+        "chenbaihan",
+        "cbh"
+      ],
       "region": "TW",
       "team": "DreamFire",
       "role": "支援",
-      "legends": [{ "name": "Wattson", "class": "控制" }],
+      "legends": [
+        {
+          "name": "Catalyst",
+          "class": "控制"
+        },
+        {
+          "name": "Conduit",
+          "class": "支援"
+        }
+      ],
       "debutYear": 2019,
       "status": "active",
       "honor": "国际决赛",
       "tier": 1,
       "verified": false,
-      "sources": ["https://liquipedia.net/apexlegends/Roieee"]
+      "sources": [
+        "https://liquipedia.net/apexlegends/Roieee"
+      ]
     },
     {
       "id": "pite",
       "name": "Pite",
       "cn": "皮特",
-      "aliases": ["王海鹏", "Pite174"],
-      "search": ["pite", "pite174", "piti", "wanghaipeng"],
+      "aliases": [
+        "王海鹏",
+        "Pite174"
+      ],
+      "search": [
+        "pite",
+        "pite174",
+        "piti",
+        "wanghaipeng",
+        "皮特",
+        "pt",
+        "王海鹏",
+        "whp"
+      ],
       "region": "CN",
       "team": "DreamFire",
       "role": "自由人",
-      "legends": [{ "name": "Fuse", "class": "突击" }],
+      "legends": [
+        {
+          "name": "Horizon",
+          "class": "游击"
+        },
+        {
+          "name": "Pathfinder",
+          "class": "游击"
+        },
+        {
+          "name": "Caustic",
+          "class": "控制"
+        }
+      ],
       "debutYear": 2020,
       "status": "active",
       "honor": "国际决赛",
       "tier": 1,
       "verified": false,
-      "sources": ["https://liquipedia.net/apexlegends/Pite"]
+      "notes": "Liquipedia 传奇为 Horizon,Pathfinder,Caustic（此前误记为 Fuse）。",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Pite"
+      ]
     },
     {
       "id": "crazycong",
       "name": "CrazyCong",
-      "aliases": ["王耀"],
-      "search": ["crazycong", "wangyao"],
+      "cn": "葱葱",
+      "aliases": [
+        "王耀"
+      ],
+      "search": [
+        "crazycong",
+        "wangyao",
+        "葱葱",
+        "congcong",
+        "cc",
+        "王耀",
+        "wy"
+      ],
       "region": "CN",
       "team": "Wolves",
       "role": "IGL",
-      "legends": [{ "name": "Catalyst", "class": "控制" }],
-      "debutYear": 2020,
-      "status": "active",
-      "honor": "国内冠军",
-      "tier": 2,
-      "verified": false,
-      "sources": ["https://liquipedia.net/apexlegends/CrazyCong"]
-    },
-    {
-      "id": "lqdud",
-      "name": "LqDuD",
-      "cn": "老吊",
-      "aliases": ["汪轶鹏", "王一鹏"],
-      "search": ["lqdud", "laodiao", "wangyipeng"],
-      "region": "TW",
-      "team": "VKG",
-      "role": "支援",
-      "legends": [{ "name": "Gibraltar", "class": "支援" }],
-      "debutYear": 2018,
-      "status": "active",
-      "honor": "世界冠军",
-      "tier": 2,
-      "verified": false,
-      "notes": "中文名有两种来源写法，上台前必须核实；Liquipedia 标题为 LqDuD（大小写敏感）",
-      "sources": ["https://liquipedia.net/apexlegends/LqDuD"]
-    },
-    {
-      "id": "n0name",
-      "name": "N0NAME",
-      "aliases": ["马梓皓"],
-      "search": ["n0name", "mazihao", "wuming"],
-      "region": "CN",
-      "team": "Wolves",
-      "role": "突破",
-      "legends": [{ "name": "Octane", "class": "游击" }],
+      "legends": [],
       "debutYear": 2021,
       "status": "active",
       "honor": "国内冠军",
       "tier": 2,
       "verified": false,
-      "notes": "Liquipedia 无此页面，需从 BWIKI / 赛事名单补齐",
+      "notes": "Liquipedia：localid 葱葱 / debut 2021（此前误记为 2020）/ 无 legends 字段。",
+      "sources": [
+        "https://liquipedia.net/apexlegends/CrazyCong"
+      ]
+    },
+    {
+      "id": "lqdud",
+      "name": "LqDuD",
+      "cn": "老吊QuQ",
+      "aliases": [
+        "老吊",
+        "汪轶鹏",
+        "王一鹏"
+      ],
+      "search": [
+        "lqdud",
+        "laodiao",
+        "wangyipeng",
+        "老吊quq",
+        "laodiaoquq",
+        "ldquq",
+        "老吊",
+        "ld",
+        "汪轶鹏",
+        "wyp",
+        "王一鹏"
+      ],
+      "region": "CN",
+      "team": "VKG",
+      "role": "支援",
+      "legends": [
+        {
+          "name": "Seer",
+          "class": "侦察"
+        },
+        {
+          "name": "Loba",
+          "class": "支援"
+        },
+        {
+          "name": "Newcastle",
+          "class": "支援"
+        }
+      ],
+      "debutYear": 2020,
+      "status": "active",
+      "honor": "世界冠军",
+      "tier": 2,
+      "verified": false,
+      "notes": "地区存在冲突：Liquipedia 记 China，中文资料称台湾，需人工确认。中文名也有两种写法。Liquipedia 标题 LqDuD（大小写敏感）。",
+      "sources": [
+        "https://liquipedia.net/apexlegends/LqDuD"
+      ]
+    },
+    {
+      "id": "n0name",
+      "name": "N0NAME",
+      "aliases": [
+        "马梓皓"
+      ],
+      "search": [
+        "n0name",
+        "mazihao",
+        "wuming",
+        "马梓皓",
+        "mzh"
+      ],
+      "region": "CN",
+      "team": "Wolves",
+      "role": "突破",
+      "legends": [
+        {
+          "name": "Octane",
+          "class": "游击"
+        }
+      ],
+      "debutYear": 2021,
+      "status": "active",
+      "honor": "国内冠军",
+      "tier": 2,
+      "verified": false,
+      "notes": "Liquipedia 无此页面，全部字段待人工补齐。",
       "sources": []
     }
   ]

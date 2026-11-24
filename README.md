@@ -30,7 +30,17 @@ npm run build:single  # 产出 dist-single/index.html（单文件离线包）
 
 ## 数据
 
-`src/data/players.json` 目前是骨架示例数据（8 人），**除 3Mz 外的字段均待核实**，不可直接上台。
+`src/data/players.json` 目前是骨架数据（8 人），**不可直接上台**。`cn / region / debutYear / legends` 已按 Liquipedia 校正，`team / role / honor` 仍待核实。
+
+三个脚本：
+
+| 命令 | 作用 |
+|---|---|
+| `npm run fetch:liq` | 按 `src/data/roster.txt` 从 Liquipedia 抓取，产出 `liquipedia-draft.json` |
+| `npm run search:index` | 生成拼音 / 首字母搜索索引，写回 `players.json` |
+| `npm run validate` | 校验 schema、重复 id、别名冲突、未核实项 |
+
+传奇职业映射在 `src/data/legends.json`，版本更新时需要核对。
 
 完整设计见 [TECH-PLAN.md](TECH-PLAN.md)。
 

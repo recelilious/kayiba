@@ -1,0 +1,487 @@
+{
+  "_meta": {
+    "fetchedAt": "2026-11-24T05:52:05.295Z",
+    "source": "https://liquipedia.net/apexlegends/api.php"
+  },
+  "players": [
+    {
+      "title": "3Mz",
+      "found": true,
+      "parsed": true,
+      "id": "3Mz",
+      "name": "王虎",
+      "romanized": "Wang Hu",
+      "localid": "三明治",
+      "nicknames": [
+        "虎哥",
+        "巨大",
+        "huge"
+      ],
+      "country": "China",
+      "debutYear": 2019,
+      "birthDate": "1998-11-15",
+      "legends": [
+        {
+          "name": "Bangalore",
+          "class": "突击"
+        },
+        {
+          "name": "Gibraltar",
+          "class": "支援"
+        },
+        {
+          "name": "Seer",
+          "class": "侦察"
+        }
+      ],
+      "alsId": "1009120900882",
+      "raw": {
+        "id": "3Mz",
+        "localid": "三明治",
+        "ids": "GOTAHAVEYO",
+        "name": "王虎 ",
+        "romanized_name": "Wang Hu",
+        "nicknames": "虎哥, 巨大, huge ",
+        "country": "China",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "birth_date": "1998-11-15",
+        "input": "Controller",
+        "apexlegendsstatus": "1009120900882",
+        "apexlegendsstatusalgs": "3Mz",
+        "legends": "bangalore",
+        "legends2": "Gibraltar",
+        "legends3": "Seer",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Kasssa",
+      "found": true,
+      "parsed": true,
+      "id": "Kasssa",
+      "name": "蔡登浪",
+      "romanized": "Cai Denglang",
+      "localid": "卡莎",
+      "nicknames": [
+        "天才美少女卡莎",
+        "黎乐"
+      ],
+      "country": "China",
+      "debutYear": 2020,
+      "birthDate": "1999-08-27",
+      "legends": [
+        {
+          "name": "Wraith",
+          "class": "游击"
+        },
+        {
+          "name": "Octane",
+          "class": "游击"
+        },
+        {
+          "name": "Horizon",
+          "class": "游击"
+        }
+      ],
+      "alsId": "1008795761561",
+      "raw": {
+        "id": "Kasssa",
+        "localid": "卡莎",
+        "ids": "kassssa, Kaa2a, Sin, 神区化龙一念间！",
+        "nicknames": "天才美少女卡莎, 黎乐",
+        "name": "蔡登浪",
+        "romanized_name": "Cai Denglang",
+        "country": "China",
+        "status": "Active",
+        "years_active": "2020 – '''Present'''",
+        "birth_date": "1999-08-27",
+        "apexlegendsstatus": "1008795761561",
+        "apexlegendsstatusalgs": "Kassa",
+        "legends": "Wraith",
+        "legends2": "Octane",
+        "legends3": "Horizon",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "QQ",
+      "found": true,
+      "parsed": true,
+      "id": "QQ",
+      "name": "陳胤宏",
+      "romanized": "Chen Yin-hong",
+      "localid": "",
+      "nicknames": [
+        "哭哭",
+        "皮蛋"
+      ],
+      "country": "Taiwan",
+      "debutYear": 2022,
+      "birthDate": "2006-10-13",
+      "legends": [],
+      "alsId": "1009358754932",
+      "raw": {
+        "id": "QQ",
+        "ids": "",
+        "name": "陳胤宏",
+        "romanized_name": "Chen Yin-hong",
+        "nicknames": "哭哭, 皮蛋",
+        "country": "Taiwan",
+        "status": "Active",
+        "years_active": "2022 – '''Present'''",
+        "birth_date": "2006-10-13",
+        "apexlegendsstatus": "1009358754932",
+        "apexlegendsstatusalgs": "QQ",
+        "legends": "",
+        "legends2": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Roieee",
+      "found": true,
+      "parsed": true,
+      "id": "Roieee",
+      "name": "陳柏瀚",
+      "romanized": "Chen Po-han",
+      "localid": "百弟",
+      "nicknames": [
+        "百弟<br>百神<br>吕布"
+      ],
+      "country": "Taiwan",
+      "debutYear": 2019,
+      "birthDate": "2000-10-26",
+      "legends": [
+        {
+          "name": "Catalyst",
+          "class": "控制"
+        },
+        {
+          "name": "Conduit",
+          "class": "支援"
+        }
+      ],
+      "alsId": "1009332336890",
+      "raw": {
+        "id": "Roieee",
+        "localid": "百弟",
+        "ids": "WoHenQi, Baidi, Go0dnINeOwWl",
+        "name": "陳柏瀚",
+        "romanized_name": "Chen Po-han",
+        "nicknames": "百弟<br>百神<br>吕布",
+        "country": "Taiwan",
+        "status": "Active",
+        "years_active": "2019 – '''Present'''",
+        "birth_date": "2000-10-26",
+        "apexlegendsstatus": "1009332336890",
+        "apexlegendsstatusalgs": "Roieee_o",
+        "legends": "Catalyst",
+        "legends2": "conduit",
+        "input": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Pite",
+      "found": true,
+      "parsed": true,
+      "id": "Pite",
+      "name": "王海鹏",
+      "romanized": "Wang Haipeng",
+      "localid": "皮特",
+      "nicknames": [
+        "皮特",
+        "皮神"
+      ],
+      "country": "China",
+      "debutYear": 2020,
+      "birthDate": "2000-07-25",
+      "legends": [
+        {
+          "name": "Horizon",
+          "class": "游击"
+        },
+        {
+          "name": "Pathfinder",
+          "class": "游击"
+        },
+        {
+          "name": "Caustic",
+          "class": "控制"
+        }
+      ],
+      "alsId": "1005925886332",
+      "raw": {
+        "id": "Pite",
+        "localid": "皮特",
+        "ids": "174, Pite174, 皮特174",
+        "name": "王海鹏",
+        "nicknames": "皮特, 皮神",
+        "romanized_name": "Wang Haipeng",
+        "country": "China",
+        "status": "Active",
+        "years_active": "2020 – '''Present'''",
+        "birth_date": "2000-07-25",
+        "apexlegendsstatus": "1005925886332",
+        "apexlegendsstatusalgs": "Pite",
+        "legends": "horizon",
+        "legends2": "pathfinder",
+        "legends3": "caustic",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "CrazyCong",
+      "found": true,
+      "parsed": true,
+      "id": "CrazyCong",
+      "name": "王耀",
+      "romanized": "Wang Yao",
+      "localid": "葱葱",
+      "nicknames": [
+        "葱葱",
+        "亏贼葱"
+      ],
+      "country": "China",
+      "debutYear": 2021,
+      "birthDate": "2004-06-13",
+      "legends": [],
+      "alsId": "1003586568050",
+      "raw": {
+        "id": "CrazyCong",
+        "localid": "葱葱",
+        "ids": "CongCong, Freddie",
+        "nicknames": "葱葱, 亏贼葱",
+        "name": "王耀 ",
+        "romanized_name": "Wang Yao",
+        "country": "China",
+        "status": "Active",
+        "years_active": "2021 – '''Present'''",
+        "birth_date": "2004-06-13",
+        "apexlegendsstatus": "1003586568050",
+        "apexlegendsstatusalgs": "Crazycong",
+        "legends": "",
+        "legends2": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "LqDuD",
+      "found": true,
+      "parsed": true,
+      "id": "LqDuD",
+      "name": "汪轶鹏",
+      "romanized": "Wang Yipeng",
+      "localid": "老吊QuQ",
+      "nicknames": [
+        "老吊",
+        "子龙"
+      ],
+      "country": "China",
+      "debutYear": 2020,
+      "birthDate": "2000-06-07",
+      "legends": [
+        {
+          "name": "Seer",
+          "class": "侦察"
+        },
+        {
+          "name": "Loba",
+          "class": "支援"
+        },
+        {
+          "name": "Newcastle",
+          "class": "支援"
+        }
+      ],
+      "alsId": "1009967609877",
+      "raw": {
+        "id": "LqDuD",
+        "localid": "老吊QuQ",
+        "ids": "Ld, LDiao, LqDuDiao, Lq, LdQuQ, 1t1sNonsense",
+        "nicknames": "老吊, 子龙",
+        "name": "汪轶鹏",
+        "romanized_name": "Wang Yipeng",
+        "country": "China",
+        "status": "Retired",
+        "years_active": "2020 – 2026",
+        "birth_date": "2000-06-07",
+        "apexlegendsstatus": "1009967609877",
+        "apexlegendsstatusalgs": "LqDuD",
+        "legends": "seer",
+        "legends2": "loba",
+        "legends3": "newcastle",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "WenXx",
+      "found": true,
+      "parsed": true,
+      "id": "WenXx",
+      "name": "李文轩",
+      "romanized": "Li Wenxuan",
+      "localid": "文轩",
+      "nicknames": [
+        "轩辰",
+        "文轩",
+        "轩轩"
+      ],
+      "country": "China",
+      "debutYear": 2020,
+      "birthDate": "",
+      "legends": [],
+      "alsId": "1008191081651",
+      "raw": {
+        "id": "WenXx",
+        "localid": "文轩",
+        "ids": "Donut, Dount",
+        "nicknames": "轩辰, 文轩, 轩轩",
+        "name": "李文轩 ",
+        "romanized_name": "Li Wenxuan",
+        "country": "China",
+        "status": "Active",
+        "years_active": "2020 – '''Present'''",
+        "birth_date": "",
+        "apexlegendsstatus": "1008191081651",
+        "apexlegendsstatusalgs": "Donut",
+        "legends": "",
+        "legends2": "",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "Nirvana",
+      "found": true,
+      "parsed": true,
+      "id": "Nirvana",
+      "name": "陈肖宇",
+      "romanized": "Chen Xiaoyu",
+      "localid": "小雨",
+      "nicknames": [
+        "小雨"
+      ],
+      "country": "China",
+      "debutYear": 2020,
+      "birthDate": "2000-08-26",
+      "legends": [
+        {
+          "name": "Valkyrie",
+          "class": "游击"
+        },
+        {
+          "name": "Fuse",
+          "class": "突击"
+        }
+      ],
+      "alsId": "1008716008168",
+      "raw": {
+        "id": "Nirvana",
+        "localid": "小雨",
+        "ids": "Xya, N1rvana",
+        "nicknames": "小雨",
+        "name": "陈肖宇 ",
+        "romanized_name": "Chen Xiaoyu",
+        "country": "China",
+        "status": "Active",
+        "years_active": "2020 – 2023<br />2025 – '''Present'''",
+        "birth_date": "2000-08-26",
+        "apexlegendsstatus": "1008716008168",
+        "legends": "Valkyrie",
+        "legends2": "Fuse",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "GuGu",
+      "found": true,
+      "parsed": true,
+      "id": "GuGu",
+      "name": "马永翔",
+      "romanized": "Ma Yongxiang",
+      "localid": "咕咕",
+      "nicknames": [
+        "咕咕"
+      ],
+      "country": "China",
+      "debutYear": 2021,
+      "birthDate": "2005-01-04",
+      "legends": [
+        {
+          "name": "Horizon",
+          "class": "游击"
+        },
+        {
+          "name": "Bangalore",
+          "class": "突击"
+        },
+        {
+          "name": "Ash",
+          "class": "突击"
+        }
+      ],
+      "alsId": "1011259862838",
+      "raw": {
+        "id": "GuGu",
+        "ids": "gusenpai,cya later, peekgod, evoiy4, 000",
+        "localid": "咕咕",
+        "nicknames": "咕咕",
+        "name": "马永翔",
+        "romanized_name": "Ma Yongxiang",
+        "country": "China",
+        "status": "Active",
+        "years_active": "2021 – '''Present'''",
+        "birth_date": "2005-01-04",
+        "apexlegendsstatus": "1011259862838",
+        "input": "controller",
+        "legends": "horizon",
+        "legends2": "bangalore",
+        "legends3": "ash",
+        "history": "{{THA}}"
+      }
+    },
+    {
+      "title": "BoLin",
+      "found": true,
+      "parsed": true,
+      "id": "BoLin",
+      "name": "蔡欣龍",
+      "romanized": "Tsai Shin-lung",
+      "localid": "波靈",
+      "nicknames": [
+        "波靈",
+        "奘神",
+        "波大兵"
+      ],
+      "country": "Taiwan",
+      "debutYear": 2020,
+      "birthDate": "2002-12-30",
+      "legends": [
+        {
+          "name": "Valkyrie",
+          "class": "游击"
+        }
+      ],
+      "alsId": "1008914578862",
+      "raw": {
+        "id": "BoLin",
+        "localid": "波靈",
+        "ids": "Boring",
+        "name": "蔡欣龍",
+        "romanized_name": "Tsai Shin-lung",
+        "nicknames": "波靈, 奘神, 波大兵",
+        "birth_date": "2002-12-30",
+        "country": "Taiwan",
+        "status": "Active",
+        "years_active": "2020 – '''Present'''",
+        "input": "",
+        "apexlegendsstatus": "1008914578862",
+        "apexlegendsstatusalgs": "BoLin",
+        "legends": "Valkyrie",
+        "legends2": "",
+        "history": "{{THA}}"
+      }
+    }
+  ]
+}

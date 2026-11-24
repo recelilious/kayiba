@@ -1,0 +1,34 @@
+{
+  "_meta": {
+    "note": "传奇职业映射。Apex 的职业分类会随版本调整，使用前请核对当前版本。",
+    "updated": "2026-11-24"
+  },
+  "classes": {
+    "Bangalore": "突击",
+    "Fuse": "突击",
+    "Ash": "突击",
+    "Mad Maggie": "突击",
+    "Ballistic": "突击",
+    "Revenant": "突击",
+    "Wraith": "游击",
+    "Octane": "游击",
+    "Pathfinder": "游击",
+    "Horizon": "游击",
+    "Valkyrie": "游击",
+    "Alter": "游击",
+    "Bloodhound": "侦察",
+    "Crypto": "侦察",
+    "Seer": "侦察",
+    "Vantage": "侦察",
+    "Caustic": "控制",
+    "Wattson": "控制",
+    "Rampart": "控制",
+    "Catalyst": "控制",
+    "Gibraltar": "支援",
+    "Lifeline": "支援",
+    "Loba": "支援",
+    "Newcastle": "支援",
+    "Conduit": "支援",
+    "Mirage": "支援"
+  }
+}
