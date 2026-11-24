@@ -3,7 +3,7 @@ import { FeedbackGrid } from './components/FeedbackGrid'
 import { GuessInput } from './components/GuessInput'
 import { ResultCard } from './components/ResultCard'
 import { ALL_PLAYERS, PLAYER_COUNT, poolByTier, tierCounts } from './data'
-import { compare } from './game/feedback'
+import { compare, nicknameOf } from './game/feedback'
 import type { Guess, Player, Tier } from './game/types'
 
 const MAX_GUESSES = 6
@@ -140,7 +140,7 @@ export default function App() {
                   <div className="guess-name">
                     <span className="guess-index">{i + 1}</span>
                     <span className="guess-id">{g.player.name}</span>
-                    {g.player.cn && <span className="guess-cn">{g.player.cn}</span>}
+                    <span className="guess-cn">{nicknameOf(g.player)}</span>
                   </div>
                   <FeedbackGrid feedback={g.feedback} />
                 </article>

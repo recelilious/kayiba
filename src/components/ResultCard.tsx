@@ -1,4 +1,4 @@
-import { formatEarnings, formatHonors } from '../game/feedback'
+import { formatEarnings, formatHonors, nicknameOf } from '../game/feedback'
 import type { Player } from '../game/types'
 
 interface Props {
@@ -18,7 +18,7 @@ export function ResultCard({ target, won, attempts, onReplay, onHome }: Props) {
 
       <h2 className="result-name">
         {target.name}
-        {target.cn && <span className="result-cn">{target.cn}</span>}
+        <span className="result-cn">{nicknameOf(target)}</span>
       </h2>
 
       <dl className="result-facts">

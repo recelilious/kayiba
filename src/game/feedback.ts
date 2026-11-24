@@ -24,6 +24,11 @@ export function formatEarnings(amount: number): string {
   return '$' + amount.toLocaleString('en-US')
 }
 
+/** 昵称：没有中文/本地 ID 时回退到选手名，保证每行都有副标题 */
+export function nicknameOf(player: Player): string {
+  return player.cn ?? player.name
+}
+
 /** 取出某一级别的全部战绩，按名次从好到差排序（同名次按参赛时间先后） */
 export function honorsOf(placements: Placement[], tier: EventTier): Placement[] {
   return placements
