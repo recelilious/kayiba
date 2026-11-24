@@ -45,7 +45,7 @@ export interface Player {
 export type AttrKey =
   | 'country'
   | 'team'
-  | 'role'
+  | 'status'
   | 'debutYear'
   | 'worldHonor'
   | 'aTierHonor'

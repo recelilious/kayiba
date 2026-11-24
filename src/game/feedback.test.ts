@@ -57,9 +57,9 @@ describe('compare', () => {
     expect(compare(guess, target)[1].match).toBe('wrong')
   })
 
-  it('位置两档：相同绿，不同灰', () => {
-    expect(compare(player({ role: '指挥' }), player({ role: '指挥' }))[2].match).toBe('correct')
-    expect(compare(player({ role: '指挥' }), player({ role: '输出' }))[2].match).toBe('wrong')
+  it('状态两档：相同绿，不同灰', () => {
+    expect(compare(player({ status: 'active' }), player({ status: 'active' }))[2].match).toBe('correct')
+    expect(compare(player({ status: 'active' }), player({ status: 'retired' }))[2].match).toBe('wrong')
   })
 
   it('出道年份相差 2 年以内为黄，超过为灰', () => {

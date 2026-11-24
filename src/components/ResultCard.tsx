@@ -1,4 +1,4 @@
-import { formatEarnings, formatHonors, nicknameOf } from '../game/feedback'
+import { formatEarnings, formatHonors, nicknameOf, statusLabel } from '../game/feedback'
 import type { Player } from '../game/types'
 
 interface Props {
@@ -31,8 +31,8 @@ export function ResultCard({ target, won, attempts, onReplay, onHome }: Props) {
           <dd>{target.team}</dd>
         </div>
         <div>
-          <dt>位置</dt>
-          <dd>{target.role}</dd>
+          <dt>状态</dt>
+          <dd>{statusLabel(target.status)}</dd>
         </div>
         <div>
           <dt>出道</dt>

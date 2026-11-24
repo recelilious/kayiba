@@ -1,9 +1,9 @@
-import type { AttrKey, EventTier, Feedback, Match, Placement, Player } from './types'
+import type { AttrKey, EventTier, Feedback, Match, Placement, Player, Status } from './types'
 
 export const ATTR_LABELS: Record<AttrKey, string> = {
   country: '地区',
   team: '战队',
-  role: '位置',
+  status: '状态',
   debutYear: '出道',
   worldHonor: '世界赛',
   aTierHonor: 'A级赛',
@@ -13,12 +13,19 @@ export const ATTR_LABELS: Record<AttrKey, string> = {
 export const ATTR_ORDER: AttrKey[] = [
   'country',
   'team',
-  'role',
+  'status',
   'debutYear',
   'worldHonor',
   'aTierHonor',
   'earnings',
 ]
+
+/** 状态：现役 / 退役（数据直接取自 Liquipedia 的 Status 字段） */
+export function statusLabel(status: Status): string {
+  if (status === 'retired') return '退役'
+  if (status === 'streamer') return '主播'
+  return '现役'
+}
 
 export function formatEarnings(amount: number): string {
   return '$' + amount.toLocaleString('en-US')
@@ -100,10 +107,10 @@ export function compare(guess: Player, target: Player): Feedback[] {
       match: teamMatch(guess, target),
     },
     {
-      key: 'role',
-      label: ATTR_LABELS.role,
-      value: guess.role,
-      match: guess.role === target.role ? 'correct' : 'wrong',
+      key: 'status',
+      label: ATTR_LABELS.status,
+      value: statusLabel(guess.status),
+      match: guess.status === target.status ? 'correct' : 'wrong',
     },
     {
       key: 'debutYear',
