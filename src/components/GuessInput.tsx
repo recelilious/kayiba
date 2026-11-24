@@ -9,8 +9,6 @@ interface Props {
   onSelect: (player: Player) => void
 }
 
-const MAX_OPTIONS = 8
-
 export function GuessInput({ options, disabled, onSelect }: Props) {
   const [query, setQuery] = useState('')
   const [open, setOpen] = useState(false)
@@ -18,10 +16,7 @@ export function GuessInput({ options, disabled, onSelect }: Props) {
   const inputRef = useRef<HTMLInputElement>(null)
   const listId = useId()
 
-  const filtered = useMemo(
-    () => options.filter((p) => matchesQuery(p, query)).slice(0, MAX_OPTIONS),
-    [options, query],
-  )
+  const filtered = useMemo(() => options.filter((p) => matchesQuery(p, query)), [options, query])
 
   useEffect(() => {
     setActive(0)
