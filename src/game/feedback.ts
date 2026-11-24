@@ -24,11 +24,11 @@ export function formatEarnings(amount: number): string {
   return '$' + amount.toLocaleString('en-US')
 }
 
-/** 取出某一级别、10 名以内的战绩，按参赛时间先后排序 */
+/** 取出某一级别的全部战绩，按名次从好到差排序（同名次按参赛时间先后） */
 export function honorsOf(placements: Placement[], tier: EventTier): Placement[] {
   return placements
-    .filter((p) => p.tier === tier && p.place <= 10)
-    .sort((a, b) => a.date.localeCompare(b.date))
+    .filter((p) => p.tier === tier)
+    .sort((a, b) => a.place - b.place || a.date.localeCompare(b.date))
 }
 
 export function formatHonors(placements: Placement[], tier: EventTier): string {

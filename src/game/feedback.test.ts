@@ -92,14 +92,14 @@ describe('compare', () => {
 })
 
 describe('formatHonors', () => {
-  it('按参赛时间先后排序，只保留 10 名以内，重复名次保留', () => {
+  it('按名次从好到差排序，同名次按时间先后，保留全部名次', () => {
     const list = [
       place('2024-01-01', 9),
       place('2022-01-01', 3),
       place('2023-01-01', 3),
       place('2025-01-01', 13),
     ]
-    expect(formatHonors(list, 'S')).toBe('#3 #3 #9')
+    expect(formatHonors(list, 'S')).toBe('#3 #3 #9 #13')
   })
 
   it('没有战绩时显示破折号', () => {
@@ -108,9 +108,10 @@ describe('formatHonors', () => {
 })
 
 describe('bestPlace', () => {
-  it('取最小名次，忽略 10 名以外', () => {
+  it('取最小名次，不再忽略 10 名以外', () => {
     expect(bestPlace([place('2024-01-01', 13), place('2023-01-01', 7)], 'S')).toBe(7)
-    expect(bestPlace([place('2024-01-01', 13)], 'S')).toBe(null)
+    expect(bestPlace([place('2024-01-01', 13)], 'S')).toBe(13)
+    expect(bestPlace([], 'S')).toBe(null)
   })
 })
 
