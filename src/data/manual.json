@@ -1,7 +1,10 @@
 {
   "_meta": {
     "note": "人工维护的字段：难度分档、位置、是否核实、备注。构建脚本会把这些合并进 players.json。",
-    "updated": "2026-11-24"
+    "updated": "2026-11-24",
+    "roster": "44 人：国内 38 人（含原有 11 人）+ 国际 6 人（补困难档）",
+    "tierRule": "简单 = ALGS 世界赛 / EWC / 星空杯冠军级、全国知名；中等 = 一线职业 + 头部主播；困难 = 现役边缘 / 退役老将 / 国际补充",
+    "changes": "2026-11-24 扩充选手池：按 TECH-PLAN 3.4 种子清单，CrazyCong、LqDuD 由中等调整为简单；新增国内 29 人、国际 6 人。位置无官方字段，队长身份取自 Liquipedia 战队页 captain 字段，其余按社区资料推断并在 notes 标注。"
   },
   "players": {
     "3mz": { "tier": 1, "role": "指挥" },
@@ -9,8 +12,48 @@
     "qq": { "tier": 1, "role": "输出" },
     "roieee": { "tier": 1, "role": "输出" },
     "pite": { "tier": 1, "role": "输出" },
-    "crazycong": { "tier": 2, "role": "指挥" },
-    "lqdud": { "tier": 2, "role": "输出" },
-    "n0name": { "tier": 2, "role": "输出", "notes": "Liquipedia 无页面，需人工补数据" }
+    "crazycong": { "tier": 1, "role": "指挥", "notes": "Wolves 队长（Liquipedia 战队页 captain）" },
+    "lqdud": { "tier": 1, "role": "输出" },
+    "wenxx": { "tier": 2, "role": "输出" },
+    "nirvana": { "tier": 2, "role": "输出" },
+    "gugu": { "tier": 2, "role": "输出" },
+    "bolin": { "tier": 2, "role": "输出" },
+
+    "feiju": { "tier": 1, "role": "指挥", "notes": "MDY 创始人兼指挥，已退役转主播" },
+    "951": { "tier": 1, "role": "输出", "notes": "星空杯 S1/S2 冠军班底，ALGS 曼海姆站效力 VK Gaming" },
+    "jamren": { "tier": 1, "role": "输出", "notes": "甜药，MDY 元老，2023 年后退役" },
+
+    "noname": { "tier": 2, "role": "输出", "notes": "社区常写作 N0NAME；位置待核实" },
+    "youl1ng": { "tier": 2, "role": "输出", "notes": "位置待核实" },
+    "kurong": { "tier": 2, "role": "输出", "notes": "Liquipedia 无战队履历，页面显示无战队；位置待核实" },
+    "mingyue": { "tier": 2, "role": "输出", "notes": "五更明月，头部主播；位置待核实" },
+    "zhous": { "tier": 2, "role": "输出", "notes": "位置待核实" },
+    "lanxi": { "tier": 2, "role": "输出", "notes": "位置待核实" },
+    "a1one": { "tier": 2, "role": "输出", "notes": "早期 DreamFire 成员；位置待核实" },
+    "xiaokai": { "tier": 2, "role": "输出", "notes": "位置待核实" },
+    "kuku": { "tier": 2, "role": "输出", "notes": "位置待核实" },
+    "return": { "tier": 2, "role": "输出", "notes": "位置待核实" },
+    "xd": { "tier": 2, "role": "指挥", "notes": "Pork Xiaolongbao Xpert 队长（Liquipedia 战队页 captain）" },
+    "wuy": { "tier": 2, "role": "输出", "notes": "位置待核实" },
+    "beibeis": { "tier": 2, "role": "输出", "notes": "位置待核实" },
+    "yus": { "tier": 2, "role": "输出", "notes": "位置待核实" },
+    "wen7": { "tier": 2, "role": "输出", "notes": "位置待核实" },
+
+    "top": { "tier": 3, "role": "输出", "notes": "位置待核实" },
+    "heihua": { "tier": 3, "role": "输出", "notes": "位置待核实" },
+    "asaran": { "tier": 3, "role": "指挥", "notes": "MXF 队长（Liquipedia 战队页 captain）" },
+    "azu": { "tier": 3, "role": "输出", "notes": "位置待核实" },
+    "bieyun": { "tier": 3, "role": "输出", "notes": "位置待核实" },
+    "elysian": { "tier": 3, "role": "输出", "notes": "位置待核实" },
+    "jacky1": { "tier": 3, "role": "指挥", "notes": "Aggressive Gamers Lunging 队长（Liquipedia 战队页 captain）" },
+    "luohan": { "tier": 3, "role": "输出", "notes": "位置待核实" },
+    "su2tap": { "tier": 3, "role": "输出", "notes": "位置待核实" },
+
+    "taida": { "tier": 3, "role": "输出", "notes": "日本选手，国际补充；位置待核实" },
+    "ftyan": { "tier": 3, "role": "输出", "notes": "日本选手，国际补充；位置待核实" },
+    "juxo": { "tier": 3, "role": "输出", "notes": "日本选手，国际补充；位置待核实" },
+    "shirayuki-reid": { "tier": 3, "role": "输出", "notes": "日本选手，国际补充；Liquipedia 未填活跃年份；位置待核实" },
+    "parkha": { "tier": 3, "role": "输出", "notes": "韩国选手，国际补充；位置待核实" },
+    "sangjoon": { "tier": 3, "role": "输出", "notes": "韩国选手，国际补充；位置待核实" }
   }
 }

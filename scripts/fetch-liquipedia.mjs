@@ -112,7 +112,7 @@ function parseInfobox(wikitext) {
 
 function splitList(value) {
   return clean(value)
-    .split(/[,，]/)
+    .split(/[,，]|<br\s*\/?>/i)
     .map((s) => s.trim())
     .filter(Boolean)
 }
@@ -142,6 +142,7 @@ function buildDraft(title, fields) {
     name: clean(fields.name),
     romanized: clean(fields.romanized_name),
     localid: clean(fields.localid),
+    ids: splitList(fields.ids),
     nicknames: splitList(fields.nicknames),
     country: clean(fields.country),
     debutYear: parseYear(fields.years_active),

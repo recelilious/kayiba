@@ -1,7 +1,14 @@
 # 待抓取的选手名（Liquipedia 页面标题，大小写敏感）
 # 一行一个，# 开头为注释。
-# 用法：npm run fetch:liq
+# 用法：npm run fetch:liq / npm run fetch:html
+#
+# 名单来源：Liquipedia Category:Chinese Players（108 人）与 Category:Chinese Teams（41 队），
+# 结合队伍履历、生涯奖金和国内赛事知名度筛选。国际选手取自 Category:Japanese Players /
+# Category:Korean Players，用于补充困难档。
+# 已排除：CacaLL、YoloFPS（Liquipedia 状态为 Banned，不适合作为正常选手条目）；
+#         战术级子轩（无战队/战绩/奖金，页面只有 infobox）；Xiaowei（无战队履历，数据过薄）。
 
+# === 国内（原有 11 人）===
 3Mz
 Kasssa
 QQ
@@ -13,3 +20,40 @@ WenXx
 Nirvana
 GuGu
 BoLin
+
+# === 国内（新增）===
+951
+FeiJu
+KuRong
+MingYue
+Noname
+ZhouS
+Lanxi
+YouL1ng
+A1one
+XiaoKai
+Jamren
+Kuku
+Return
+Xd
+Wuy
+BeiBeiS
+Yus
+Wen7
+Su2tap
+Top
+HeiHua
+Asaran
+AZu
+Bieyun
+Elysian
+Jacky1
+LuoHan
+
+# === 国际（困难档）===
+Taida
+Ftyan
+Juxo
+Shirayuki Reid
+Parkha
+SangJoon

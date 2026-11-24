@@ -47,6 +47,8 @@ const target = raw._meta?.target ?? 50
 
 const seenIds = new Set()
 const aliasOwners = new Map()
+/** 拼音 / 首字母索引的重合是常态（小雨和 小野的缩写都是 xy），单独统计，不算错误 */
+const searchOwners = new Map()
 
 for (const p of players) {
   const tag = p.id ?? '(无 id)'
@@ -81,7 +83,7 @@ for (const p of players) {
     for (const pl of p.placements) {
       if (!EVENT_TIERS.has(pl?.tier)) errors.push(`${tag}: 战绩 tier 非法 ${pl?.tier}`)
       if (!/^\d{4}-\d{2}-\d{2}$/.test(pl?.date ?? '')) errors.push(`${tag}: 战绩日期非法 ${pl?.date}`)
-      if (!(pl?.place >= 1 && pl?.place <= 10)) errors.push(`${tag}: 战绩名次越界 ${pl?.place}`)
+      if (!(pl?.place >= 1)) errors.push(`${tag}: 战绩名次越界 ${pl?.place}`)
     }
   }
 
@@ -89,18 +91,33 @@ for (const p of players) {
   if (!Array.isArray(p.sources) || p.sources.length === 0) warnings.push(`${tag}: 没有 sources`)
   if (!p.verified) warnings.push(`${tag}: 未核实`)
 
-  const keys = [p.name, p.cn, ...(p.aliases ?? []), ...(p.search ?? [])]
+  // 字面量的名字 / 中文名 / 别名必须唯一：同一串不能同时指向两个人
+  const literalKeys = [p.name, p.cn, ...(p.aliases ?? [])]
     .filter(Boolean)
     .map((s) => String(s).toLowerCase())
 
-  for (const k of keys) {
+  for (const k of literalKeys) {
     if (!aliasOwners.has(k)) aliasOwners.set(k, new Set())
     aliasOwners.get(k).add(p.id)
+  }
+
+  // 搜索索引里的拼音 / 首字母允许重合，只统计
+  for (const s of p.search ?? []) {
+    const k = String(s).toLowerCase()
+    if (!k || literalKeys.includes(k)) continue
+    if (!searchOwners.has(k)) searchOwners.set(k, new Set())
+    searchOwners.get(k).add(p.id)
   }
 }
 
 for (const [key, owners] of aliasOwners) {
   if (owners.size > 1) errors.push(`别名冲突 "${key}" 同时指向: ${[...owners].join(', ')}`)
+}
+
+const searchClashes = [...searchOwners].filter(([, owners]) => owners.size > 1)
+if (searchClashes.length > 0) {
+  const detail = searchClashes.map(([k, owners]) => `${k}=${[...owners].join('/')}`).join('；')
+  warnings.push(`搜索索引: ${searchClashes.length} 组拼音重合（${detail}），输入时会同时出现多名候选，非错误`)
 }
 
 const byTier = { 1: 0, 2: 0, 3: 0 }

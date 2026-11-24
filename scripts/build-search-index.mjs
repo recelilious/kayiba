@@ -16,8 +16,9 @@ const raw = JSON.parse(readFileSync(DATA, 'utf8'))
 function pinyinForms(text) {
   if (!text) return []
   try {
-    const full = pinyin(text, { toneType: 'none', type: 'array' }).join('')
-    const first = pinyin(text, { pattern: 'first', toneType: 'none', type: 'array' }).join('')
+    // surname: 'all' 让「曾」「单」「朴」等姓氏按姓氏读音转写（曾丞 → zengcheng，而不是 cengcheng）
+    const full = pinyin(text, { toneType: 'none', type: 'array', surname: 'all' }).join('')
+    const first = pinyin(text, { pattern: 'first', toneType: 'none', type: 'array', surname: 'all' }).join('')
     return [full, first].filter((s) => s && s !== text)
   } catch {
     return []

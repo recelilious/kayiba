@@ -12,6 +12,8 @@
       "aliases": [
         "王虎",
         "Wang Hu",
+        "三明治",
+        "GOTAHAVEYO",
         "虎哥",
         "巨大",
         "huge"
@@ -25,6 +27,7 @@
         "wanghu",
         "wh",
         "wang hu",
+        "gotahaveyo",
         "虎哥",
         "huge",
         "hg",
@@ -61,6 +64,12 @@
           "place": 7,
           "tier": "S",
           "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
         }
       ],
       "earnings": 88047,
@@ -71,12 +80,333 @@
       ]
     },
     {
+      "id": "951",
+      "name": "951",
+      "cn": "黑之951",
+      "aliases": [
+        "莫淳博",
+        "Mo Chunbo",
+        "黑之951",
+        "Qingye",
+        "Aono",
+        "青野大魔王",
+        "青野",
+        "小野",
+        "嗷诺",
+        "银蓮花"
+      ],
+      "search": [
+        "951",
+        "黑之951",
+        "heizhi951",
+        "hz951",
+        "莫淳博",
+        "mochunbo",
+        "mcb",
+        "mo chunbo",
+        "qingye",
+        "aono",
+        "青野大魔王",
+        "qingyedamowang",
+        "qydmw",
+        "青野",
+        "qy",
+        "小野",
+        "xiaoye",
+        "xy",
+        "嗷诺",
+        "aonuo",
+        "an",
+        "银蓮花",
+        "yinlianhua",
+        "ylh"
+      ],
+      "country": "中国",
+      "team": "VK Gaming",
+      "teamHistory": [
+        "MDY"
+      ],
+      "role": "输出",
+      "debutYear": 2021,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2021-12-05",
+          "place": 10,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 8,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
+        }
+      ],
+      "earnings": 20101,
+      "tier": 1,
+      "verified": false,
+      "notes": "星空杯 S1/S2 冠军班底，ALGS 曼海姆站效力 VK Gaming；当前无战队，显示最近一支：VK Gaming",
+      "sources": [
+        "https://liquipedia.net/apexlegends/951"
+      ]
+    },
+    {
+      "id": "crazycong",
+      "name": "CrazyCong",
+      "cn": "葱葱",
+      "aliases": [
+        "王耀",
+        "Wang Yao",
+        "葱葱",
+        "CongCong",
+        "Freddie",
+        "亏贼葱"
+      ],
+      "search": [
+        "crazycong",
+        "葱葱",
+        "congcong",
+        "cc",
+        "王耀",
+        "wangyao",
+        "wy",
+        "wang yao",
+        "freddie",
+        "亏贼葱",
+        "kuizeicong",
+        "kzc"
+      ],
+      "country": "中国",
+      "team": "Wolves Esports",
+      "teamHistory": [
+        "LG Gaming",
+        "SaWeiQi E-sport",
+        "Weibo Gaming",
+        "DaBing SaWeiQi"
+      ],
+      "role": "指挥",
+      "debutYear": 2021,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2024-07-07",
+          "place": 5,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2024-12-15",
+          "place": 1,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - APAC South"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 6,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs"
+        },
+        {
+          "date": "2025-10-11",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 23,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship"
+        },
+        {
+          "date": "2026-06-06",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2026-07-11",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 1 Playoffs"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2026-11-01",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs"
+        }
+      ],
+      "earnings": 134385,
+      "tier": 1,
+      "verified": false,
+      "notes": "Wolves 队长（Liquipedia 战队页 captain）",
+      "sources": [
+        "https://liquipedia.net/apexlegends/CrazyCong"
+      ]
+    },
+    {
+      "id": "feiju",
+      "name": "FeiJu",
+      "cn": "飞天狙",
+      "aliases": [
+        "郭凌郡",
+        "Guo Lingjun",
+        "飞天狙",
+        "001",
+        "983",
+        "飞狙"
+      ],
+      "search": [
+        "feiju",
+        "飞天狙",
+        "feitianju",
+        "ftj",
+        "郭凌郡",
+        "guolingjun",
+        "glj",
+        "guo lingjun",
+        "001",
+        "983",
+        "飞狙",
+        "fj"
+      ],
+      "country": "中国",
+      "team": "MDY White",
+      "teamHistory": [
+        "Invictus Gaming",
+        "Invictus Gaming 2",
+        "MDY",
+        "LGD Gaming"
+      ],
+      "role": "指挥",
+      "debutYear": 2020,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2023-04-29",
+          "place": 5,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 18,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2024-03-10",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 15,
+          "tier": "S",
+          "event": "Esports World Cup 2024"
+        }
+      ],
+      "earnings": 26784,
+      "tier": 1,
+      "verified": false,
+      "notes": "MDY 创始人兼指挥，已退役转主播；当前无战队，显示最近一支：MDY White",
+      "sources": [
+        "https://liquipedia.net/apexlegends/FeiJu"
+      ]
+    },
+    {
+      "id": "jamren",
+      "name": "Jamren",
+      "cn": "甜药",
+      "aliases": [
+        "任欢",
+        "Ren Huan",
+        "甜药",
+        "神童",
+        "饼哥",
+        "药酱"
+      ],
+      "search": [
+        "jamren",
+        "甜药",
+        "tianyao",
+        "ty",
+        "任欢",
+        "renhuan",
+        "rh",
+        "ren huan",
+        "神童",
+        "shentong",
+        "st",
+        "饼哥",
+        "bingge",
+        "bg",
+        "药酱",
+        "yaojiang",
+        "yj"
+      ],
+      "country": "中国",
+      "team": "Final Crazy",
+      "teamHistory": [
+        "Invictus Gaming",
+        "Invictus Gaming 2",
+        "MDY",
+        "MDY White",
+        "SWQ",
+        "SaWeiQi E-sport 2"
+      ],
+      "role": "输出",
+      "debutYear": 2020,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2022-03-27",
+          "place": 17,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - APAC South"
+        }
+      ],
+      "earnings": 3494,
+      "tier": 1,
+      "verified": false,
+      "notes": "甜药，MDY 元老，2023 年后退役；当前无战队，显示最近一支：Final Crazy",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Jamren"
+      ]
+    },
+    {
       "id": "kasssa",
       "name": "Kasssa",
       "cn": "卡莎",
       "aliases": [
         "蔡登浪",
         "Cai Denglang",
+        "卡莎",
+        "kassssa",
+        "Kaa2a",
+        "Sin",
+        "神区化龙一念间！",
         "天才美少女卡莎",
         "黎乐"
       ],
@@ -89,12 +419,18 @@
         "caidenglang",
         "cdl",
         "cai denglang",
+        "kassssa",
+        "kaa2a",
+        "sin",
+        "神区化龙一念间！",
+        "shenouhualongyinianjian！",
+        "sohlynj！",
         "天才美少女卡莎",
         "tiancaimeishaonükasha",
         "tcmsnks",
         "黎乐",
-        "lile",
-        "ll"
+        "liyue",
+        "ly"
       ],
       "country": "中国",
       "team": "VK Gaming",
@@ -152,6 +488,110 @@
       ]
     },
     {
+      "id": "lqdud",
+      "name": "LqDuD",
+      "cn": "老吊QuQ",
+      "aliases": [
+        "汪轶鹏",
+        "Wang Yipeng",
+        "老吊QuQ",
+        "Ld",
+        "LDiao",
+        "LqDuDiao",
+        "Lq",
+        "LdQuQ",
+        "1t1sNonsense",
+        "老吊",
+        "子龙"
+      ],
+      "search": [
+        "lqdud",
+        "老吊quq",
+        "laodiaoquq",
+        "ldquq",
+        "汪轶鹏",
+        "wangyipeng",
+        "wyp",
+        "wang yipeng",
+        "ld",
+        "ldiao",
+        "lqdudiao",
+        "lq",
+        "1t1snonsense",
+        "老吊",
+        "laodiao",
+        "子龙",
+        "zilong",
+        "zl"
+      ],
+      "country": "中国",
+      "team": "VK Gaming",
+      "teamHistory": [
+        "MDY White",
+        "LGD Gaming"
+      ],
+      "role": "输出",
+      "debutYear": 2020,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2023-09-10",
+          "place": 18,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2024-03-10",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 15,
+          "tier": "S",
+          "event": "Esports World Cup 2024"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 25,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship"
+        },
+        {
+          "date": "2026-06-06",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South"
+        }
+      ],
+      "earnings": 257420,
+      "tier": 1,
+      "verified": false,
+      "notes": "当前无战队，显示最近一支：VK Gaming",
+      "sources": [
+        "https://liquipedia.net/apexlegends/LqDuD"
+      ]
+    },
+    {
       "id": "pite",
       "name": "Pite",
       "cn": "皮特",
@@ -159,6 +599,9 @@
         "王海鹏",
         "Wang Haipeng",
         "皮特",
+        "174",
+        "Pite174",
+        "皮特174",
         "皮神"
       ],
       "search": [
@@ -169,6 +612,10 @@
         "wanghaipeng",
         "whp",
         "wang haipeng",
+        "174",
+        "pite174",
+        "皮特174",
+        "pt174",
         "皮神",
         "pishen",
         "ps"
@@ -197,6 +644,12 @@
           "place": 7,
           "tier": "S",
           "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
         },
         {
           "date": "2026-06-06",
@@ -309,7 +762,12 @@
       "aliases": [
         "陳柏瀚",
         "Chen Po-han",
-        "百弟<br>百神<br>吕布"
+        "百弟",
+        "WoHenQi",
+        "Baidi",
+        "Go0dnINeOwWl",
+        "百神",
+        "吕布"
       ],
       "search": [
         "roieee",
@@ -320,9 +778,14 @@
         "chenbaihan",
         "cbh",
         "chen po-han",
-        "百弟<br>百神<br>吕布",
-        "baidi<br>baishen<br>lübu",
-        "bd<br>bs<br>lb"
+        "wohenqi",
+        "go0dnineowwl",
+        "百神",
+        "baishen",
+        "bs",
+        "吕布",
+        "lübu",
+        "lb"
       ],
       "country": "中国",
       "team": "Deep Cross Gaming",
@@ -378,6 +841,111 @@
       ]
     },
     {
+      "id": "a1one",
+      "name": "A1one",
+      "cn": "阿龙",
+      "aliases": [
+        "许文龙",
+        "Xu Wenlong",
+        "阿龙",
+        "Alone",
+        "Along",
+        "战地记者阿龙"
+      ],
+      "search": [
+        "a1one",
+        "阿龙",
+        "along",
+        "al",
+        "许文龙",
+        "xuwenlong",
+        "xwl",
+        "xu wenlong",
+        "alone",
+        "战地记者阿龙",
+        "zhandijizhealong",
+        "zdjzal"
+      ],
+      "country": "中国",
+      "team": "DreamFire",
+      "teamHistory": [
+        "All Gamers"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "retired",
+      "placements": [],
+      "earnings": 1819,
+      "tier": 2,
+      "verified": false,
+      "notes": "早期 DreamFire 成员；位置待核实；当前无战队，显示最近一支：DreamFire",
+      "sources": [
+        "https://liquipedia.net/apexlegends/A1one"
+      ]
+    },
+    {
+      "id": "beibeis",
+      "name": "BeiBeiS",
+      "cn": "北北",
+      "aliases": [
+        "北北",
+        "特种兵王",
+        "大皮庄园保安队队长",
+        "北北Lyy"
+      ],
+      "search": [
+        "beibeis",
+        "北北",
+        "beibei",
+        "bb",
+        "特种兵王",
+        "tezhongbingwang",
+        "tzbw",
+        "大皮庄园保安队队长",
+        "dapizhuangyuanbaoanduiduizhang",
+        "dpzybaddz",
+        "北北lyy",
+        "beibeilyy",
+        "bblyy"
+      ],
+      "country": "中国",
+      "team": "Vcan",
+      "teamHistory": [
+        "MDY Black",
+        "MDY"
+      ],
+      "role": "输出",
+      "debutYear": 2021,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2024-07-07",
+          "place": 10,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2024-12-15",
+          "place": 20,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - APAC South"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 25,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South"
+        }
+      ],
+      "earnings": 1333,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：Vcan",
+      "sources": [
+        "https://liquipedia.net/apexlegends/BeiBeiS"
+      ]
+    },
+    {
       "id": "bolin",
       "name": "BoLin",
       "cn": "波靈",
@@ -385,6 +953,7 @@
         "蔡欣龍",
         "Tsai Shin-lung",
         "波靈",
+        "Boring",
         "奘神",
         "波大兵"
       ],
@@ -397,6 +966,7 @@
         "caixinlong",
         "cxl",
         "tsai shin-lung",
+        "boring",
         "奘神",
         "zangshen",
         "zs",
@@ -426,109 +996,37 @@
       "role": "输出",
       "debutYear": 2020,
       "status": "active",
-      "placements": [],
+      "placements": [
+        {
+          "date": "2022-07-10",
+          "place": 29,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 20,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 11,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2024-09-01",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
+        }
+      ],
       "earnings": 24003,
       "tier": 2,
       "verified": false,
       "sources": [
         "https://liquipedia.net/apexlegends/BoLin"
-      ]
-    },
-    {
-      "id": "crazycong",
-      "name": "CrazyCong",
-      "cn": "葱葱",
-      "aliases": [
-        "王耀",
-        "Wang Yao",
-        "葱葱",
-        "亏贼葱"
-      ],
-      "search": [
-        "crazycong",
-        "葱葱",
-        "congcong",
-        "cc",
-        "王耀",
-        "wangyao",
-        "wy",
-        "wang yao",
-        "亏贼葱",
-        "kuizeicong",
-        "kzc"
-      ],
-      "country": "中国",
-      "team": "Wolves Esports",
-      "teamHistory": [
-        "LG Gaming",
-        "SaWeiQi E-sport",
-        "Weibo Gaming",
-        "DaBing SaWeiQi"
-      ],
-      "role": "指挥",
-      "debutYear": 2021,
-      "status": "active",
-      "placements": [
-        {
-          "date": "2024-07-07",
-          "place": 5,
-          "tier": "A",
-          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
-        },
-        {
-          "date": "2024-12-15",
-          "place": 1,
-          "tier": "A",
-          "event": "BLGS: 2024 Regional Finals - APAC South"
-        },
-        {
-          "date": "2025-06-14",
-          "place": 6,
-          "tier": "A",
-          "event": "ALGS: 2025 Split 1 Pro League - APAC South"
-        },
-        {
-          "date": "2025-07-13",
-          "place": 5,
-          "tier": "S",
-          "event": "ALGS: 2025 Midseason Playoffs"
-        },
-        {
-          "date": "2025-10-11",
-          "place": 2,
-          "tier": "A",
-          "event": "ALGS: 2025 Split 2 Pro League - APAC South"
-        },
-        {
-          "date": "2026-06-06",
-          "place": 1,
-          "tier": "A",
-          "event": "ALGS: 2026 Split 1 Pro League - APAC South"
-        },
-        {
-          "date": "2026-07-11",
-          "place": 7,
-          "tier": "S",
-          "event": "ALGS: 2026 Split 1 Playoffs"
-        },
-        {
-          "date": "2026-09-13",
-          "place": 2,
-          "tier": "A",
-          "event": "ALGS: 2026 Split 2 Pro League - APAC South"
-        },
-        {
-          "date": "2026-11-01",
-          "place": 7,
-          "tier": "S",
-          "event": "ALGS: 2026 Split 2 Playoffs"
-        }
-      ],
-      "earnings": 134385,
-      "tier": 2,
-      "verified": false,
-      "sources": [
-        "https://liquipedia.net/apexlegends/CrazyCong"
       ]
     },
     {
@@ -538,7 +1036,12 @@
       "aliases": [
         "马永翔",
         "Ma Yongxiang",
-        "咕咕"
+        "咕咕",
+        "gusenpai",
+        "cya later",
+        "peekgod",
+        "evoiy4",
+        "000"
       ],
       "search": [
         "gugu",
@@ -547,7 +1050,12 @@
         "马永翔",
         "mayongxiang",
         "myx",
-        "ma yongxiang"
+        "ma yongxiang",
+        "gusenpai",
+        "cya later",
+        "peekgod",
+        "evoiy4",
+        "000"
       ],
       "country": "中国",
       "team": "Wolves Esports",
@@ -579,6 +1087,24 @@
           "place": 1,
           "tier": "A",
           "event": "ALGS: 2024 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 12,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 38,
+          "tier": "S",
+          "event": "Esports World Cup 2024"
+        },
+        {
+          "date": "2025-10-11",
+          "place": 12,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - APAC South"
         }
       ],
       "earnings": 14107,
@@ -589,41 +1115,203 @@
       ]
     },
     {
-      "id": "lqdud",
-      "name": "LqDuD",
-      "cn": "老吊QuQ",
+      "id": "kuku",
+      "name": "Kuku",
+      "cn": "库库_sama",
       "aliases": [
-        "汪轶鹏",
-        "Wang Yipeng",
-        "老吊",
-        "子龙"
+        "刘剑华",
+        "Liu Jianhua",
+        "库库_sama",
+        "库库"
       ],
       "search": [
-        "lqdud",
-        "老吊quq",
-        "laodiaoquq",
-        "ldquq",
-        "汪轶鹏",
-        "wangyipeng",
-        "wyp",
-        "wang yipeng",
-        "老吊",
-        "laodiao",
-        "ld",
-        "子龙",
-        "zilong",
-        "zl"
+        "kuku",
+        "库库_sama",
+        "kuku_sama",
+        "kk_sama",
+        "刘剑华",
+        "liujianhua",
+        "ljh",
+        "liu jianhua",
+        "库库",
+        "kk"
       ],
       "country": "中国",
-      "team": "VK Gaming",
+      "team": "LG Gaming",
       "teamHistory": [
-        "MDY White",
+        "Golden Sage"
+      ],
+      "role": "输出",
+      "debutYear": 2021,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2021-12-05",
+          "place": 17,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2023-04-29",
+          "place": 21,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - APAC South"
+        }
+      ],
+      "earnings": 1393,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：LG Gaming",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Kuku"
+      ]
+    },
+    {
+      "id": "kurong",
+      "name": "KuRong",
+      "cn": "枯荣随想",
+      "aliases": [
+        "枯荣随想"
+      ],
+      "search": [
+        "kurong",
+        "枯荣随想",
+        "kurongsuixiang",
+        "krsx"
+      ],
+      "country": "中国",
+      "team": "无",
+      "teamHistory": [],
+      "role": "输出",
+      "debutYear": 2025,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2025-08-21",
+          "place": 19,
+          "tier": "A",
+          "event": "Mellow Paws Pawling Cup"
+        },
+        {
+          "date": "2026-06-06",
+          "place": 24,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South"
+        }
+      ],
+      "earnings": 1118,
+      "tier": 2,
+      "verified": false,
+      "notes": "Liquipedia 无战队履历，页面显示无战队；位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/KuRong"
+      ]
+    },
+    {
+      "id": "lanxi",
+      "name": "Lanxi",
+      "cn": "蓝希嗷",
+      "aliases": [
+        "蓝希嗷",
+        "Lan",
+        "Lanxi_ao",
+        "蓝希"
+      ],
+      "search": [
+        "lanxi",
+        "蓝希嗷",
+        "lanxiao",
+        "lxa",
+        "lan",
+        "lanxi_ao",
+        "蓝希",
+        "lx"
+      ],
+      "country": "中国",
+      "team": "Keep Going Gaming",
+      "teamHistory": [],
+      "role": "输出",
+      "debutYear": 2022,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2024-03-10",
+          "place": 15,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - APAC South"
+        }
+      ],
+      "earnings": 2100,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：Keep Going Gaming",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Lanxi"
+      ]
+    },
+    {
+      "id": "mingyue",
+      "name": "MingYue",
+      "cn": "五更明月",
+      "aliases": [
+        "骆彦廷",
+        "Luo Yanting",
+        "五更明月",
+        "MingYUE",
+        "5GMY",
+        "Moon",
+        "明月",
+        "阿斗",
+        "坏宅宅"
+      ],
+      "search": [
+        "mingyue",
+        "五更明月",
+        "wugengmingyue",
+        "wgmy",
+        "骆彦廷",
+        "luoyanting",
+        "lyt",
+        "luo yanting",
+        "5gmy",
+        "moon",
+        "明月",
+        "my",
+        "阿斗",
+        "adou",
+        "ad",
+        "坏宅宅",
+        "huaizhaizhai",
+        "hzz"
+      ],
+      "country": "中国",
+      "team": "MDY White",
+      "teamHistory": [
+        "Golden Sage",
         "LGD Gaming"
       ],
       "role": "输出",
-      "debutYear": 2020,
+      "debutYear": 2021,
       "status": "retired",
       "placements": [
+        {
+          "date": "2022-12-10",
+          "place": 13,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2023-04-29",
+          "place": 5,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 18,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        },
         {
           "date": "2024-03-10",
           "place": 4,
@@ -631,36 +1319,24 @@
           "event": "ALGS: 2024 Split 1 Pro League - APAC South"
         },
         {
-          "date": "2025-02-02",
-          "place": 9,
-          "tier": "S",
-          "event": "ALGS: 2025 Championship"
-        },
-        {
-          "date": "2025-06-14",
-          "place": 1,
+          "date": "2024-07-07",
+          "place": 13,
           "tier": "A",
-          "event": "ALGS: 2025 Split 1 Pro League - APAC South"
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
         },
         {
-          "date": "2025-07-13",
-          "place": 1,
+          "date": "2024-08-04",
+          "place": 15,
           "tier": "S",
-          "event": "ALGS: 2025 Midseason Playoffs"
-        },
-        {
-          "date": "2026-06-06",
-          "place": 3,
-          "tier": "A",
-          "event": "ALGS: 2026 Split 1 Pro League - APAC South"
+          "event": "Esports World Cup 2024"
         }
       ],
-      "earnings": 257420,
+      "earnings": 21692,
       "tier": 2,
       "verified": false,
-      "notes": "当前无战队，显示最近一支：VK Gaming",
+      "notes": "五更明月，头部主播；位置待核实；当前无战队，显示最近一支：MDY White",
       "sources": [
-        "https://liquipedia.net/apexlegends/LqDuD"
+        "https://liquipedia.net/apexlegends/MingYue"
       ]
     },
     {
@@ -670,7 +1346,9 @@
       "aliases": [
         "陈肖宇",
         "Chen Xiaoyu",
-        "小雨"
+        "小雨",
+        "Xya",
+        "N1rvana"
       ],
       "search": [
         "nirvana",
@@ -680,7 +1358,9 @@
         "陈肖宇",
         "chenxiaoyu",
         "cxy",
-        "chen xiaoyu"
+        "chen xiaoyu",
+        "xya",
+        "n1rvana"
       ],
       "country": "中国",
       "team": "EDward Gaming",
@@ -697,10 +1377,28 @@
       "status": "active",
       "placements": [
         {
+          "date": "2023-04-29",
+          "place": 21,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 12,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South"
+        },
+        {
           "date": "2025-10-11",
           "place": 2,
           "tier": "A",
           "event": "ALGS: 2025 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2026-06-06",
+          "place": 14,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South"
         }
       ],
       "earnings": 6073,
@@ -712,14 +1410,236 @@
       ]
     },
     {
+      "id": "noname",
+      "name": "Noname",
+      "cn": "无名",
+      "aliases": [
+        "马梓皓",
+        "Ma Zihao",
+        "无名",
+        "iHateTheWorld",
+        "Dark Flame Master",
+        "iHtw",
+        "Morosus",
+        "名神",
+        "抬圣"
+      ],
+      "search": [
+        "noname",
+        "无名",
+        "wuming",
+        "wm",
+        "马梓皓",
+        "mazihao",
+        "mzh",
+        "ma zihao",
+        "ihatetheworld",
+        "dark flame master",
+        "ihtw",
+        "morosus",
+        "名神",
+        "mingshen",
+        "ms",
+        "抬圣",
+        "taisheng",
+        "ts"
+      ],
+      "country": "中国",
+      "team": "VK Gaming",
+      "teamHistory": [
+        "MDY Black",
+        "world not fair",
+        "Wonton Dumpling",
+        "DreamFire",
+        "DaBing SaWeiQi",
+        "Wolves Esports"
+      ],
+      "role": "输出",
+      "debutYear": 2021,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2024-09-01",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 2 Playoffs"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 6,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 5,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs"
+        },
+        {
+          "date": "2025-10-11",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2026-01-18",
+          "place": 23,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship"
+        },
+        {
+          "date": "2026-06-06",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2026-07-11",
+          "place": 7,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 1 Playoffs"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 5,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - APAC South"
+        }
+      ],
+      "earnings": 97596,
+      "tier": 2,
+      "verified": false,
+      "notes": "社区常写作 N0NAME；位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Noname"
+      ]
+    },
+    {
+      "id": "return",
+      "name": "Return",
+      "cn": "小惹",
+      "aliases": [
+        "赵朗月",
+        "Zhao Langyue",
+        "小惹",
+        "Returno_O",
+        "RETURN0455",
+        "R",
+        "Cumulonimbus",
+        "始祖惹"
+      ],
+      "search": [
+        "return",
+        "小惹",
+        "xiaore",
+        "xr",
+        "赵朗月",
+        "zhaolangyue",
+        "zly",
+        "zhao langyue",
+        "returno_o",
+        "return0455",
+        "r",
+        "cumulonimbus",
+        "始祖惹",
+        "shizure",
+        "szr"
+      ],
+      "country": "中国",
+      "team": "Kirisame",
+      "teamHistory": [
+        "For The Dream",
+        "MDY",
+        "MDY Black",
+        "DreamFire",
+        "EDward Gaming"
+      ],
+      "role": "输出",
+      "debutYear": 2021,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2025-06-14",
+          "place": 8,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2025-07-13",
+          "place": 37,
+          "tier": "S",
+          "event": "ALGS: 2025 Midseason Playoffs"
+        },
+        {
+          "date": "2026-06-06",
+          "place": 14,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 13,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - APAC South"
+        }
+      ],
+      "earnings": 5914,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Return"
+      ]
+    },
+    {
+      "id": "wen7",
+      "name": "Wen7",
+      "cn": "文七",
+      "aliases": [
+        "孙博文",
+        "Sun Bowen",
+        "文七"
+      ],
+      "search": [
+        "wen7",
+        "文七",
+        "wenqi",
+        "wq",
+        "孙博文",
+        "sunbowen",
+        "sbw",
+        "sun bowen"
+      ],
+      "country": "中国",
+      "team": "MnK",
+      "teamHistory": [
+        "DNZ Young",
+        "No Regret Life"
+      ],
+      "role": "输出",
+      "debutYear": 2021,
+      "status": "retired",
+      "placements": [],
+      "earnings": 2234,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：MnK",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Wen7"
+      ]
+    },
+    {
       "id": "wenxx",
       "name": "WenXx",
       "cn": "文轩",
       "aliases": [
         "李文轩",
         "Li Wenxuan",
-        "轩辰",
         "文轩",
+        "Donut",
+        "Dount",
+        "轩辰",
         "轩轩"
       ],
       "search": [
@@ -731,6 +1651,8 @@
         "liwenxuan",
         "lwx",
         "li wenxuan",
+        "donut",
+        "dount",
         "轩辰",
         "xuanchen",
         "xc",
@@ -775,6 +1697,12 @@
           "event": "ALGS: 2025 Split 2 Pro League - APAC South"
         },
         {
+          "date": "2026-01-18",
+          "place": 23,
+          "tier": "S",
+          "event": "ALGS: 2026 Championship"
+        },
+        {
           "date": "2026-06-06",
           "place": 1,
           "tier": "A",
@@ -798,6 +1726,1257 @@
       "verified": false,
       "sources": [
         "https://liquipedia.net/apexlegends/WenXx"
+      ]
+    },
+    {
+      "id": "wuy",
+      "name": "Wuy",
+      "cn": "乌云",
+      "aliases": [
+        "乌云",
+        "Wuy7",
+        "乌云爱吃西瓜"
+      ],
+      "search": [
+        "wuy",
+        "乌云",
+        "wuyun",
+        "wy",
+        "wuy7",
+        "乌云爱吃西瓜",
+        "wuyunaichixigua",
+        "wyacxg"
+      ],
+      "country": "中国",
+      "team": "April",
+      "teamHistory": [],
+      "role": "输出",
+      "debutYear": 2020,
+      "status": "retired",
+      "placements": [],
+      "earnings": 568,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Wuy"
+      ]
+    },
+    {
+      "id": "xd",
+      "name": "Xd",
+      "aliases": [
+        "赵文博",
+        "Zhao Wenbo",
+        "iuuopo"
+      ],
+      "search": [
+        "xd",
+        "赵文博",
+        "zhaowenbo",
+        "zwb",
+        "zhao wenbo",
+        "iuuopo"
+      ],
+      "country": "中国",
+      "team": "Pork Xiaolongbao Xpert",
+      "teamHistory": [
+        "XNY",
+        "Source Gaming",
+        "JD Gaming",
+        "Cupid eSports"
+      ],
+      "role": "指挥",
+      "debutYear": 2022,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2024-07-07",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2024-12-15",
+          "place": 6,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - APAC South"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2026-06-06",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 8,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - APAC South"
+        }
+      ],
+      "earnings": 27434,
+      "tier": 2,
+      "verified": false,
+      "notes": "Pork Xiaolongbao Xpert 队长（Liquipedia 战队页 captain）",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Xd"
+      ]
+    },
+    {
+      "id": "xiaokai",
+      "name": "XiaoKai",
+      "cn": "小凯",
+      "aliases": [
+        "高源",
+        "Gao Yuan",
+        "小凯",
+        "Aprank",
+        "凯皇",
+        "老惹"
+      ],
+      "search": [
+        "xiaokai",
+        "小凯",
+        "xk",
+        "高源",
+        "gaoyuan",
+        "gy",
+        "gao yuan",
+        "aprank",
+        "凯皇",
+        "kaihuang",
+        "kh",
+        "老惹",
+        "laore",
+        "lr"
+      ],
+      "country": "中国",
+      "team": "MDY",
+      "teamHistory": [
+        "EHOME",
+        "DreamFire",
+        "A3E",
+        "MDY White",
+        "Final Crazy",
+        "SaWeiQi E-sport",
+        "VK Gaming"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2020-09-13",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - APAC South"
+        },
+        {
+          "date": "2020-12-20",
+          "place": 6,
+          "tier": "A",
+          "event": "ALGS Autumn Circuit Playoffs - APAC South"
+        },
+        {
+          "date": "2021-06-05",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - APAC South"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
+        }
+      ],
+      "earnings": 15045,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：MDY",
+      "sources": [
+        "https://liquipedia.net/apexlegends/XiaoKai"
+      ]
+    },
+    {
+      "id": "youl1ng",
+      "name": "YouL1ng",
+      "cn": "幽灵",
+      "aliases": [
+        "罗天骄",
+        "Luo Tianjiao",
+        "幽灵",
+        "YouL1ngTxT",
+        "U0"
+      ],
+      "search": [
+        "youl1ng",
+        "幽灵",
+        "youling",
+        "yl",
+        "罗天骄",
+        "luotianjiao",
+        "ltj",
+        "luo tianjiao",
+        "youl1ngtxt",
+        "u0"
+      ],
+      "country": "中国",
+      "team": "MDY Black",
+      "teamHistory": [
+        "MDY",
+        "VK Gaming",
+        "Final Crazy",
+        "SaWeiQi E-sport"
+      ],
+      "role": "输出",
+      "debutYear": 2020,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2022-12-10",
+          "place": 9,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2024-03-10",
+          "place": 16,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 5,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
+        }
+      ],
+      "earnings": 12047,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：MDY Black",
+      "sources": [
+        "https://liquipedia.net/apexlegends/YouL1ng"
+      ]
+    },
+    {
+      "id": "yus",
+      "name": "Yus",
+      "cn": "余生",
+      "aliases": [
+        "余骏成",
+        "Yu Juncheng",
+        "余生",
+        "余生0824"
+      ],
+      "search": [
+        "yus",
+        "余生",
+        "yusheng",
+        "ys",
+        "余骏成",
+        "yujuncheng",
+        "yjc",
+        "yu juncheng",
+        "余生0824",
+        "yusheng0824",
+        "ys0824"
+      ],
+      "country": "中国",
+      "team": "Chinese KungFu",
+      "teamHistory": [
+        "Invictus Gaming",
+        "DreamFire"
+      ],
+      "role": "输出",
+      "debutYear": 2020,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2020-09-13",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - APAC South"
+        },
+        {
+          "date": "2021-03-27",
+          "place": 11,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - APAC South"
+        },
+        {
+          "date": "2021-06-05",
+          "place": 13,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - APAC South"
+        }
+      ],
+      "earnings": 4840,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：Chinese KungFu",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Yus"
+      ]
+    },
+    {
+      "id": "zhous",
+      "name": "ZhouS",
+      "cn": "周神",
+      "aliases": [
+        "周神"
+      ],
+      "search": [
+        "zhous",
+        "周神",
+        "zhoushen",
+        "zs"
+      ],
+      "country": "中国",
+      "team": "shadow3690",
+      "teamHistory": [],
+      "role": "输出",
+      "debutYear": 2023,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2024-12-15",
+          "place": 11,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - APAC South"
+        },
+        {
+          "date": "2025-02-02",
+          "place": 38,
+          "tier": "S",
+          "event": "ALGS: 2025 Championship"
+        }
+      ],
+      "earnings": 17,
+      "tier": 2,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：shadow3690",
+      "sources": [
+        "https://liquipedia.net/apexlegends/ZhouS"
+      ]
+    },
+    {
+      "id": "asaran",
+      "name": "Asaran",
+      "cn": "浅岚",
+      "aliases": [
+        "浅岚",
+        "asaran",
+        "asaran浅岚",
+        "岚师傅"
+      ],
+      "search": [
+        "asaran",
+        "浅岚",
+        "qianlan",
+        "ql",
+        "asaran浅岚",
+        "asaranqianlan",
+        "asaranql",
+        "岚师傅",
+        "lanshifu",
+        "lsf"
+      ],
+      "country": "中国",
+      "team": "MXF",
+      "teamHistory": [],
+      "role": "指挥",
+      "debutYear": 2021,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2024-03-10",
+          "place": 29,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 29,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2025-08-21",
+          "place": 23,
+          "tier": "A",
+          "event": "Mellow Paws Pawling Cup"
+        }
+      ],
+      "earnings": 1052,
+      "tier": 3,
+      "verified": false,
+      "notes": "MXF 队长（Liquipedia 战队页 captain）",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Asaran"
+      ]
+    },
+    {
+      "id": "azu",
+      "name": "AZu",
+      "cn": "阿祖",
+      "aliases": [
+        "阿祖",
+        "uZA",
+        "azu2tap",
+        "AZu2tap",
+        "AZu97",
+        "祖子哥"
+      ],
+      "search": [
+        "azu",
+        "阿祖",
+        "az",
+        "uza",
+        "azu2tap",
+        "azu97",
+        "祖子哥",
+        "zuzige",
+        "zzg"
+      ],
+      "country": "中国",
+      "team": "WarMonster FireBird",
+      "teamHistory": [
+        "Golden Sage",
+        "VK Gaming"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2024-03-10",
+          "place": 20,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 18,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
+        }
+      ],
+      "earnings": 6779,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/AZu"
+      ]
+    },
+    {
+      "id": "bieyun",
+      "name": "Bieyun",
+      "cn": "别云A",
+      "aliases": [
+        "潘刘扬",
+        "Pan Liuyang",
+        "别云A",
+        "别云"
+      ],
+      "search": [
+        "bieyun",
+        "别云a",
+        "bieyuna",
+        "bya",
+        "潘刘扬",
+        "panliuyang",
+        "ply",
+        "pan liuyang",
+        "别云",
+        "by"
+      ],
+      "country": "中国",
+      "team": "DaBing SaWeiQi",
+      "teamHistory": [
+        "DNZ",
+        "MDY Black",
+        "MDY",
+        "Final Dream",
+        "EDward Gaming"
+      ],
+      "role": "输出",
+      "debutYear": 2021,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2022-12-10",
+          "place": 25,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2024-03-10",
+          "place": 19,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 10,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2025-06-14",
+          "place": 12,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2025-10-11",
+          "place": 20,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2026-06-06",
+          "place": 14,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 14,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - APAC South"
+        }
+      ],
+      "earnings": 5296,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Bieyun"
+      ]
+    },
+    {
+      "id": "elysian",
+      "name": "Elysian",
+      "cn": "绿豆",
+      "aliases": [
+        "张健",
+        "Zhang Jian",
+        "绿豆",
+        "ElysianD",
+        "SLTTF24",
+        "Elysian绿豆",
+        "豆子哥",
+        "鹅皇"
+      ],
+      "search": [
+        "elysian",
+        "绿豆",
+        "lüdou",
+        "ld",
+        "张健",
+        "zhangjian",
+        "zj",
+        "zhang jian",
+        "elysiand",
+        "slttf24",
+        "elysian绿豆",
+        "elysianlüdou",
+        "elysianld",
+        "豆子哥",
+        "douzige",
+        "dzg",
+        "鹅皇",
+        "ehuang",
+        "eh"
+      ],
+      "country": "中国",
+      "team": "Keep Going Gaming",
+      "teamHistory": [],
+      "role": "输出",
+      "debutYear": 2023,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2025-06-14",
+          "place": 18,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 1 Pro League - APAC South"
+        }
+      ],
+      "earnings": 667,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：Keep Going Gaming",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Elysian"
+      ]
+    },
+    {
+      "id": "ftyan",
+      "name": "Ftyan",
+      "cn": "えふちゃん",
+      "aliases": [
+        "金指 拓海",
+        "Takumi Kanasashi",
+        "えふちゃん"
+      ],
+      "search": [
+        "ftyan",
+        "えふちゃん",
+        "金指 拓海",
+        "jinzhi tuohai",
+        "jz th",
+        "takumi kanasashi"
+      ],
+      "country": "日本",
+      "team": "TIE",
+      "teamHistory": [
+        "Tyr Aris",
+        "SCARZ Black",
+        "Team UNITE",
+        "PULVEREX",
+        "REIGNITE"
+      ],
+      "role": "输出",
+      "debutYear": 2020,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2021-03-28",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - APAC North"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - APAC North"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs"
+        },
+        {
+          "date": "2023-07-16",
+          "place": 16,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 2 Playoffs"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 17,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        }
+      ],
+      "earnings": 95524,
+      "tier": 3,
+      "verified": false,
+      "notes": "日本选手，国际补充；位置待核实；当前无战队，显示最近一支：TIE",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Ftyan"
+      ]
+    },
+    {
+      "id": "heihua",
+      "name": "HeiHua",
+      "cn": "黑化的王",
+      "aliases": [
+        "黑化的王",
+        "黑化"
+      ],
+      "search": [
+        "heihua",
+        "黑化的王",
+        "heihuadewang",
+        "hhdw",
+        "黑化",
+        "hh"
+      ],
+      "country": "中国",
+      "team": "Kill Devil",
+      "teamHistory": [],
+      "role": "输出",
+      "debutYear": 2023,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2024-03-10",
+          "place": 30,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - APAC South"
+        }
+      ],
+      "earnings": 1471,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：Kill Devil",
+      "sources": [
+        "https://liquipedia.net/apexlegends/HeiHua"
+      ]
+    },
+    {
+      "id": "jacky1",
+      "name": "Jacky1",
+      "cn": "佛山第一密客",
+      "aliases": [
+        "张梓杰",
+        "Zhang Zijie",
+        "佛山第一密客",
+        "Jackyar",
+        "JK",
+        "佛一密"
+      ],
+      "search": [
+        "jacky1",
+        "佛山第一密客",
+        "foshandiyimike",
+        "fsdymk",
+        "张梓杰",
+        "zhangzijie",
+        "zzj",
+        "zhang zijie",
+        "jackyar",
+        "jk",
+        "佛一密",
+        "foyimi",
+        "fym"
+      ],
+      "country": "中国",
+      "team": "shadow3690",
+      "teamHistory": [
+        "Bilibili Gaming",
+        "Victorious Gaming",
+        "DreamFire",
+        "Avenger",
+        "Moon Sun",
+        "AGL"
+      ],
+      "role": "指挥",
+      "debutYear": 2021,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2021-12-05",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2023-04-29",
+          "place": 8,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - APAC South"
+        },
+        {
+          "date": "2024-03-10",
+          "place": 12,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - APAC South"
+        }
+      ],
+      "earnings": 12008,
+      "tier": 3,
+      "verified": false,
+      "notes": "Aggressive Gamers Lunging 队长（Liquipedia 战队页 captain）；当前无战队，显示最近一支：shadow3690",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Jacky1"
+      ]
+    },
+    {
+      "id": "juxo",
+      "name": "Juxo",
+      "aliases": [],
+      "search": [
+        "juxo"
+      ],
+      "country": "日本",
+      "team": "White Grim Reaper",
+      "teamHistory": [
+        "xTies",
+        "VortexWolf Ate",
+        "VortexWolf",
+        "WGR",
+        "White Grim Reaper NEO"
+      ],
+      "role": "输出",
+      "debutYear": 2023,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2025-08-21",
+          "place": 9,
+          "tier": "A",
+          "event": "Mellow Paws Pawling Cup"
+        },
+        {
+          "date": "2025-10-12",
+          "place": 24,
+          "tier": "A",
+          "event": "ALGS: 2025 Split 2 Pro League - APAC North"
+        },
+        {
+          "date": "2026-06-07",
+          "place": 5,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 1 Pro League - APAC North"
+        },
+        {
+          "date": "2026-07-11",
+          "place": 32,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 1 Playoffs"
+        },
+        {
+          "date": "2026-09-13",
+          "place": 10,
+          "tier": "A",
+          "event": "ALGS: 2026 Split 2 Pro League - APAC North"
+        },
+        {
+          "date": "2026-11-01",
+          "place": 6,
+          "tier": "S",
+          "event": "ALGS: 2026 Split 2 Playoffs"
+        }
+      ],
+      "earnings": 40484,
+      "tier": 3,
+      "verified": false,
+      "notes": "日本选手，国际补充；位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Juxo"
+      ]
+    },
+    {
+      "id": "luohan",
+      "name": "LuoHan",
+      "cn": "落寒",
+      "aliases": [
+        "何雨航",
+        "He Yuhang",
+        "落寒",
+        "LuoHanX"
+      ],
+      "search": [
+        "luohan",
+        "落寒",
+        "lh",
+        "何雨航",
+        "heyuhang",
+        "hyh",
+        "he yuhang",
+        "luohanx"
+      ],
+      "country": "中国",
+      "team": "Kill Devil",
+      "teamHistory": [],
+      "role": "输出",
+      "debutYear": 2023,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2024-03-10",
+          "place": 30,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - APAC South"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 11,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC South"
+        }
+      ],
+      "earnings": 2623,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：Kill Devil",
+      "sources": [
+        "https://liquipedia.net/apexlegends/LuoHan"
+      ]
+    },
+    {
+      "id": "parkha",
+      "name": "Parkha",
+      "aliases": [
+        "오정택",
+        "Oh Jeong-teak"
+      ],
+      "search": [
+        "parkha",
+        "오정택",
+        "oh jeong-teak"
+      ],
+      "country": "韩国",
+      "team": "GROW Gaming Korea",
+      "teamHistory": [
+        "T1 Korea",
+        "T1",
+        "RIDDLE",
+        "esports team αD",
+        "Crazy Raccoon"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2019-09-15",
+          "place": 3,
+          "tier": "S",
+          "event": "Apex Legends Preseason Invitational"
+        },
+        {
+          "date": "2020-09-12",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS Summer Circuit Playoffs - APAC North"
+        },
+        {
+          "date": "2021-03-28",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS Winter Circuit Playoffs - APAC North"
+        },
+        {
+          "date": "2021-06-06",
+          "place": 3,
+          "tier": "S",
+          "event": "ALGS Championship 2021 - APAC North"
+        },
+        {
+          "date": "2021-12-05",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2021 Split 1 Pro League - APAC North"
+        },
+        {
+          "date": "2022-01-23",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Playoffs - APAC North"
+        },
+        {
+          "date": "2022-03-27",
+          "place": 1,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - APAC North"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 10,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2022-12-11",
+          "place": 3,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Pro League - APAC North"
+        }
+      ],
+      "earnings": 143310,
+      "tier": 3,
+      "verified": false,
+      "notes": "韩国选手，国际补充；位置待核实；当前无战队，显示最近一支：GROW Gaming Korea",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Parkha"
+      ]
+    },
+    {
+      "id": "sangjoon",
+      "name": "SangJoon",
+      "aliases": [
+        "한상준",
+        "Han Sang-joon",
+        "dr1p"
+      ],
+      "search": [
+        "sangjoon",
+        "한상준",
+        "han sang-joon",
+        "dr1p"
+      ],
+      "country": "韩国",
+      "team": "Crazy Raccoon",
+      "teamHistory": [
+        "5PM supremacy",
+        "FOR7",
+        "fun123",
+        "REALIZE",
+        "REJECT WINNITY"
+      ],
+      "role": "输出",
+      "debutYear": 2021,
+      "status": "retired",
+      "placements": [
+        {
+          "date": "2022-03-27",
+          "place": 7,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 2 Pro League - APAC North"
+        },
+        {
+          "date": "2022-05-01",
+          "place": 19,
+          "tier": "S",
+          "event": "ALGS: 2022 Split 2 Playoffs"
+        },
+        {
+          "date": "2022-07-10",
+          "place": 31,
+          "tier": "S",
+          "event": "ALGS: 2022 Championship"
+        },
+        {
+          "date": "2023-02-05",
+          "place": 14,
+          "tier": "S",
+          "event": "ALGS: 2023 Split 1 Playoffs"
+        },
+        {
+          "date": "2023-05-06",
+          "place": 4,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - APAC North"
+        },
+        {
+          "date": "2023-09-10",
+          "place": 9,
+          "tier": "S",
+          "event": "ALGS: 2023 Championship"
+        },
+        {
+          "date": "2024-03-09",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 1 Pro League - APAC North"
+        },
+        {
+          "date": "2024-05-05",
+          "place": 1,
+          "tier": "S",
+          "event": "ALGS: 2024 Split 1 Playoffs"
+        },
+        {
+          "date": "2024-12-14",
+          "place": 1,
+          "tier": "A",
+          "event": "BLGS: 2024 Regional Finals - APAC North"
+        }
+      ],
+      "earnings": 159086,
+      "tier": 3,
+      "verified": false,
+      "notes": "韩国选手，国际补充；位置待核实；当前无战队，显示最近一支：Crazy Raccoon",
+      "sources": [
+        "https://liquipedia.net/apexlegends/SangJoon"
+      ]
+    },
+    {
+      "id": "shirayuki-reid",
+      "name": "Shirayuki Reid",
+      "cn": "白雪レイド",
+      "aliases": [
+        "白雪 レイド",
+        "Reid Shirayuki",
+        "白雪レイド",
+        "BIG_REID_STAR"
+      ],
+      "search": [
+        "shirayuki reid",
+        "白雪レイド",
+        "baixueレイド",
+        "bxレイド",
+        "白雪 レイド",
+        "baixue レイド",
+        "bx レイド",
+        "reid shirayuki",
+        "big_reid_star"
+      ],
+      "country": "日本",
+      "team": "Neo-Porte",
+      "teamHistory": [
+        "V Gaming",
+        "merise"
+      ],
+      "role": "输出",
+      "debutYear": 2019,
+      "status": "active",
+      "placements": [],
+      "earnings": 3847,
+      "tier": 3,
+      "verified": false,
+      "notes": "日本选手，国际补充；Liquipedia 未填活跃年份；位置待核实；出道年按队伍履历最早年份推断为 2019（Liquipedia 未填 years_active）",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Shirayuki%20Reid"
+      ]
+    },
+    {
+      "id": "su2tap",
+      "name": "Su2tap",
+      "cn": "苏耳塔噗",
+      "aliases": [
+        "苏子敬",
+        "Su Zijing",
+        "苏耳塔噗",
+        "老苏",
+        "苏耳塔噗大魔王"
+      ],
+      "search": [
+        "su2tap",
+        "苏耳塔噗",
+        "suertapu",
+        "setp",
+        "苏子敬",
+        "suzijing",
+        "szj",
+        "su zijing",
+        "老苏",
+        "laosu",
+        "ls",
+        "苏耳塔噗大魔王",
+        "suertapudamowang",
+        "setpdmw"
+      ],
+      "country": "中国",
+      "team": "MDY Black",
+      "teamHistory": [
+        "Gao Qian"
+      ],
+      "role": "输出",
+      "debutYear": 2021,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2022-12-10",
+          "place": 27,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Pro League - APAC South"
+        }
+      ],
+      "earnings": 585,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：MDY Black",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Su2tap"
+      ]
+    },
+    {
+      "id": "taida",
+      "name": "Taida",
+      "cn": "怠惰",
+      "aliases": [
+        "高橋 翔一",
+        "Shoichi Takahashi",
+        "怠惰"
+      ],
+      "search": [
+        "taida",
+        "怠惰",
+        "daiduo",
+        "dd",
+        "高橋 翔一",
+        "gaoqiao xiangyi",
+        "gq xy",
+        "shoichi takahashi"
+      ],
+      "country": "日本",
+      "team": "REIGNITE",
+      "teamHistory": [
+        "Team GENIUS",
+        "NEVIS",
+        "NORTHEPTION",
+        "TIE",
+        "GHS",
+        "RIDDLE"
+      ],
+      "role": "输出",
+      "debutYear": 2020,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2022-12-11",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2022 Split 1 Pro League - APAC North"
+        },
+        {
+          "date": "2023-05-06",
+          "place": 2,
+          "tier": "A",
+          "event": "ALGS: 2023 Split 2 Pro League - APAC North"
+        },
+        {
+          "date": "2024-07-07",
+          "place": 8,
+          "tier": "A",
+          "event": "ALGS: 2024 Split 2 Pro League - APAC North"
+        },
+        {
+          "date": "2024-08-04",
+          "place": 22,
+          "tier": "S",
+          "event": "Esports World Cup 2024"
+        }
+      ],
+      "earnings": 27419,
+      "tier": 3,
+      "verified": false,
+      "notes": "日本选手，国际补充；位置待核实",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Taida"
+      ]
+    },
+    {
+      "id": "top",
+      "name": "Top",
+      "aliases": [
+        "曾丞",
+        "Zeng Cheng"
+      ],
+      "search": [
+        "top",
+        "曾丞",
+        "zengcheng",
+        "zc",
+        "zeng cheng"
+      ],
+      "country": "中国",
+      "team": "StarShine Esport-Xray",
+      "teamHistory": [],
+      "role": "输出",
+      "debutYear": 2023,
+      "status": "active",
+      "placements": [
+        {
+          "date": "2024-02-25",
+          "place": 19,
+          "tier": "A",
+          "event": "Asia Festival - 2024 Winter"
+        }
+      ],
+      "earnings": 327,
+      "tier": 3,
+      "verified": false,
+      "notes": "位置待核实；当前无战队，显示最近一支：StarShine Esport-Xray",
+      "sources": [
+        "https://liquipedia.net/apexlegends/Top"
       ]
     }
   ]

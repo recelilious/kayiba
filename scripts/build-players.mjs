@@ -12,6 +12,7 @@
 import { existsSync, readFileSync, writeFileSync } from 'node:fs'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { pinyin } from 'pinyin-pro'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = resolve(__dirname, '..')
@@ -59,11 +60,28 @@ const COUNTRY = {
   Vietnam: '越南',
 }
 
+/** years_active 缺失时，用队伍履历 / 战绩的最早年份兜底（数据来自 Liquipedia 本身） */
+function earliestYear(h) {
+  const years = [...(h.history ?? []).map((x) => x.range), ...(h.results ?? []).map((x) => x.date)]
+    .map((s) => Number(String(s ?? '').match(/^(\d{4})/)?.[1]))
+    .filter((y) => Number.isFinite(y) && y >= 2014 && y <= 2026)
+  return years.length > 0 ? Math.min(...years) : 0
+}
+
 function slugify(title) {
-  return title
+  const ascii = title
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-|-$/g, '')
+  if (ascii) return ascii
+  // 纯中文页面标题（如「战术级子轩」）没有 ASCII 部分，用拼音兜底
+  const romanized = pinyin(title, { toneType: 'none', type: 'array' }).join('-')
+  return (
+    romanized
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '') || 'player'
+  )
 }
 
 function main() {
@@ -108,15 +126,23 @@ function main() {
     const teamIsHistorical = !h.currentTeam && effectiveTeam !== '无'
 
     const placements = (h.results ?? [])
-      .filter((r) => (r.tier === 'S' || r.tier === 'A') && Number.isFinite(r.place) && r.place <= 10)
+      .filter((r) => (r.tier === 'S' || r.tier === 'A') && Number.isFinite(r.place) && r.place >= 1)
       .map((r) => ({ date: r.date, place: r.place, tier: r.tier, event: r.event }))
       .sort((a, b) => a.date.localeCompare(b.date))
 
-    const aliases = [...new Set([w.name, w.romanized, ...(w.nicknames ?? [])].filter(Boolean))]
+    // ids 是选手用过的其他 ID（如 BoLin 曾用 Boring），localid 是中文昵称，一并算作别名
+    const aliases = [
+      ...new Set(
+        [w.name, w.romanized, w.localid, ...(w.ids ?? []), ...(w.nicknames ?? [])].filter(Boolean),
+      ),
+    ]
+
+    const derivedDebut = w.debutYear ?? earliestYear(h)
 
     players.push({
       id: slug,
-      name: w.id || w.title,
+      // 页面标题是选手 ID 的规范写法（infobox 的 id 有时是小写，如 kuRong / xd）
+      name: w.title || w.id,
       ...(w.localid ? { cn: w.localid } : {}),
       aliases,
       search: [],
@@ -124,7 +150,7 @@ function main() {
       team: effectiveTeam,
       teamHistory,
       role: m.role === '指挥' ? '指挥' : '输出',
-      debutYear: w.debutYear ?? 0,
+      debutYear: derivedDebut,
       status: (h.status ?? '').toLowerCase() === 'retired' ? 'retired' : 'active',
       placements,
       earnings: h.earnings ?? 0,
@@ -133,6 +159,9 @@ function main() {
       ...(() => {
         const parts = []
         if (m.notes) parts.push(m.notes)
+        if (!w.debutYear && derivedDebut) {
+          parts.push(`出道年按队伍履历最早年份推断为 ${derivedDebut}（Liquipedia 未填 years_active）`)
+        }
         if (teamIsHistorical) parts.push(`当前无战队，显示最近一支：${effectiveTeam}`)
         return parts.length > 0 ? { notes: parts.join('；') } : {}
       })(),
